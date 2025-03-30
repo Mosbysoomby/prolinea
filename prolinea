@@ -67,7 +67,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
 https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-----------------------------NACIONAL----------------------
+----------------------------NOTICIAS----------------------
 
 
 #EXTINF:-1 tvg-chno="14" tvg-id="A24.ar" tvg-name="A24.ar" tvg-shift="+0" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" tvg-group="20 - NOT. ARG. 1",A24
@@ -105,7 +105,7 @@ https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|ref
 #KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
 https://cdn.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-chno="20" group-title="Argentina" tvg-id="[EXTTV] Extra! TV", tvg-logo="https://i.ibb.co/BLpHBq6/extra.png", EXTRA TV
+#EXTINF:-1 tvg-chno="20" group-title="Argentina" tvg-id="[EXTTV] Extra! TV" tvg-logo="https://i.ibb.co/BLpHBq6/extra.png", EXTRA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea5121a9e3552ca221b5ad04f7f9631:0a4c2c76e86f11e71f3365b1b54fcaf9
 #EXTVLCOPT:http-origin=https://www.telecentroplay.com.ar
