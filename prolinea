@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-chno="2" tvg-id="" tvg-name="" tvg-shift="+0" tvg-logo="https://i.ibb.co/F6bXsYs/canal-c.png" tvg-group="13 - REG. CORDOBA",Canal C  (Cordoba)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a866ca98bef2351a68e4843139f8073:b0893077653d1ef842a1b65d8b34455a
