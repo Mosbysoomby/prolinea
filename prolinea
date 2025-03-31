@@ -476,6 +476,7 @@ https://cdn.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd?|referer
 #EXTINF:-1 tvg-chno="200" tvg-id="AandE.ar" tvg-name="AandE.ar" tvg-shift="+0" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AETV.png?raw=true" tvg-group="80 - LIFE.",A&E
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebc8294c36bb50fd4cc6cd89e34604bd:5d550080c8349e878fcd86821b91f74b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/AyE/live_dash_cld/AyE.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-chno="201" tvg-id="COMEDY CENTRAL.ar" tvg-name="COMEDY CENTRAL.ar" tvg-shift="+0" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CCENT.png?raw=true" tvg-group="80 - LIFE.",Comedy Central
