@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/generate/b26XUV2hRF.xml.gz"
 
-
 #EXTINF:-1 tvg-chno="2" tvg-id="0" tvg-name="0" tvg-shift="0" tvg-logo="https://i.ibb.co/F6bXsYs/canal-c.png" tvg-group="Cordoba",Canal C  (Cordoba)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -21,14 +20,8 @@ https://cdn.cvattv.com.ar/live/c4eds/CBA24/SA_Live_dash_enc_C/CBA24.mpd?|referer
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=ff1e6f58369fa0457670eb452cb49f8a:4a5b005a7dbd38fe00c50d27fa23ab0a
-https://cdn.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/SA_Live_dash_enc_C/Local_Carlos_Paz.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Telediario.ar" tvg-name="Telediario.ar" tvg-shift="+0" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Telediario-Television-Satelital-en-vivo-Online.png?w=1920&ssl=1" tvg-group="13 - REG. CORDOBA",TeleDiario TV  (Rio 4°)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-https://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://cdn.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/SA_Live_dash_enc_C/Local_Carlos_Paz.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-chno="6" tvg-id="AMERICA TV.ar" tvg-name="AMERICA TV.ar" tvg-shift="+0" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png" tvg-group="10 -NACIONAL",América
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -43,28 +36,16 @@ https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd?|r
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
-https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Telefe Cordoba.ar" tvg-name="Telefe Cordoba.ar" tvg-shift="+0" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/10/Telefe-Cordoba-2018-Logo-Vector.svg-.png" tvg-group="13 - REG. CORDOBA",Telefé Córdoba
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
-https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-chno="9" tvg-id="EL NUEVE.ar" tvg-name="EL NUEVE.ar" tvg-shift="+0" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" tvg-group="10 -NACIONAL",El nueve
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=faf29a5a543c9d82ef34ec2479140003:2452197f9d4eb63a3081d986ca413375
-https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Canal 10.CBA.ar" tvg-name="Canal 10.CBA.ar" tvg-shift="+0" tvg-logo="https://i.imgur.com/87WCHtd.png" tvg-group="13 - REG. CORDOBA",Canal 10
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
 #EXTINF:-1 tvg-chno="11" tvg-id="TELEFE.ar" tvg-name="TELEFE.ar" tvg-shift="+0" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_(nuevo_logo).png" tvg-group="10 -NACIONAL",Telefé
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -87,8 +68,156 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
+#KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
 https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-chno="20" tvg-id="Telemax.ar" tvg-name="Telemax.ar" tvg-shift="+0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png" tvg-group="20 - NOT. ARG. 1",Telemax
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
+https://cdn.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-chno="30" tvg-id="0" tvg-name="0" tvg-shift="+0" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BRAVO.png?raw=true" tvg-group="30 - INTERES GENERAL",Bravo TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
+https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-chno="33" tvg-id="0" tvg-name="0" tvg-shift="+0" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjDcEftxHSDqjmbRp_AmsP6jXlMfUUvvrTzRZZbNq-kGf1XhqB795jNAXWnFFEdCJPUMHQjHroAsauEZzGAl-YEmMHUe_aVTCh_08dUrag2ycjSRHL1KqCspurZr_tQF7XZmjjGcWAgJKjIuFCFk2hHpcF1a1KN_RFZHrSyyotJ3Fz8lMYo0vKrs1sx=s336" tvg-group="30 - INTERES GENERAL",KZO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18
+https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-chno="34" tvg-id="0" tvg-name="0" tvg-shift="+0" tvg-logo="https://static.flow.com.ar/images/10017/CH_LOGO/600/400/0/0/96357727079072.png" tvg-group="30 - INTERES GENERAL",MIX TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
+https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-chno="35" tvg-id="Metro.ar" tvg-name="Metro.ar" tvg-shift="+0" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/METRO.png?raw=true" tvg-group="30 - INTERES GENERAL",Metro
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=324ec73787744554ae1aef231a4f8f97:677a040674d1d0eccef327269b222bae
+https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-chno="36" tvg-id="CANAL A.ar" tvg-name="CANAL A.ar" tvg-shift="+0" tvg-logo="https://2.bp.blogspot.com/-Qt2mjUh2TJ0/W3HqV99lVtI/AAAAAAAAXZE/jbqehkicYhAtiKy6IotwRFuo9OT3InafgCLcBGAs/s1600/Logo_canal_a.png" tvg-group="30 - INTERES GENERAL",Canal (á)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=df3ed6245bb9af1a0346379e8e475dff:f86f8457438d4e449d53b956cc1be664
+https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc/Canal_a.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-chno="400" tvg-id="0" tvg-name="0" tvg-shift="+0" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Showsport-en-vivo-Online.png" tvg-group="71 - DEPORTES -ARG 1",Show Sports Córdoba
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
+https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc/Show_Sports.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-chno="410" tvg-id="ESPN Extra.ar" tvg-name="ESPN Extra.ar" tvg-shift="+0" tvg-logo="https://i.imgur.com/f62CqZZ.png" tvg-group="71 - DEPORTES -ARG 2",ESPN EXTRA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
+https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-chno="411" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-shift="+0" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-5@3x.png" tvg-group="71 - DEPORTES -ARG 2",ESPN 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
+https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-chno="412" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-shift="+0" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-6@3x.png" tvg-group="71 - DEPORTES -ARG 2",ESPN 6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
+https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-chno="413" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-shift="+0" tvg-logo="https://i.imgur.com/KjXO02I.png" tvg-group="71 - DEPORTES -ARG 2",ESPN 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
+https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-chno="423" tvg-id="TyC Sports HD.uy" tvg-name="TyC Sports HD.uy" tvg-shift="+0" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-cl-1246.png" tvg-group="75 - DEP. ARG. PREMIUM",TyC Sports Internacional
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
+https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_wl/TyC_Internacional.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-chno="525" tvg-id="Telefe Internacional.py" tvg-name="Telefe Internacional.py" tvg-shift="+0" tvg-logo="https://i.ibb.co/Xk2ZFyC/telefe-internacional.png" tvg-group="12 - NAC. INTERNACIONAL",Telefé Internacional
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iD/XLcm3LbM9e0+NwOsAFg","kid":"7oN9DsQU2VpRsMelfUnTBw"}],"type":"temporary"}
+https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-chno="530" tvg-id="0" tvg-name="0" tvg-shift="+0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" tvg-group="13 - REG. CORRIENTES",13Max Television
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://cdn.cvattv.com.ar/live/c4eds/CH_13_Corrientes/SA_Live_dash_enc/CH_13_Corrientes.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-chno="37" tvg-id="0" tvg-name="0" tvg-shift="+0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/UNIFE_logo.png" tvg-group="30 - INTERES GENERAL",Unifé
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+http://190.11.130.46/mnp/cn23/output.mpd
+
+#EXTINF:-1 tvg-chno="532" tvg-id="24/7 Canal de Noticias.ar" tvg-name="24/7 Canal de Noticias.ar" tvg-shift="+0" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuqu%C3%A9n.png" tvg-group="13 - REG. NEUQUEN",CN 24/7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=iPhone
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+
+#EXTINF:-1 tvg-chno="*" tvg-id="0" tvg-name="0" tvg-shift="+0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" tvg-group="13 - REG. CORRIENTES",13Max Television
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=iPhone
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="*" tvg-id="0" tvg-name="0" tvg-shift="+0" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/T5SAT.png?raw=true" tvg-group="13 - REG. CORRIENTES",T5 Satelital (Corrientes)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=iPhone
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="*" tvg-id="A24.ar" tvg-name="A24.ar" tvg-shift="+0" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" tvg-group="20 - NOT. ARG. 1",A24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=iPhone
+#KODIPROP:inputstream.adaptive.license_key=ff1e6f58369fa0457670eb452cb49f8a:4a5b005a7dbd38fe00c50d27fa23ab0a
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Telediario.ar" tvg-name="Telediario.ar" tvg-shift="+0" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/Telediario-Television-Satelital-en-vivo-Online.png?w=1920&ssl=1" tvg-group="13 - REG. CORDOBA",TeleDiario TV  (Rio 4°)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
+https://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Telefe Cordoba.ar" tvg-name="Telefe Cordoba.ar" tvg-shift="+0" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/10/Telefe-Cordoba-2018-Logo-Vector.svg-.png" tvg-group="13 - REG. CORDOBA",Telefé Córdoba
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=faf29a5a543c9d82ef34ec2479140003:2452197f9d4eb63a3081d986ca413375
+https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Canal 10.CBA.ar" tvg-name="Canal 10.CBA.ar" tvg-shift="+0" tvg-logo="https://i.imgur.com/87WCHtd.png" tvg-group="13 - REG. CORDOBA",Canal 10
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
+https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-chno="14" tvg-id="A24.ar" tvg-name="A24.ar" tvg-shift="+0" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" tvg-group="20 - NOT. ARG. 1",A24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -123,16 +252,8 @@ https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|ref
 #EXTINF:-1 tvg-chno="19" tvg-id="TN.ar" tvg-name="TN.ar" tvg-shift="+0" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" tvg-group="20 - NOT. ARG. 1",TN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
-https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-chno="20" tvg-id="Telemax.ar" tvg-name="Telemax.ar" tvg-shift="+0" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png" tvg-group="20 - NOT. ARG. 1",Telemax
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=1894229072ccac2d0f6a101d618d039d:9a7ea848df202bf22ac51bda4482a4c2  
-https://cdn.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-chno="21" tvg-id="0" tvg-name="0" tvg-shift="+0" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png" tvg-group="20 - NOT. ARG. 2",Canal E
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -143,22 +264,8 @@ https://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd?|referer=https://player
 #EXTINF:-1 tvg-chno="22" tvg-id="Canal Rural.ar" tvg-name="Canal Rural.ar" tvg-shift="+0" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" tvg-group="20 - NOT. ARG. 2",Canal Rural
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=8ea5121a9e3552ca221b5ad04f7f9631:0a4c2c76e86f11e71f3365b1b54fcaf9
-https://cdn.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-chno="23" tvg-id="Extra!.ar" tvg-name="Extra!.ar" tvg-shift="+0" tvg-logo="https://i.ibb.co/BLpHBq6/extra.png" tvg-group="20 - NOT. ARG. 2",Extra! TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=f4e509e988c595b2ebe01a53ae9f9f88:2e7e05d9053f97638edb6d5e8d791fd6
-http://m.mtd.llc:2082/extratv/index_fkr.mpd?|origin=https://www.telecentroplay.com.ar
-
-#EXTINF:-1 tvg-chno="24" tvg-id="0" tvg-name="0" tvg-shift="+0" tvg-logo="https://i.ibb.co/yFbrg0L/eldestape.png" tvg-group="20 - NOT. ARG. 2",El Destape TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=718f07e2beccf40cc207365ea8a70ef6:672d59d617c4a697025be0fb8d382cc0
-http://m.mtd.llc:2082/eldestape/index_fkr.mpd?|origin=https://www.telecentroplay.com.ar
+https://cdn.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-chno="25" tvg-id="CNN ESPAÑOL.ar" tvg-name="CNN ESPAÑOL.ar" tvg-shift="+0" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" tvg-group="21 - NOT. en ESP.",CNN En Español
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -175,15 +282,8 @@ https://cdn.sensa.com.ar/live/eds/DWChannel/live_dash_cld/DWChannel.mpd?|referer
 #EXTINF:-1 tvg-chno="27" tvg-id="CNN INTERNACIONAL.ar" tvg-name="CNN INTERNACIONAL.ar" tvg-shift="+0" tvg-logo="https://pluspng.com/img-png/cnn-logo-png-cnn-international-logo-png-transparent-amp-svg-vector-pluspng-2400x2400.png" tvg-group="22 - NOT. WORLD",CNN Internacional
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
-https://cdn.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-chno="30" tvg-id="0" tvg-name="0" tvg-shift="+0" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BRAVO.png?raw=true" tvg-group="30 - INTERES GENERAL",Bravo TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=014771c4a91db80e96f038ec0acfc304:e37fa696265923a6082de157662aab73  
-https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-chno="31" tvg-id="MAGAZINE.ar" tvg-name="MAGAZINE.ar" tvg-shift="+0" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CIUMA.png?raw=true" tvg-group="30 - INTERES GENERAL",Ciudad Magazine
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -194,41 +294,8 @@ https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mp
 #EXTINF:-1 tvg-chno="32" tvg-id="NET TV.ar" tvg-name="NET TV.ar" tvg-shift="+0" tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png" tvg-group="30 - INTERES GENERAL",Net TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
-https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-chno="33" tvg-id="0" tvg-name="0" tvg-shift="+0" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjDcEftxHSDqjmbRp_AmsP6jXlMfUUvvrTzRZZbNq-kGf1XhqB795jNAXWnFFEdCJPUMHQjHroAsauEZzGAl-YEmMHUe_aVTCh_08dUrag2ycjSRHL1KqCspurZr_tQF7XZmjjGcWAgJKjIuFCFk2hHpcF1a1KN_RFZHrSyyotJ3Fz8lMYo0vKrs1sx=s336" tvg-group="30 - INTERES GENERAL",KZO
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18
-https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-chno="34" tvg-id="0" tvg-name="0" tvg-shift="+0" tvg-logo="https://static.flow.com.ar/images/10017/CH_LOGO/600/400/0/0/96357727079072.png" tvg-group="30 - INTERES GENERAL",MIX TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
-https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-chno="35" tvg-id="Metro.ar" tvg-name="Metro.ar" tvg-shift="+0" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/METRO.png?raw=true" tvg-group="30 - INTERES GENERAL",Metro
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=324ec73787744554ae1aef231a4f8f97:677a040674d1d0eccef327269b222bae
-https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-chno="36" tvg-id="CANAL A.ar" tvg-name="CANAL A.ar" tvg-shift="+0" tvg-logo="https://2.bp.blogspot.com/-Qt2mjUh2TJ0/W3HqV99lVtI/AAAAAAAAXZE/jbqehkicYhAtiKy6IotwRFuo9OT3InafgCLcBGAs/s1600/Logo_canal_a.png" tvg-group="30 - INTERES GENERAL",Canal (á)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc/Canal_a.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-chno="37" tvg-id="0" tvg-name="0" tvg-shift="+0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/UNIFE_logo.png" tvg-group="30 - INTERES GENERAL",Unifé
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 #KODIPROP:inputstream.adaptive.license_key=5cf6da7262ddb74c2f370ded6056f46c:78109125565ab1747f511f7e77e3bbaf
-http://190.11.130.46/mnp/cn23/output.mpd
+https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-chno="50" tvg-id="BABY TV.ar" tvg-name="BABY TV.ar" tvg-shift="+0" tvg-logo="https://1.bp.blogspot.com/-QY72YPUZ_-A/X8_CSWEtfxI/AAAAAAAA7kg/S8H7gAJczlImH4fE131WrPpb_VRz2Md4ACLcBGAsYHQ/s500/babytv-2017.png" tvg-group="40 - INF. BABY",Baby TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -731,16 +798,8 @@ https://cdn.sensa.com.ar/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd?|referer=h
 #EXTINF:-1 tvg-chno="315" tvg-id="EWTN.ar" tvg-name="EWTN.ar" tvg-shift="+0" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EWTNE.png?raw=true" tvg-group="86 - RELIGIOSO",EWTN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=df3ed6245bb9af1a0346379e8e475dff:f86f8457438d4e449d53b956cc1be664
-https://cdn.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-chno="400" tvg-id="0" tvg-name="0" tvg-shift="+0" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Showsport-en-vivo-Online.png" tvg-group="71 - DEPORTES -ARG 1",Show Sports Córdoba
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
-https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc/Show_Sports.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-chno="401" tvg-id="DXTV.ar" tvg-name="DXTV.ar" tvg-shift="+0" tvg-logo="https://git.io/JOTOg" tvg-group="71 - DEPORTES -ARG 1",DeporTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -793,39 +852,8 @@ https://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd?|refer
 #EXTINF:-1 tvg-chno="409" tvg-id="TYC SPORTS.ar" tvg-name="TYC SPORTS.ar" tvg-shift="+0" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" tvg-group="71 - DEPORTES -ARG 2",TyC Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
-https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-chno="410" tvg-id="ESPN Extra.ar" tvg-name="ESPN Extra.ar" tvg-shift="+0" tvg-logo="https://i.imgur.com/f62CqZZ.png" tvg-group="71 - DEPORTES -ARG 2",ESPN EXTRA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
-https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-chno="411" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-shift="+0" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-5@3x.png" tvg-group="71 - DEPORTES -ARG 2",ESPN 5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-chno="412" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-shift="+0" tvg-logo="https://mondrian.claro.com.br/channels/inverse/espn-6@3x.png" tvg-group="71 - DEPORTES -ARG 2",ESPN 6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-chno="413" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-shift="+0" tvg-logo="https://i.imgur.com/KjXO02I.png" tvg-group="71 - DEPORTES -ARG 2",ESPN 7
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=f9a70c294ea75346b991a61c55ff1d8f:7012eb6cd752998ee5cfbe68517491f5
-https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-chno="414" tvg-id="America Sports.ar" tvg-name="America Sports.ar" tvg-shift="+0" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMESP.png" tvg-group="71 - DEPORTES -ARG 3",América Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -878,16 +906,8 @@ https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer
 #EXTINF:-1 tvg-chno="422" tvg-id="TyC Sports 2.ar" tvg-name="TyC Sports 2.ar" tvg-shift="+0" tvg-logo="https://i.ibb.co/ZJMgxxp/tyc-sports2.png" tvg-group="75 - DEP. ARG. PREMIUM",TyC Sports 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
-https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-chno="423" tvg-id="TyC Sports HD.uy" tvg-name="TyC Sports HD.uy" tvg-shift="+0" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-cl-1246.png" tvg-group="75 - DEP. ARG. PREMIUM",TyC Sports Internacional
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=0ae7b0708be4edf3453c1ab9d6976974:8b31a9788f6dc12640ba69560fcb4b39
-https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_wl/TyC_Internacional.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-chno="500" tvg-id="TELEMUNDO.ar" tvg-name="TELEMUNDO.ar" tvg-shift="+0" tvg-logo="https://git.io/JOTtz" tvg-group="60 - INTER. ESP.",Telemundo Internacional
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -952,37 +972,14 @@ https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https
 #EXTINF:-1 tvg-chno="524" tvg-id="TV PUBLICA.ar" tvg-name="TV PUBLICA.ar" tvg-shift="+0" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" tvg-group="11 - NAC. REG.",TV Pública Satelital
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
-https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-chno="525" tvg-id="Telefe Internacional.py" tvg-name="Telefe Internacional.py" tvg-shift="+0" tvg-logo="https://i.ibb.co/Xk2ZFyC/telefe-internacional.png" tvg-group="12 - NAC. INTERNACIONAL",Telefé Internacional
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-chno="526" tvg-id="America.uy" tvg-name="America.uy" tvg-shift="+0" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png" tvg-group="12 - NAC. INTERNACIONAL",América Internacional
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iD/XLcm3LbM9e0+NwOsAFg","kid":"7oN9DsQU2VpRsMelfUnTBw"}],"type":"temporary"}
-http://190.2.212.209:8050/play/a0pb
-
-#EXTINF:-1 tvg-chno="530" tvg-id="0" tvg-name="0" tvg-shift="+0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" tvg-group="13 - REG. CORRIENTES",13Max Television
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584  
-https://cdn.cvattv.com.ar/live/c4eds/CH_13_Corrientes/SA_Live_dash_enc/CH_13_Corrientes.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-chno="531" tvg-id="0" tvg-name="0" tvg-shift="+0" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/T5SAT.png?raw=true" tvg-group="13 - REG. CORRIENTES",T5 Satelital (Corrientes)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-#EXTINF:-1 tvg-chno="532" tvg-id="24/7 Canal de Noticias.ar" tvg-name="24/7 Canal de Noticias.ar" tvg-shift="+0" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuqu%C3%A9n.png" tvg-group="13 - REG. NEUQUEN",CN 24/7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=iPhone
 #KODIPROP:inputstream.adaptive.license_key=d62845f01d257a91fd73d62751828dc1:b600539e698a707de23e57d4cdb99d9a
-https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-chno="700" tvg-id="QUIERO.ar" tvg-name="QUIERO.ar" tvg-shift="+0" tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" tvg-group="90 - MUSICA 1",Quiero Musica
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1040,5 +1037,6 @@ https://cdn.sensa.com.ar/bpk-tv/Allegro/default/index.mpd?|referer=https://playe
 
 #EXTINF:-1 tvg-chno="709" tvg-id="Telehit.mx" tvg-name="Telehit.mx" tvg-shift="+0" tvg-logo="https://dl.dropbox.com/scl/fi/cnsdchbhpht3u6wibavfe/telehitmusica.jpg?rlkey=y3f4n42wtb7mw94jmg31r6j4e&dl=1" tvg-group="90 - MUSICA 2",TeleHit Música Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d7d1609477d0b0d51a5b7d1539e65eb:90b61b3fa577eab7b53ef6f1caeb82bf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
