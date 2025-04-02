@@ -890,6 +890,9 @@ https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd?|referer=https://p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_wl/TyC_Internacional.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
+#EXTINF:-1 tvg-chno="424" tvg-id="FlowEventosHD.uy" tvg-name="FlowEventosHD" tvg-shift="+0" tvg-logo="https://seeklogo.com/images/F/flow-logo-A858E50F1C-seeklogo.com.png" tvg-group="75 - DEP. ARG. PREMIUM",Flow Eventos HD
+http://181.209.95.29:8000/play/a0bf/index.m3u8
+
 #EXTINF:-1 tvg-chno="500" tvg-id="TELEMUNDO.ar" tvg-name="TELEMUNDO.ar" tvg-shift="+0" tvg-logo="https://git.io/JOTtz" tvg-group="60 - INTER. ESP.",Telemundo Internacional
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
