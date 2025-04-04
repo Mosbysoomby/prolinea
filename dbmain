@@ -1,191 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="901" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",26TV  ( L181 )
-http://181.209.95.29:8000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-chno="902" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",9 link  ( L181 )
-http://181.209.95.29:8000/play/a0ap/index.m3u8
-#EXTINF:-1 tvg-chno="903" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",A&E  ( L181 )
-http://181.209.95.29:8000/play/a0av/index.m3u8
-#EXTINF:-1 tvg-chno="904" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",A24  ( L181 )
-http://181.209.95.29:8000/play/a01o/index.m3u8
-#EXTINF:-1 tvg-chno="905" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",AM Sports  ( L181 )
-http://181.209.95.29:8000/play/a01v/index.m3u8
-#EXTINF:-1 tvg-chno="906" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",AMC  ( L181 )
-http://181.209.95.29:8000/play/a01z/index.m3u8
-#EXTINF:-1 tvg-chno="907" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",AMERICA  ( L181 )
-http://181.209.95.29:8000/play/a0a7/index.m3u8
-#EXTINF:-1 tvg-chno="908" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",AXN HD  ( L181 )
-http://181.209.95.29:8000/play/a0aw/index.m3u8
-#EXTINF:-1 tvg-chno="909" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Baby TV  ( L181 )
-http://181.209.95.29:8000/play/a02e/index.m3u8
-#EXTINF:-1 tvg-chno="910" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",C5N  ( L181 )
-http://181.209.95.29:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-chno="911" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",CANAL 8 SAN COSME  ( L181 )
-http://181.209.95.29:8000/play/a0b4/index.m3u8
-#EXTINF:-1 tvg-chno="912" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Canal a  ( L181 )
-http://181.209.95.29:8000/play/a09j/index.m3u8
-#EXTINF:-1 tvg-chno="913" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Canal de la Ciudad  ( L181 )
-http://181.209.95.29:8000/play/a06e/index.m3u8
-#EXTINF:-1 tvg-chno="914" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Cartoon Network HD  ( L181 )
-http://181.209.95.29:8000/play/a075/index.m3u8
-#EXTINF:-1 tvg-chno="915" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Cine.AR  ( L181 )
-http://181.209.95.29:8000/play/a024/index.m3u8
-#EXTINF:-1 tvg-chno="916" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Cinecanal HD  ( L181 )
-http://181.209.95.29:8000/play/a07b/index.m3u8
-#EXTINF:-1 tvg-chno="917" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",CINEMAX  ( L181 )
-http://181.209.95.29:8000/play/a0ae/index.m3u8
-#EXTINF:-1 tvg-chno="918" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",ciudad magazine  ( L181 )
-http://181.209.95.29:8000/play/a02h/index.m3u8
-#EXTINF:-1 tvg-chno="919" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",CNN  ( L181 )
-http://181.209.95.29:8000/play/a0ax/index.m3u8
-#EXTINF:-1 tvg-chno="920" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Comedy Central HD  ( L181 )
-http://181.209.95.29:8000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-chno="921" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Cronica  ( L181 )
-http://181.209.95.29:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-chno="922" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",DeporTV  ( L181 )
-http://181.209.95.29:8000/play/a06h/index.m3u8
-#EXTINF:-1 tvg-chno="923" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Discovery Science  ( L181 )
-http://181.209.95.29:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-chno="924" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",DISNEY JR  ( L181 )
-http://181.209.95.29:8000/play/a0ay/index.m3u8
-#EXTINF:-1 tvg-chno="925" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",E!  ( L181 )
-http://181.209.95.29:8000/play/a0az/index.m3u8
-#EXTINF:-1 tvg-chno="926" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",El Canal  de las Estrellas  ( L181 )
-http://181.209.95.29:8000/play/a06z/index.m3u8
-#EXTINF:-1 tvg-chno="927" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",El Gourmet  ( L181 )
-http://181.209.95.29:8000/play/a06w/index.m3u8
-#EXTINF:-1 tvg-chno="928" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",EL NUEVE  ( L181 )
-http://181.209.95.29:8000/play/a0a9/index.m3u8
-#EXTINF:-1 tvg-chno="929" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",el trece HD  ( L181 )
-http://181.209.95.29:8000/play/a06d/index.m3u8
-#EXTINF:-1 tvg-chno="930" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",EL TRECE MAX  ( L181 )
-http://181.209.95.29:8000/play/a0b7/index.m3u8
-#EXTINF:-1 tvg-chno="931" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Encuentro  ( L181 )
-http://181.209.95.29:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-chno="932" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",ENLACE  ( L181 )
-http://181.209.95.29:8000/play/a0an/index.m3u8
-#EXTINF:-1 tvg-chno="933" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",ESPN  ( L181 )
-http://181.209.95.29:8000/play/a0ab/index.m3u8
-#EXTINF:-1 tvg-chno="934" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",ESPN 2  ( L181 )
-http://181.209.95.29:8000/play/a0ac/index.m3u8
-#EXTINF:-1 tvg-chno="935" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",ESPN 3  ( L181 )
-http://181.209.95.29:8000/play/a0ad/index.m3u8
-#EXTINF:-1 tvg-chno="936" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",ESPN 4 HD  ( L181 )
-http://181.209.95.29:8000/play/a076/index.m3u8
-#EXTINF:-1 tvg-chno="937" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",ESPN Premium HD  ( L181 )
-http://181.209.95.29:8000/play/a078/index.m3u8
-#EXTINF:-1 tvg-chno="938" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Europa Europa  ( L181 )
-http://181.209.95.29:8000/play/a06v/index.m3u8
-#EXTINF:-1 tvg-chno="939" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Eventos HD  ( L181 )
-http://181.209.95.29:8000/play/a0bf/index.m3u8
-#EXTINF:-1 tvg-chno="940" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",EWTN  ( L181 )
-http://181.209.95.29:8000/play/a0ao/index.m3u8
-#EXTINF:-1 tvg-chno="941" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Film & Arts HD  ( L181 )
-http://181.209.95.29:8000/play/a030/index.m3u8
-#EXTINF:-1 tvg-chno="942" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",folkorisimo  ( L181 )
-http://181.209.95.29:8000/play/a0au/index.m3u8
-#EXTINF:-1 tvg-chno="943" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",FOX SPORT 2  ( L181 )
-http://181.209.95.29:8000/play/a0aa/index.m3u8
-#EXTINF:-1 tvg-chno="944" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Fox Sports 3 HD  ( L181 )
-http://181.209.95.29:8000/play/a02t/index.m3u8
-#EXTINF:-1 tvg-chno="945" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Fox Sports HD  ( L181 )
-http://181.209.95.29:8000/play/a07j/index.m3u8
-#EXTINF:-1 tvg-chno="946" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",FX HD  ( L181 )
-http://181.209.95.29:8000/play/a02v/index.m3u8
-#EXTINF:-1 tvg-chno="947" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Galicia TV  ( L181 )
-http://181.209.95.29:8000/play/a02q/index.m3u8
-#EXTINF:-1 tvg-chno="948" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HBO  ( L181 )
-http://181.209.95.29:8000/play/a06o/index.m3u8
-#EXTINF:-1 tvg-chno="949" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HBO 2  ( L181 )
-http://181.209.95.29:8000/play/a06q/index.m3u8
-#EXTINF:-1 tvg-chno="950" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HBO Mundi  ( L181 )
-http://181.209.95.29:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-chno="951" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HBO Plus  ( L181 )
-http://181.209.95.29:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-chno="952" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HBO POP  ( L181 )
-http://181.209.95.29:8000/play/a0at/index.m3u8
-#EXTINF:-1 tvg-chno="953" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HBO Signature  ( L181 )
-http://181.209.95.29:8000/play/a02c/index.m3u8
-#EXTINF:-1 tvg-chno="954" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HBO Xtreme  ( L181 )
-http://181.209.95.29:8000/play/a02b/index.m3u8
-#EXTINF:-1 tvg-chno="955" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HGTV  ( L181 )
-http://181.209.95.29:8000/play/a02j/index.m3u8
-#EXTINF:-1 tvg-chno="956" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HISTORY  ( L181 )
-http://181.209.95.29:8000/play/a0ai/index.m3u8
-#EXTINF:-1 tvg-chno="957" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HTV  ( L181 )
-http://181.209.95.29:8000/play/a02o/index.m3u8
-#EXTINF:-1 tvg-chno="958" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",La Nacion TV  ( L181 )
-http://181.209.95.29:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-chno="959" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",LAPACHO  ( L181 )
-http://181.209.95.29:8000/play/a0ar/index.m3u8
-#EXTINF:-1 tvg-chno="960" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Lifetime  ( L181 )
-http://181.209.95.29:8000/play/a06n/index.m3u8
-#EXTINF:-1 tvg-chno="961" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Metro  ( L181 )
-http://181.209.95.29:8000/play/a02g/index.m3u8
-#EXTINF:-1 tvg-chno="962" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",MTV  ( L181 )
-http://181.209.95.29:8000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-chno="963" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",MTV 00  ( L181 )
-http://181.209.95.29:8000/play/a0ag/index.m3u8
-#EXTINF:-1 tvg-chno="964" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",NAT GEO  ( L181 )
-http://181.209.95.29:8000/play/a0b8/index.m3u8
-#EXTINF:-1 tvg-chno="965" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",NICK  ( L181 )
-http://181.209.95.29:8000/play/a0b0/index.m3u8
-#EXTINF:-1 tvg-chno="966" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Nick Jr  ( L181 )
-http://181.209.95.29:8000/play/a06u/index.m3u8
-#EXTINF:-1 tvg-chno="967" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Pakapaka  ( L181 )
-http://181.209.95.29:8000/play/a01n/index.m3u8
-#EXTINF:-1 tvg-chno="968" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Paramount HD  ( L181 )
-http://181.209.95.29:8000/play/a02y/index.m3u8
-#EXTINF:-1 tvg-chno="969" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",PASIONES  ( L181 )
-http://181.209.95.29:8000/play/a0aj/index.m3u8
-#EXTINF:-1 tvg-chno="970" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",RAI Italia  ( L181 )
-http://181.209.95.29:8000/play/a02p/index.m3u8
-#EXTINF:-1 tvg-chno="971" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Rural  ( L181 )
-http://181.209.95.29:8000/play/a02f/index.m3u8
-#EXTINF:-1 tvg-chno="972" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",SNT  ( L181 )
-http://181.209.95.29:8000/play/a0al/index.m3u8
-#EXTINF:-1 tvg-chno="973" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",SOMOS UNO  ( L181 )
-http://181.209.95.29:8000/play/a0ah/index.m3u8
-#EXTINF:-1 tvg-chno="974" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",SONY HD  ( L181 )
-http://181.209.95.29:8000/play/a0b1/index.m3u8
-#EXTINF:-1 tvg-chno="975" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",SONY MOVIE  ( L181 )
-http://181.209.95.29:8000/play/a0b2/index.m3u8
-#EXTINF:-1 tvg-chno="976" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Space HD  ( L181 )
-http://181.209.95.29:8000/play/a02w/index.m3u8
-#EXTINF:-1 tvg-chno="977" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Star Channel HD  ( L181 )
-http://181.209.95.29:8000/play/a079/index.m3u8
-#EXTINF:-1 tvg-chno="978" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Studio Universal  ( L181 )
-http://181.209.95.29:8000/play/a022/index.m3u8
-#EXTINF:-1 tvg-chno="979" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",T5 SATELITAL  ( L181 )
-http://181.209.95.29:8000/play/a0b9/index.m3u8
-#EXTINF:-1 tvg-chno="980" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",TCM  ( L181 )
-http://181.209.95.29:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-chno="981" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Telefe HD  ( L181 )
-http://181.209.95.29:8000/play/a06c/index.m3u8
-#EXTINF:-1 tvg-chno="982" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",TELEFUTURO  ( L181 )
-http://181.209.95.29:8000/play/a0am/index.m3u8
-#EXTINF:-1 tvg-chno="983" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",TELEMUNDO  ( L181 )
-http://181.209.95.29:8000/play/a0as/index.m3u8
-#EXTINF:-1 tvg-chno="984" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",TLNovelas  ( L181 )
-http://181.209.95.29:8000/play/a0bb/index.m3u8
-#EXTINF:-1 tvg-chno="985" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",TN  ( L181 )
-http://181.209.95.29:8000/play/a0a6/index.m3u8
-#EXTINF:-1 tvg-chno="986" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",TNT Sports HD  ( L181 )
-http://181.209.95.29:8000/play/a02u/index.m3u8
-#EXTINF:-1 tvg-chno="987" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",TV PUBLICA  ( L181 )
-http://181.209.95.29:8000/play/a0a8/index.m3u8
-#EXTINF:-1 tvg-chno="988" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",TVE  ( L181 )
-http://181.209.95.29:8000/play/a072/index.m3u8
-#EXTINF:-1 tvg-chno="989" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",TyC Sports HD  ( L181 )
-http://181.209.95.29:8000/play/a02s/index.m3u8
-#EXTINF:-1 tvg-chno="990" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",UNIVERSAL  ( L181 )
-http://181.209.95.29:8000/play/a0af/index.m3u8
-#EXTINF:-1 tvg-chno="991" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",USA Network  ( L181 )
-http://181.209.95.29:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-chno="992" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Volver  ( L181 )
-http://181.209.95.29:8000/play/a021/index.m3u8
-#EXTINF:-1 tvg-chno="993" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",WARNER  ( L181 )
-http://181.209.95.29:8000/play/a0b3/index.m3u8
 
 
 
@@ -1755,3 +1569,194 @@ https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd?|referer
 #KODIPROP:inputstream.adaptive.license_type=org.w94.clearkey
 #KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
 https://cdn.cvattv.com.ar/live/c7eds//WarnerHD/SA_Live_dash_enc/WarnerHD.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+
+
+
+
+#EXTINF:-1 tvg-chno="901" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",26TV  ( L181 )
+http://181.209.95.29:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-chno="902" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",9 link  ( L181 )
+http://181.209.95.29:8000/play/a0ap/index.m3u8
+#EXTINF:-1 tvg-chno="903" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",A&E  ( L181 )
+http://181.209.95.29:8000/play/a0av/index.m3u8
+#EXTINF:-1 tvg-chno="904" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",A24  ( L181 )
+http://181.209.95.29:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-chno="905" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",AM Sports  ( L181 )
+http://181.209.95.29:8000/play/a01v/index.m3u8
+#EXTINF:-1 tvg-chno="906" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",AMC  ( L181 )
+http://181.209.95.29:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-chno="907" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",AMERICA  ( L181 )
+http://181.209.95.29:8000/play/a0a7/index.m3u8
+#EXTINF:-1 tvg-chno="908" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",AXN HD  ( L181 )
+http://181.209.95.29:8000/play/a0aw/index.m3u8
+#EXTINF:-1 tvg-chno="909" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Baby TV  ( L181 )
+http://181.209.95.29:8000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-chno="910" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",C5N  ( L181 )
+http://181.209.95.29:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-chno="911" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",CANAL 8 SAN COSME  ( L181 )
+http://181.209.95.29:8000/play/a0b4/index.m3u8
+#EXTINF:-1 tvg-chno="912" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Canal a  ( L181 )
+http://181.209.95.29:8000/play/a09j/index.m3u8
+#EXTINF:-1 tvg-chno="913" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Canal de la Ciudad  ( L181 )
+http://181.209.95.29:8000/play/a06e/index.m3u8
+#EXTINF:-1 tvg-chno="914" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Cartoon Network HD  ( L181 )
+http://181.209.95.29:8000/play/a075/index.m3u8
+#EXTINF:-1 tvg-chno="915" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Cine.AR  ( L181 )
+http://181.209.95.29:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-chno="916" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Cinecanal HD  ( L181 )
+http://181.209.95.29:8000/play/a07b/index.m3u8
+#EXTINF:-1 tvg-chno="917" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",CINEMAX  ( L181 )
+http://181.209.95.29:8000/play/a0ae/index.m3u8
+#EXTINF:-1 tvg-chno="918" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",ciudad magazine  ( L181 )
+http://181.209.95.29:8000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-chno="919" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",CNN  ( L181 )
+http://181.209.95.29:8000/play/a0ax/index.m3u8
+#EXTINF:-1 tvg-chno="920" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Comedy Central HD  ( L181 )
+http://181.209.95.29:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-chno="921" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Cronica  ( L181 )
+http://181.209.95.29:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-chno="922" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",DeporTV  ( L181 )
+http://181.209.95.29:8000/play/a06h/index.m3u8
+#EXTINF:-1 tvg-chno="923" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Discovery Science  ( L181 )
+http://181.209.95.29:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-chno="924" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",DISNEY JR  ( L181 )
+http://181.209.95.29:8000/play/a0ay/index.m3u8
+#EXTINF:-1 tvg-chno="925" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",E!  ( L181 )
+http://181.209.95.29:8000/play/a0az/index.m3u8
+#EXTINF:-1 tvg-chno="926" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",El Canal  de las Estrellas  ( L181 )
+http://181.209.95.29:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-chno="927" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",El Gourmet  ( L181 )
+http://181.209.95.29:8000/play/a06w/index.m3u8
+#EXTINF:-1 tvg-chno="928" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",EL NUEVE  ( L181 )
+http://181.209.95.29:8000/play/a0a9/index.m3u8
+#EXTINF:-1 tvg-chno="929" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",el trece HD  ( L181 )
+http://181.209.95.29:8000/play/a06d/index.m3u8
+#EXTINF:-1 tvg-chno="930" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",EL TRECE MAX  ( L181 )
+http://181.209.95.29:8000/play/a0b7/index.m3u8
+#EXTINF:-1 tvg-chno="931" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Encuentro  ( L181 )
+http://181.209.95.29:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-chno="932" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",ENLACE  ( L181 )
+http://181.209.95.29:8000/play/a0an/index.m3u8
+#EXTINF:-1 tvg-chno="933" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",ESPN  ( L181 )
+http://181.209.95.29:8000/play/a0ab/index.m3u8
+#EXTINF:-1 tvg-chno="934" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",ESPN 2  ( L181 )
+http://181.209.95.29:8000/play/a0ac/index.m3u8
+#EXTINF:-1 tvg-chno="935" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",ESPN 3  ( L181 )
+http://181.209.95.29:8000/play/a0ad/index.m3u8
+#EXTINF:-1 tvg-chno="936" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",ESPN 4 HD  ( L181 )
+http://181.209.95.29:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-chno="937" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",ESPN Premium HD  ( L181 )
+http://181.209.95.29:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-chno="938" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Europa Europa  ( L181 )
+http://181.209.95.29:8000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-chno="939" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Eventos HD  ( L181 )
+http://181.209.95.29:8000/play/a0bf/index.m3u8
+#EXTINF:-1 tvg-chno="940" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",EWTN  ( L181 )
+http://181.209.95.29:8000/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-chno="941" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Film & Arts HD  ( L181 )
+http://181.209.95.29:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-chno="942" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",folkorisimo  ( L181 )
+http://181.209.95.29:8000/play/a0au/index.m3u8
+#EXTINF:-1 tvg-chno="943" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",FOX SPORT 2  ( L181 )
+http://181.209.95.29:8000/play/a0aa/index.m3u8
+#EXTINF:-1 tvg-chno="944" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Fox Sports 3 HD  ( L181 )
+http://181.209.95.29:8000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-chno="945" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Fox Sports HD  ( L181 )
+http://181.209.95.29:8000/play/a07j/index.m3u8
+#EXTINF:-1 tvg-chno="946" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",FX HD  ( L181 )
+http://181.209.95.29:8000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-chno="947" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Galicia TV  ( L181 )
+http://181.209.95.29:8000/play/a02q/index.m3u8
+#EXTINF:-1 tvg-chno="948" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HBO  ( L181 )
+http://181.209.95.29:8000/play/a06o/index.m3u8
+#EXTINF:-1 tvg-chno="949" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HBO 2  ( L181 )
+http://181.209.95.29:8000/play/a06q/index.m3u8
+#EXTINF:-1 tvg-chno="950" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HBO Mundi  ( L181 )
+http://181.209.95.29:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-chno="951" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HBO Plus  ( L181 )
+http://181.209.95.29:8000/play/a06p/index.m3u8
+#EXTINF:-1 tvg-chno="952" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HBO POP  ( L181 )
+http://181.209.95.29:8000/play/a0at/index.m3u8
+#EXTINF:-1 tvg-chno="953" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HBO Signature  ( L181 )
+http://181.209.95.29:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-chno="954" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HBO Xtreme  ( L181 )
+http://181.209.95.29:8000/play/a02b/index.m3u8
+#EXTINF:-1 tvg-chno="955" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HGTV  ( L181 )
+http://181.209.95.29:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-chno="956" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HISTORY  ( L181 )
+http://181.209.95.29:8000/play/a0ai/index.m3u8
+#EXTINF:-1 tvg-chno="957" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",HTV  ( L181 )
+http://181.209.95.29:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-chno="958" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",La Nacion TV  ( L181 )
+http://181.209.95.29:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-chno="959" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",LAPACHO  ( L181 )
+http://181.209.95.29:8000/play/a0ar/index.m3u8
+#EXTINF:-1 tvg-chno="960" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Lifetime  ( L181 )
+http://181.209.95.29:8000/play/a06n/index.m3u8
+#EXTINF:-1 tvg-chno="961" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Metro  ( L181 )
+http://181.209.95.29:8000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-chno="962" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",MTV  ( L181 )
+http://181.209.95.29:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-chno="963" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",MTV 00  ( L181 )
+http://181.209.95.29:8000/play/a0ag/index.m3u8
+#EXTINF:-1 tvg-chno="964" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",NAT GEO  ( L181 )
+http://181.209.95.29:8000/play/a0b8/index.m3u8
+#EXTINF:-1 tvg-chno="965" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",NICK  ( L181 )
+http://181.209.95.29:8000/play/a0b0/index.m3u8
+#EXTINF:-1 tvg-chno="966" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Nick Jr  ( L181 )
+http://181.209.95.29:8000/play/a06u/index.m3u8
+#EXTINF:-1 tvg-chno="967" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Pakapaka  ( L181 )
+http://181.209.95.29:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-chno="968" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Paramount HD  ( L181 )
+http://181.209.95.29:8000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-chno="969" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",PASIONES  ( L181 )
+http://181.209.95.29:8000/play/a0aj/index.m3u8
+#EXTINF:-1 tvg-chno="970" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",RAI Italia  ( L181 )
+http://181.209.95.29:8000/play/a02p/index.m3u8
+#EXTINF:-1 tvg-chno="971" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Rural  ( L181 )
+http://181.209.95.29:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-chno="972" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",SNT  ( L181 )
+http://181.209.95.29:8000/play/a0al/index.m3u8
+#EXTINF:-1 tvg-chno="973" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",SOMOS UNO  ( L181 )
+http://181.209.95.29:8000/play/a0ah/index.m3u8
+#EXTINF:-1 tvg-chno="974" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",SONY HD  ( L181 )
+http://181.209.95.29:8000/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-chno="975" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",SONY MOVIE  ( L181 )
+http://181.209.95.29:8000/play/a0b2/index.m3u8
+#EXTINF:-1 tvg-chno="976" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Space HD  ( L181 )
+http://181.209.95.29:8000/play/a02w/index.m3u8
+#EXTINF:-1 tvg-chno="977" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Star Channel HD  ( L181 )
+http://181.209.95.29:8000/play/a079/index.m3u8
+#EXTINF:-1 tvg-chno="978" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Studio Universal  ( L181 )
+http://181.209.95.29:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-chno="979" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",T5 SATELITAL  ( L181 )
+http://181.209.95.29:8000/play/a0b9/index.m3u8
+#EXTINF:-1 tvg-chno="980" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",TCM  ( L181 )
+http://181.209.95.29:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-chno="981" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Telefe HD  ( L181 )
+http://181.209.95.29:8000/play/a06c/index.m3u8
+#EXTINF:-1 tvg-chno="982" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",TELEFUTURO  ( L181 )
+http://181.209.95.29:8000/play/a0am/index.m3u8
+#EXTINF:-1 tvg-chno="983" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",TELEMUNDO  ( L181 )
+http://181.209.95.29:8000/play/a0as/index.m3u8
+#EXTINF:-1 tvg-chno="984" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",TLNovelas  ( L181 )
+http://181.209.95.29:8000/play/a0bb/index.m3u8
+#EXTINF:-1 tvg-chno="985" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",TN  ( L181 )
+http://181.209.95.29:8000/play/a0a6/index.m3u8
+#EXTINF:-1 tvg-chno="986" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",TNT Sports HD  ( L181 )
+http://181.209.95.29:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-chno="987" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",TV PUBLICA  ( L181 )
+http://181.209.95.29:8000/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-chno="988" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",TVE  ( L181 )
+http://181.209.95.29:8000/play/a072/index.m3u8
+#EXTINF:-1 tvg-chno="989" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",TyC Sports HD  ( L181 )
+http://181.209.95.29:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-chno="990" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",UNIVERSAL  ( L181 )
+http://181.209.95.29:8000/play/a0af/index.m3u8
+#EXTINF:-1 tvg-chno="991" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",USA Network  ( L181 )
+http://181.209.95.29:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-chno="992" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",Volver  ( L181 )
+http://181.209.95.29:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-chno="993" tvg-id="" tvg-name=" tvg-logo="" tvg-group="",WARNER  ( L181 )
+http://181.209.95.29:8000/play/a0b3/index.m3u8
