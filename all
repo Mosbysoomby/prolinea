@@ -1,4 +1,7 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/files/paraguay2.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.open-epg.com/files/brazil4.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/argentina4.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/paraguay2.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/uruguay2.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/brazil4.xml"
 
 #EXTINF:-1 tvg-chno="1" tvg-id="Adult Swim.uy" tvg-name="Adult Swim.uy tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" tvg-group="Anime - Sensa",[adult swim]  ( Sensa )
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
