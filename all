@@ -462,7 +462,7 @@ https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd?|referer=https:/
 #EXTINF:-1 tvg-chno="95" tvg-id="24/7 Canal de Noticias.ar" tvg-name="24/7 Canal de Noticias.ar" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuqu%C3%A9n.png" group-title="Arg. Neuquen - Propio",CN 24/7  ( Propio )
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
-#EXTINF:-1 tvg-chno="96" tvg-id="CNN en EspaÃ±ol.ar" tvg-name="CNN en EspaÃ±ol.ar" tvg-logo="tvg-name="CNN en EspaÃ±ol.ar tvg-logo." group-title="Noticias en Español - L181",CNN En Español  ( L181 )
+#EXTINF:-1 tvg-chno="96" tvg-id="CNN en EspaÃ±ol.ar" tvg-name="CNN en EspaÃ±ol.ar" tvg-logo="tvg-name="CNN en EspaÃ±ol.ar tvg-logo."https://lh3.googleusercontent.com/u9tlZKSFD6WAUjbjLHB32flqlzjS73t69NqdBdKYEhaQXJO_431gYLhwtygT9TGOk2Eti-bDbJj6DOfjhENqENO5kIYTlPnrASAJJ2X3TiDXwixBFAg=v1-rw-w300-h300-e365" group-title="Noticias en Español - L181",CNN En Español  ( L181 )
 http://181.209.95.29:8000/play/a0ax/index.m3u8
 
 #EXTINF:-1 tvg-chno="97" tvg-id="CNN en EspaÃ±ol.ar" tvg-name="CNN en EspaÃ±ol.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="Noticias en Español - Sensa",CNN En Español  ( Sensa )
