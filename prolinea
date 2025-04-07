@@ -1,4 +1,8 @@
-#EXTM3U
+#EXTM3U url-tvg="https://www.open-epg.com/files/argentina4.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/brazil4.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/paraguay2.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/uruguay2.xml"
+
 
 #EXTINF:-1 tvg-chno="2" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/F6bXsYs/canal-c.png" group-title="Córdoba - Flow",Canal c córdoba  ( Flow )
 #KODIPROP:inputstream.adaptive.license_type=org.w117.clearkey
