@@ -4,6 +4,8 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/uruguay2.xml"
 
 
+
+
 #EXTINF:-1 tvg-chno="1" tvg-id="Adult Swim.uy" tvg-name="Adult Swim.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" group-title="Anime - Sensa",[adult swim]  ( Sensa )
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=476ae5b67b7ad297ac643386d2daa229:0ef75009de12efe833dafa97aa30272c
@@ -179,7 +181,7 @@ http://181.209.95.29:8000/play/a02e/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=019f72f2091d4cbea59ff8c85b117f86:a4eac51195506752f9f63ad24def9c37
 https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_News.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-chno="39" tvg-id="Bloomberg.ar" tvg-name="Bloomberg.ar" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-tv-us.svg" group-title="Mundo - Flow",Bloomberg tv  ( Flow )
+#EXTINF:-1 tvg-chno="39" tvg-id="Bloomberg.ar" tvg-name="Bloomberg.ar" tvg-logo="https://logowik.com/content/uploads/images/bloomberg-television4929.jpg" group-title="Mundo - Flow",Bloomberg television  ( Flow )
 #KODIPROP:inputstream.adaptive.license_type=org.w148.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e50891cdc64452aae20d049727f2f3f:551871ba1dc6a95597ec0cb82eb3b2a4
 https://cdn.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc/Bloomberg.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
@@ -272,7 +274,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd?
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lgOPdqK6M4ZupU60smBXPw","kid":"xQUY1/WfTAqpowef4rAU/Q"}],"type":"temporary"}
 https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-chno="58" tvg-id="" tvg-name="" tvg-logo="https://es.wikipedia.org/wiki/Canal_7_(Neuqu%C3%A9n)#/media/Archivo:Canalsiete-nqn-logo.png" group-title="Neuquén - Flow",Canal 7 Neuquen  ( Flow )
+#EXTINF:-1 tvg-chno="58" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png" group-title="Neuquén - Flow",Canal 7 Neuquen  ( Flow )
 #KODIPROP:inputstream.adaptive.license_type=org.w197.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=55828b728b8affe6d1d57d050025645d&key=8ac11ed6d0ccaeac3f8218419f65bb94
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
@@ -460,16 +462,16 @@ https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd?|referer=https:/
 #EXTINF:-1 tvg-chno="95" tvg-id="24/7 Canal de Noticias.ar" tvg-name="24/7 Canal de Noticias.ar" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuqu%C3%A9n.png" group-title="Arg. Neuquen - Propio",CN 24/7  ( Propio )
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
-#EXTINF:-1 tvg-chno="96" tvg-id="CNN en EspaÃ±ol.ar" tvg-name="CNN en EspaÃ±ol.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="Noticias en Español - L181",CNN En Español  ( L181 )
+#EXTINF:-1 tvg-chno="96" tvg-id="CNN en Español.ar" tvg-name="CNN en Español.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="Noticias en Español - L181",CNN En Español  ( L181 )
 http://181.209.95.29:8000/play/a0ax/index.m3u8
 
-#EXTINF:-1 tvg-chno="97" tvg-id="CNN en EspaÃ±ol.ar" tvg-name="CNN en EspaÃ±ol.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="Noticias en Español - Sensa",CNN En Español  ( Sensa )
+#EXTINF:-1 tvg-chno="97" tvg-id="CNN en Español.ar" tvg-name="CNN en Español.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="Noticias en Español - Sensa",CNN En Español  ( Sensa )
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=718f07e2beccf40cc207365ea8a70ef6:672d59d617c4a697025be0fb8d382cc0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-chno="98" tvg-id="CNN en EspaÃ±ol.ar" tvg-name="CNN en EspaÃ±ol.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="Noticias en Español - Flow",CNN En Español  ( Flow )
+#EXTINF:-1 tvg-chno="98" tvg-id="CNN en Español.ar" tvg-name="CNN en Español.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="Noticias en Español - Flow",CNN En Español  ( Flow )
 #KODIPROP:inputstream.adaptive.license_type=org.w150.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
 https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
@@ -521,7 +523,7 @@ http://181.209.95.29:8000/play/a01q/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=21563d82cfb7fdd18b213f0bd92a274f:5940d8d0b57b9e6533e99cc0e7bf2f8e
 https://cdn.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_enc/DNews.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-chno="109" tvg-id="De PelÃ­cula.ar" tvg-name="De PelÃ­cula.ar" tvg-logo="https://dl.dropbox.com/scl/fi/mpiciqqwxiy5z7u0opv9z/depelicula.jpg?rlkey=219iltoyf7si8dgco7g5vv6g7&dl=1" group-title="Cine y Series - Sensa",De película  ( Sensa )
+#EXTINF:-1 tvg-chno="109" tvg-id="De Película.ar" tvg-name="De Película.ar" tvg-logo="https://dl.dropbox.com/scl/fi/mpiciqqwxiy5z7u0opv9z/depelicula.jpg?rlkey=219iltoyf7si8dgco7g5vv6g7&dl=1" group-title="Cine y Series - Sensa",De película  ( Sensa )
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=639e9249b63b731e7621953d27aa5393:ce09cb3f4bcad5c1febe10893b6ba491
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -541,13 +543,13 @@ https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd?|r
 #EXTINF:-1 tvg-chno="112" tvg-id="DeporTV.ar" tvg-name="DeporTV.ar" tvg-logo="https://git.io/JOTOg" group-title="Deportes - L181",DeporTV  ( L181 )
 http://181.209.95.29:8000/play/a06h/index.m3u8
 
-#EXTINF:-1 tvg-chno="113" tvg-id="Deutsche Welle EspaÃ±ol HD.uy" tvg-name="Deutsche Welle EspaÃ±ol HD.uy" tvg-logo="https://git.io/JOTLM" group-title="Noticias en Español - Sensa",Deutsche Welle en Español  ( Sensa )
+#EXTINF:-1 tvg-chno="113" tvg-id="DW (Español).uy" tvg-name="DW (Español).uy" tvg-logo="https://git.io/JOTLM" group-title="Noticias en Español - Sensa",Deutsche Welle en Español  ( Sensa )
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a24d18dae30689d554afc6fc1348734:2f7420bfacfeac635b9e8ed0b5afa554
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/DWChannel/live_dash_cld/DWChannel.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-chno="114" tvg-id="Deutsche Welle EspaÃ±ol HD.uy" tvg-name="Deutsche Welle EspaÃ±ol HD.uy" tvg-logo="https://git.io/JOTLM" group-title="Noticias en Español - Flow",Deutsche Welle en Español  ( Flow )
+#EXTINF:-1 tvg-chno="114" tvg-id="DW (Español).uy" tvg-name="DW (Español).uy" tvg-logo="https://git.io/JOTLM" group-title="Noticias en Español - Flow",Deutsche Welle en Español  ( Flow )
 #KODIPROP:inputstream.adaptive.license_type=org.w153.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e21fc12c6ee185fbc90a052b05026be9:0f96fd52903707aac0b42853a043ffd0
 https://cdn.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc/DW.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
@@ -695,7 +697,7 @@ https://cdn.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd?|referer=h
 #KODIPROP:inputstream.adaptive.license_key=bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac
 https://cdn.cvattv.com.ar/live/c7eds//DisneyJr/SA_Live_dash_enc/DisneyJr.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-chno="142" tvg-id="" tvg-name="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DRWKS.png?raw=true" group-title="Infantil - Flow",Dreamworks TV  ( Flow )
+#EXTINF:-1 tvg-chno="142" tvg-id="" tvg-name="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DRWKS.png?raw=true" group-title="Infantil - Flow",Dreamworks  ( Flow )
 #KODIPROP:inputstream.adaptive.license_type=org.w53.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
 https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
@@ -719,14 +721,14 @@ https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc
 #KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
 https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-chno="147" tvg-id="" tvg-name="" tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="Variedad Argentina - L181",El Folkorico  ( L181 )
+#EXTINF:-1 tvg-chno="147" tvg-id="" tvg-name="" tvg-logo="https://shorturl.at/aPmvH" group-title="Variedad Argentina - L181",El Folkorico  ( L181 )
 http://181.209.95.29:8000/play/a0au/index.m3u8
 
-#EXTINF:-1 tvg-chno="148" tvg-id="" tvg-name="" tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="Variedad Argentina - Propio",El Folkorico  ( Propio )
-http://181.209.177.35/hls/elfloklorico.m3u8
+#EXTINF:-1 tvg-chno="148" tvg-id="" tvg-name="" tvg-logo="https://shorturl.at/aPmvH" group-title="Variedad Argentina - Propio",El Folkorico  ( Propio )
+https://181.209.177.35/hls/elfloklorico.m3u8
 
-#EXTINF:-1 tvg-chno="149" tvg-id="" tvg-name="" tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="Variedad Argentina - Propio",El Folkorico  ( Propio )
-http://stream.t5satelital.blog/hls/elfloklorico.m3u8
+#EXTINF:-1 tvg-chno="149" tvg-id="" tvg-name="" tvg-logo="https://shorturl.at/aPmvH" group-title="Variedad Argentina - Propio",El Folkorico  ( Propio )
+https://tvstream.t5satelital.blog/hls/elfolklorico.m3u8
 
 #EXTINF:-1 tvg-chno="150" tvg-id="El Gourmet.ar" tvg-name="El Gourmet.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GRMT.png?raw=true" group-title="Life - Sensa",El Gourmet  ( Sensa )
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -785,7 +787,7 @@ http://181.209.95.29:8000/play/a06d/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-chno="162" tvg-id="" tvg-name="" tvg-logo="https://es.wikipedia.org/wiki/El_Trece_Internacional#/media/Archivo:Eltrece_Internacional_2017.png" group-title="Mundo Latam - Flow",El trece Internacional  ( Flow )
+#EXTINF:-1 tvg-chno="162" tvg-id="El Trece.py" tvg-name="El Trece.py" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Eltrece_Internacional_2017.png" group-title="Mundo Latam - Flow",El trece Internacional  ( Flow )
 #KODIPROP:inputstream.adaptive.license_type=org.w8.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5bd469f8bf268d5d148c3971c7c23fca:9af98080d22846fdf2988b8ba9ec4add
 https://cdn.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
@@ -818,41 +820,41 @@ http://181.209.95.29:8000/play/a0an/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-chno="169" tvg-id="ESPN.ar" tvg-name="ESPN.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-us.svg" group-title="Premium ESPN Uruguay - Flow",ESPN  ( Flow )
-#KODIPROP:inputstream.adaptive.license_type=org.w27.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6362e1f36fcb7ee3c47debd9140336ad:9ba1d46c5b9c7a3130a5dabbf7155175
-https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-chno="170" tvg-id="ESPN.ar" tvg-name="ESPN.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-us.svg" group-title="Deportes - L181",ESPN  ( L181 )
+#EXTINF:-1 tvg-chno="169" tvg-id="ESPN.ar" tvg-name="ESPN.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-us.svg" group-title="Deportes - L181",ESPN  ( L181 )
 http://181.209.95.29:8000/play/a0ab/index.m3u8
 
-#EXTINF:-1 tvg-chno="171" tvg-id="ESPN 2.ar" tvg-name="ESPN 2.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-2-us.svg" group-title="Deportes - Sensa",ESPN 2  ( Sensa )
+#EXTINF:-1 tvg-chno="170" tvg-id="ESPN 2.ar" tvg-name="ESPN 2.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-2-us.svg" group-title="Deportes - Sensa",ESPN 2  ( Sensa )
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-chno="172" tvg-id="ESPN 2.ar" tvg-name="ESPN 2.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-2-us.svg" group-title="Premium ESPN Uruguay - Flow",ESPN 2  ( Flow )
-#KODIPROP:inputstream.adaptive.license_type=org.w28.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d820100144772fed9f38b83650fa7e1:ded8cc47b29b0eb0b0a87df22e721847
-https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-chno="173" tvg-id="ESPN 2.ar" tvg-name="ESPN 2.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-2-us.svg" group-title="Deportes - L181",ESPN 2  ( L181 )
+#EXTINF:-1 tvg-chno="171" tvg-id="ESPN 2.ar" tvg-name="ESPN 2.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-2-us.svg" group-title="Deportes - L181",ESPN 2  ( L181 )
 http://181.209.95.29:8000/play/a0ac/index.m3u8
 
-#EXTINF:-1 tvg-chno="174" tvg-id="ESPN 3.ar" tvg-name="ESPN 3.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.svg" group-title="Deportes - Sensa",ESPN 3  ( Sensa )
+#EXTINF:-1 tvg-chno="172" tvg-id="ESPN 3.ar" tvg-name="ESPN 3.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.svg" group-title="Deportes - Sensa",ESPN 3  ( Sensa )
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-chno="175" tvg-id="ESPN 3.ar" tvg-name="ESPN 3.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.svg" group-title="Premium ESPN Uruguay - Flow",ESPN 3  ( Flow )
+#EXTINF:-1 tvg-chno="173" tvg-id="ESPN 3.ar" tvg-name="ESPN 3.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.svg" group-title="Deportes - L181",ESPN 3  ( L181 )
+http://181.209.95.29:8000/play/a0ad/index.m3u8
+
+#EXTINF:-1 tvg-chno="174" tvg-id="ESPN HD.uy" tvg-name="ESPN HD.uy" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-us.svg" group-title="Premium ESPN Uruguay - Flow",Uy |ESPN  ( Flow )
+#KODIPROP:inputstream.adaptive.license_type=org.w27.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6362e1f36fcb7ee3c47debd9140336ad:9ba1d46c5b9c7a3130a5dabbf7155175
+https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-chno="175" tvg-id="ESPN 2 HD.uy" tvg-name="ESPN 2 HD.uy" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-2-us.svg" group-title="Premium ESPN Uruguay - Flow",Uy |ESPN 2  ( Flow )
+#KODIPROP:inputstream.adaptive.license_type=org.w28.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d820100144772fed9f38b83650fa7e1:ded8cc47b29b0eb0b0a87df22e721847
+https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
+#EXTINF:-1 tvg-chno="176" tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3 HD.uy" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.svg" group-title="Premium ESPN Uruguay - Flow",Uy |ESPN 3  ( Flow )
 #KODIPROP:inputstream.adaptive.license_type=org.w29.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e
 https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
-
-#EXTINF:-1 tvg-chno="176" tvg-id="ESPN 3.ar" tvg-name="ESPN 3.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.svg" group-title="Deportes - L181",ESPN 3  ( L181 )
-http://181.209.95.29:8000/play/a0ad/index.m3u8
 
 #EXTINF:-1 tvg-chno="177" tvg-id="ESPN Extra.ar" tvg-name="ESPN Extra.ar" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-4-us.svg" group-title="Deportes - Sensa",ESPN 4  ( Sensa )
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2225,15 +2227,3 @@ http://181.209.95.29:8000/play/a0b3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-
------------------
-
-
-#EXTM3U
-#EXTINF:-1 tvg-chno="1000" tvg-id="0" tvg-name="Canal C (Córdoba)" tvg-logo="https://i.ibb.co/F6bXsYs/canal-c.png" group-title="Córdoba",Canal C (Córdoba)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://web.app.flow.com.ar
-#EXTVLCOPT:drm-header=origin:https://web.app.flow.com.ar
-#EXTVLCOPT:drm-key-id=9a866ca98bef2351a68e4843139f8073
-#EXTVLCOPT:drm-key=b0893077653d1ef842a1b65d8b34455a
-https://cdn.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc_C/Canal_C.mpd
