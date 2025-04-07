@@ -2224,3 +2224,28 @@ http://181.209.95.29:8000/play/a0b3/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=070660c4a07ab644fba62dab07306d43:6786eb56337a318fce0b7f9cccf96478
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+-----------------
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sv.tsnt2.xyz/cv.php
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_05/large.5926515ad593d_TyCSports2.png.f9764d5923b5ccc026914c54e65e0d53.png" group-title="Deportes", TyC Sports 2 (FEED OCASIONAL)
+https://edge-live34-hr.cvattv.com.ar/live/c2live/Eventos_2_HD/SA_Live_dash_enc_2A/Eventos_2_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tucumantvdigital.xyz/dtv1_widevine.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="Deportes", DirecTV Sports
+https://dtv-latam-abc.akamaized.net/dash/live/700426/dtv/DTV-ABC-dtvsportsargentina/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tucumantvdigital.xyz/dtv2_widevine.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1200px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Deportes", DirecTV Sports 2
+https://dtv-latam-abc.akamaized.net/dash/live/700404/dtv/DTV-ABC-directtvsports2/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tucumantvdigital.xyz/dtv3_widevine.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes", DirecTV Sports +
+https://dtv-latam-abc.akamaized.net/dash/live/2018339/dtv/dtv-directvsportsplushd/master.mpd
