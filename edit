@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/argentina4.xml"
-#EXTM3U url-tvg="https://www.open-epg.com/generate/b26XUV2hRF.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/argentina4.xml.gz"
+#EXTM3U url-tvg="https://www.open-epg.com/generate/b26XUV2hRF.xml.gz"
 
 
 #EXTINF:-1 tvg-chno="1" tvg-id="Adult Swim.uy" tvg-shift="0" tvg-name="Adult Swim.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" group-title="Anime - Sensa",[adult swim]  ( Sensa )
