@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
 #EXTINF:-1  tvg-id="Argentinísima Satelital.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARGST.png?raw=true" group-title="Argentina", Argentinísima Satelital
