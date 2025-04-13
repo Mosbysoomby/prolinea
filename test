@@ -1,66 +1,40 @@
 #EXTM3U
 
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-logo="https://i.ibb.co/w0VHc1W/logo-app.png" group-title="DAZC EVENTOS",ESPN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
-#EXTVLCOPT:http-origin=https://www.skysports.com
-#EXTVLCOPT:http-referrer=https://www.skysports.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://linear034-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsf1)/manifest_720.mpd
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-logo="https://i.ibb.co/w0VHc1W/logo-app.png" group-title="DAZC EVENTOS",ESPN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
-#EXTVLCOPT:http-origin=https://www.skysports.com
-#EXTVLCOPT:http-referrer=https://www.skysports.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://linear034-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsf1)/manifest_720.mpd
-
-
-#EXTINF:-1  tvg-id="C5N.ar.uy" tvg-name="C5NOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" tvg-group="Noticias", C5N
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://linear034-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsf1)/manifest_720.mpd?|origin=https://www.skysports.com|referrer=https://www.skysports.com
-
-
-
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-logo="https://i.ibb.co/w0VHc1W/logo-app.png" group-title="DAZC EVENTOS",ESPN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=839d5b1eec7eb70d68c1e1531fc0d6d4:bd1767fe3554f1285222b5610105c0e9
-#EXTVLCOPT:http-origin=https://www.skysports.com
-#EXTVLCOPT:http-referrer=https://www.skysports.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://linear034-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsf1)/manifest_720.mpd
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-logo="https://i.ibb.co/w0VHc1W/logo-app.png" group-title="DAZC EVENTOS",ESPN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=839d5b1eec7eb70d68c1e1531fc0d6d4:bd1767fe3554f1285222b5610105c0e9
-#EXTVLCOPT:http-origin=https://www.skysports.com
-#EXTVLCOPT:http-referrer=https://www.skysports.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-https://linear034-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsf1)/manifest_720.mpd
-
-
-#EXTINF:-1  tvg-id="C5N.ar.uy" tvg-name="C5NOT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" tvg-group="Noticias", C5N
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=839d5b1eec7eb70d68c1e1531fc0d6d4:bd1767fe3554f1285222b5610105c0e9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://linear034-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsf1)/manifest_720.mpd?|origin=https://www.skysports.com|referrer=https://www.skysports.com
-
-
+#EXTINF:-1 tvg-chno="2000"tvg-id="5ce8338070766ae774a3a56ccee65619" tvg-group="DAZN Pack",DAZN 1
+http://176.65.146.132:9981/stream/channelid/3401820?profile=htsp
+#EXTINF:-1 tvg-chno="2000"tvg-id="515ccb02f6792a876621be5abdc9bbac" tvg-group="DAZN Pack",DAZN 1
+http://176.65.146.132:9981/stream/channelid/46881873?profile=htsp
+#EXTINF:-1 tvg-chno="2000"tvg-id="c9ea0c0ee8c99de8568b528ef7b9fd2a" tvg-group="DAZN Pack",DAZN 1
+http://176.65.146.132:9981/stream/channelid/235727561?profile=htsp
+#EXTINF:-1 tvg-chno="2000"tvg-id="cb7fe377409801d07e17a4102635927e" tvg-group="DAZN Pack",DAZN 1
+http://176.65.146.132:9981/stream/channelid/2011398091?profile=htsp
+#EXTINF:-1 tvg-chno="2000"tvg-id="ba81c33a188c81ef9ad7873f7fb37e9a" tvg-group="DAZN Pack",DAZN 1 BAR
+http://176.65.146.132:9981/stream/channelid/985891258?profile=htsp
+#EXTINF:-1 tvg-chno="2000"tvg-id="0506c29da9314ffa5da0dc82098421c6" tvg-group="DAZN Pack",DAZN 2
+http://176.65.146.132:9981/stream/channelid/499254789?profile=htsp
+#EXTINF:-1 tvg-chno="2000"tvg-id="43f8dca5cdd1f2cf63f3c38d0af96d79" tvg-group="DAZN Pack",DAZN 2
+http://176.65.146.132:9981/stream/channelid/635238467?profile=htsp
+#EXTINF:-1 tvg-chno="2000"tvg-id="7b8d4eb5689e3c218972a03ba43d0d78" tvg-group="DAZN Pack",DAZN 2
+http://176.65.146.132:9981/stream/channelid/894340475?profile=htsp
+#EXTINF:-1 tvg-chno="2000"tvg-id="c41bf14a9962e55abcae9ea18012915c" tvg-group="DAZN Pack",DAZN 2
+http://176.65.146.132:9981/stream/channelid/1257315268?profile=htsp
+#EXTINF:-1 tvg-chno="2000"tvg-id="8c1fe8040d7dfae1f5ceae44a5396ae0" tvg-group="DAZN Pack",DAZN 2 BAR
+http://176.65.146.132:9981/stream/channelid/82321292?profile=htsp
+#EXTINF:-1 tvg-chno="2000"tvg-id="3ef593359981b228aef1c044695067cc" tvg-group="DAZN Pack",DAZN 3
+http://176.65.146.132:9981/stream/channelid/898889022?profile=htsp
+#EXTINF:-1 tvg-chno="2000"tvg-id="a4e69f35b23a77939403dee6ca5e7d18" tvg-group="DAZN Pack",DAZN 3
+http://176.65.146.132:9981/stream/channelid/899671716?profile=htsp
+#EXTINF:-1 tvg-chno="2000"tvg-id="b86d911ca48fa8a29da241162e10ee19" tvg-group="DAZN Pack",DAZN 4
+http://176.65.146.132:9981/stream/channelid/479292856?profile=htsp
+#EXTINF:-1 tvg-chno="2000"tvg-id="919d5e898901673d921695cbc4cc69da" tvg-group="DAZN Pack",DAZN F1 HD
+http://176.65.146.132:9981/stream/channelid/157195665?profile=htsp
+#EXTINF:-1 tvg-chno="2000"tvg-id="4295bdd5142b42235aae2bb650cff9bf" tvg-group="DAZN Pack",DAZN LALIGA
+http://176.65.146.132:9981/stream/channelid/1438487874?profile=htsp
+#EXTINF:-1 tvg-chno="2000"tvg-id="e3959d8c4bbd68e62984b1ab54621d13" tvg-group="DAZN Pack",DAZN LALIGA 2
+http://176.65.146.132:9981/stream/channelid/211654115?profile=htsp
+#EXTINF:-1 tvg-chno="2000"tvg-id="8988eb451d694d8fee5cffbcc4060025" tvg-group="DAZN Pack",DAZN LALIGA 2 HD
+http://176.65.146.132:9981/stream/channelid/1173063817?profile=htsp
+#EXTINF:-1 tvg-chno="2000"tvg-id="d09f2a656627241fb1bbf5bf5c9de725" tvg-group="DAZN Pack",DAZN LALIGA HD
+http://176.65.146.132:9981/stream/channelid/1697292240?profile=htsp
+#EXTINF:-1 tvg-chno="2000"tvg-id="dce5e820041c750b0bc4137143ccb2d9" tvg-group="DAZN Pack",DAZN Pro League 1 FR
+http://176.65.146.132:9981/stream/channelid/552134108?profile=htsp
