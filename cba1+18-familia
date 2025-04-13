@@ -906,7 +906,7 @@ https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mp
 
 
 #EXTINF:-1 tvg-chno="563" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://shorturl.at/245Xe" group-title="Deportes Premium - Latam",ESPN Deportes - USA
-http://45.68.35.218:4001/play/a015/index.m3u8
+https://tokio.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=b4a8a0d213e98c01f13a206383256dc4a7310379-fc-1744554710-1744522310
 
 #EXTINF:-1 tvg-chno="564" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://shorturl.at/I2emb" group-title="Deportes Premium - Latam",TUDN - USA
 http://45.68.35.218:4001/play/a00x/index.m3u8
