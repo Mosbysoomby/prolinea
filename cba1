@@ -887,20 +887,72 @@ https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd?|referer=https://p
 #KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd?|origin=https://web.app.flow.com.ar|referer=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-chno="560" tvg-id="ESPN HD.uy" tvg-shift="0" tvg-name="ESPN HD.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png?20210816020428" group-title="Deportes Premium - URU - ESPN",ESPN - Uruguay
+#EXTINF:-1 tvg-chno="560" tvg-id="ESPN HD.uy" tvg-shift="0" tvg-name="ESPN HD.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png?20210816020428" group-title="Deportes Premium - Latam",ESPN - Uruguay
 #KODIPROP:inputstream.adaptive.license_type=org.w27.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6362e1f36fcb7ee3c47debd9140336ad:9ba1d46c5b9c7a3130a5dabbf7155175
 https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd?|origin=https://web.app.flow.com.ar|referer=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-chno="561" tvg-id="ESPN 2 HD.uy" tvg-shift="0" tvg-name="ESPN 2 HD.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Espn-2-hd-logo.png" group-title="Deportes Premium - URU - ESPN",ESPN 2 - Uruguay
+#EXTINF:-1 tvg-chno="561" tvg-id="ESPN 2 HD.uy" tvg-shift="0" tvg-name="ESPN 2 HD.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Espn-2-hd-logo.png" group-title="Deportes Premium - Latam",ESPN 2 - Uruguay
 #KODIPROP:inputstream.adaptive.license_type=org.w28.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d820100144772fed9f38b83650fa7e1:ded8cc47b29b0eb0b0a87df22e721847
 https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd?|origin=https://web.app.flow.com.ar|referer=https://web.app.flow.com.ar
 
-#EXTINF:-1 tvg-chno="562" tvg-id="ESPN 3 HD.uy" tvg-shift="0" tvg-name="ESPN 3 HD.uy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1feV02t714tfR9bzkEuNFb8fDTJ2dn1aKHKKXE-Mc7czEeZ5pTjycZORPn53yjERWlPcDm6bp3QASFs5889QOQE1QFdOWdf24PfZckHQtBGzAESxbR9e7lefAtrD98WRtjH_yhRB4tfI/s496/espn3-2020.png" group-title="Deportes Premium - URU - ESPN",ESPN 3 - Uruguay
+#EXTINF:-1 tvg-chno="562" tvg-id="ESPN 3 HD.uy" tvg-shift="0" tvg-name="ESPN 3 HD.uy" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1feV02t714tfR9bzkEuNFb8fDTJ2dn1aKHKKXE-Mc7czEeZ5pTjycZORPn53yjERWlPcDm6bp3QASFs5889QOQE1QFdOWdf24PfZckHQtBGzAESxbR9e7lefAtrD98WRtjH_yhRB4tfI/s496/espn3-2020.png" group-title="Deportes Premium - Latam",ESPN 3 - Uruguay
 #KODIPROP:inputstream.adaptive.license_type=org.w29.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e
 https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd?|origin=https://web.app.flow.com.ar|referer=https://web.app.flow.com.ar
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-chno="563" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://shorturl.at/245Xe" group-title="Deportes Premium - Latam",ESPN Deportes - USA
+http://45.68.35.218:4001/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-chno="564" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://shorturl.at/I2emb" group-title="Deportes Premium - Latam",TUDN - USA
+http://45.68.35.218:4001/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-chno="565" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://shorturl.at/I2emb" group-title="Deportes Premium - Latam",TUDN - Mexico
+http://45.68.35.218:4001/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-chno="566" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://shorturl.at/I2emb" group-title="Deportes Premium - Latam",TUDN 2 - Mexico
+http://45.68.35.218:4001/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-chno="567" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://shorturl.at/I2emb" group-title="Deportes Premium - Latam",TUDN 3 - Mexico
+http://45.68.35.218:4001/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-chno="568" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://shorturl.at/S8CQv" group-title="Deportes Premium - Latam",Fox Sports - Mexico
+http://45.68.35.218:4001/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-chno="569" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://shorturl.at/45fUk" group-title="Deportes Premium - Latam",Fox Sports 2 - Mexico
+http://45.68.35.218:4001/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-chno="570" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://shorturl.at/ngrOC" group-title="Deportes Premium - Latam",Sky Sports La Liga
+http://45.68.35.218:4001/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-chno="571" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/20/1/bundesliga-logo-png_seeklogo-207002.png" group-title="Deportes Premium - Latam",Sky Sports Bundesliga
+http://45.68.35.218:4001/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-chno="572" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="" group-title="Deportes Premium - Latam",ViX Premium La Liga - Mexico
+http://45.68.35.218:4001/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-chno="573" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="" group-title="Deportes Premium - Latam",Tigo Sports
+http://45.68.35.218:4001/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-chno="574" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="" group-title="Deportes Premium - Latam",Tigo Sports 2
+http://45.68.35.218:4001/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-chno="575" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="" group-title="Deportes Premium - Latam",Tigo Sports+
+http://45.68.35.218:4001/play/a01b/index.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-chno="600" tvg-id="CANAL 7 BAHIA BLANCA.ar" tvg-shift="0" tvg-name="CANAL 7 BAHIA BLANCA.ar" tvg-logo="https://www.canalsiete.com.ar/wp-content/uploads/2022/11/Logoweb_2023.png.webp" group-title="ARG - Bs As - Bahia",Canal Siete Bahía Blanca (Bahia Blanca)
 #KODIPROP:inputstream.adaptive.license_type=org.w192.clearkey
