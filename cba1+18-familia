@@ -901,6 +901,57 @@ https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd?|ori
 #KODIPROP:inputstream.adaptive.license_key=ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e
 https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc/ESPN3_Uy-Py.mpd?|origin=https://web.app.flow.com.ar|referer=https://web.app.flow.com.ar
 
+
+
+
+
+#EXTINF:-1 tvg-chno="563" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://shorturl.at/245Xe" group-title="Deportes Premium - Latam",ESPN Deportes - USA
+http://45.68.35.218:4001/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-chno="564" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://shorturl.at/I2emb" group-title="Deportes Premium - Latam",TUDN - USA
+http://45.68.35.218:4001/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-chno="565" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://shorturl.at/I2emb" group-title="Deportes Premium - Latam",TUDN - Mexico
+http://45.68.35.218:4001/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-chno="566" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://shorturl.at/I2emb" group-title="Deportes Premium - Latam",TUDN 2 - Mexico
+http://45.68.35.218:4001/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-chno="567" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://shorturl.at/I2emb" group-title="Deportes Premium - Latam",TUDN 3 - Mexico
+http://45.68.35.218:4001/play/a01u/index.m3u8
+
+#EXTINF:-1 tvg-chno="568" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://shorturl.at/S8CQv" group-title="Deportes Premium - Latam",Fox Sports - Mexico
+http://45.68.35.218:4001/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-chno="569" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://shorturl.at/45fUk" group-title="Deportes Premium - Latam",Fox Sports 2 - Mexico
+http://45.68.35.218:4001/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-chno="570" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://shorturl.at/ngrOC" group-title="Deportes Premium - Latam",Sky Sports La Liga
+http://45.68.35.218:4001/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-chno="571" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="https://images.seeklogo.com/logo-png/20/1/bundesliga-logo-png_seeklogo-207002.png" group-title="Deportes Premium - Latam",Sky Sports Bundesliga
+http://45.68.35.218:4001/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-chno="572" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="" group-title="Deportes Premium - Latam",ViX Premium La Liga - Mexico
+http://45.68.35.218:4001/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-chno="573" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="" group-title="Deportes Premium - Latam",Tigo Sports
+http://45.68.35.218:4001/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-chno="574" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="" group-title="Deportes Premium - Latam",Tigo Sports 2
+http://45.68.35.218:4001/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-chno="575" tvg-id="" tvg-shift="0" tvg-name="" tvg-logo="" group-title="Deportes Premium - Latam",Tigo Sports+
+http://45.68.35.218:4001/play/a01b/index.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-chno="600" tvg-id="CANAL 7 BAHIA BLANCA.ar" tvg-shift="0" tvg-name="CANAL 7 BAHIA BLANCA.ar" tvg-logo="https://www.canalsiete.com.ar/wp-content/uploads/2022/11/Logoweb_2023.png.webp" group-title="ARG - Bs As - Bahia",Canal Siete Bahía Blanca (Bahia Blanca)
 #KODIPROP:inputstream.adaptive.license_type=org.w192.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a15243320c0a79defa8814252e3e8c07&key=0659db05632c0061c126db7a12582499
