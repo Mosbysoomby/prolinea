@@ -785,25 +785,25 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd?|origin=https://web.app.flow.com.ar|referer=https://web.app.flow.com.ar
 
 
-#EXTINF:-1 tvg-chno="505" tvg-id="ESPN 2.ar" tvg-shift="0" tvg-name="ESPN 2.ar" tvg-logo="https://github.com/Mosbysoomby/prolinea/blob/main/grilla/ARG.ESPN1.png?raw=yes" group-title="Deportes",ESPN
+#EXTINF:-1 tvg-chno="505" tvg-id="ESPN 2.ar" tvg-shift="0" tvg-name="ESPN 2.ar" tvg-logo="https://github.com/Mosbysoomby/prolinea/blob/main/grilla/ARG.ESPN1.BL.png?raw=yes" group-title="Deportes",ESPN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-chno="506" tvg-id="ESPN.ar" tvg-shift="0" tvg-name="ESPN.ar" tvg-logo="https://github.com/Mosbysoomby/prolinea/blob/main/grilla/ARG.ESPN2.png?raw=yes" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-chno="506" tvg-id="ESPN.ar" tvg-shift="0" tvg-name="ESPN.ar" tvg-logo="https://github.com/Mosbysoomby/prolinea/blob/main/grilla/ARG.ESPN2.BL.png?raw=yes" group-title="Deportes",ESPN 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-chno="507" tvg-id="ESPN 3.ar" tvg-shift="0" tvg-name="ESPN 3.ar" tvg-logo="https://github.com/Mosbysoomby/prolinea/blob/main/grilla/ARG.ESPN3.png?raw=yes" group-title="Deportes",ESPN 3
+#EXTINF:-1 tvg-chno="507" tvg-id="ESPN 3.ar" tvg-shift="0" tvg-name="ESPN 3.ar" tvg-logo="https://github.com/Mosbysoomby/prolinea/blob/main/grilla/ARG.ESPN3.BL.png?raw=yes" group-title="Deportes",ESPN 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-chno="508" tvg-id="ESPN Extra.ar" tvg-shift="0" tvg-name="ESPN Extra.ar" tvg-logo="https://github.com/Mosbysoomby/prolinea/blob/main/grilla/ARG.ESPN4.png?raw=yes" group-title="Deportes",ESPN 4
+#EXTINF:-1 tvg-chno="508" tvg-id="ESPN Extra.ar" tvg-shift="0" tvg-name="ESPN Extra.ar" tvg-logo="https://github.com/Mosbysoomby/prolinea/blob/main/grilla/ARG.ESPN4.BL.png?raw=yes" group-title="Deportes",ESPN 4
 #KODIPROP:inputstream.adaptive.license_type=org.w30.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
 https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd?|origin=https://web.app.flow.com.ar|referer=https://web.app.flow.com.ar
