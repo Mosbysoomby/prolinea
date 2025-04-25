@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1
 #EXTVLCOPT:http-user-agent=Firefox
 
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/vod/vod/160/160/0/0/49923.png" group-title="Argentina Deportes",⚽ EVENTOS
@@ -16,7 +16,7 @@ https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iD/XLcm3LbM9e0+NwOsAFg","kid":"7oN9DsQU2VpRsMelfUnTBw"}],"type":"temporary"}
 #EXTVLCOPT:http-referrer=https://web.app.flow.com.ar/
 #EXTVLCOPT:http-origin=https://web.app.flow.com.ar/
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1
 #EXTVLCOPT:http-user-agent=Firefox
 
 #EXTINF:-1  tvg-logo="" group-title="Argentina",13MAX (Flow)
