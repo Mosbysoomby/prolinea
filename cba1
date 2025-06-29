@@ -2379,21 +2379,9 @@ https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/N4AiIwBJ/live.is
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/VePlus/default/index.mpd
-#EXTINF:-1 tvg-chno="990" group-title="Sensa V2" tvg-id=""" tvg-shift="" tvg-name="" tvg-logo="",Playboy TV (18+)  ( Sensa V2 )
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f51160ad68cb411abbae2b7e51e20ad4:3015d76327dcd38f19037e5af639ebb2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 
 
-https://cdn.sensa.com.ar/live/eds/Playboy/live_dash_cld/Playboy.mpd
 #EXTINF:-1 tvg-chno="1000" group-title="Sensa V2" tvg-id=""" tvg-shift="" tvg-name="" tvg-logo="",Cadena 3 Cordoba  ( Sensa V2 )
-
-
-
-
-
-
 https://cdn.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 #EXTINF:-1 tvg-chno="1001" group-title="Sensa V2" tvg-id=""" tvg-shift="" tvg-name="" tvg-logo="",Cosquin Rock  ( Sensa V2 )
 
