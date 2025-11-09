@@ -1267,37 +1267,13 @@ https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd
 
-#EXTINF:-1 tvg-chno="550" group-title="14 - Deportes Premium 1 - ARG" tvg-id=""" tvg-shift="" tvg-name="ESPN PREMIUM.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbT9nRpjRW1PfZMo0wywvjXVAGOBH_2eWPBF4ScJj3-6QOPm4YIi4JlwAtBrT7F048hsJXf8LSGhC74dS-gT3oD5NMV_DQ2jFp1lTcFg8xeUSaoWiY1gh5T7Y6n5CsZc1UGfEdzNW2L5MUKaCjicxcjmeBFaVKP6CHTpeu4f1cowj1nckAxWRcAXz3/s766/espn-premium.png",ESPN Premium
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd
 
 #EXTINF:-1 tvg-chno="550" group-title="14 - Deportes Premium 1 - ARG" tvg-id=""" tvg-shift="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbT9nRpjRW1PfZMo0wywvjXVAGOBH_2eWPBF4ScJj3-6QOPm4YIi4JlwAtBrT7F048hsJXf8LSGhC74dS-gT3oD5NMV_DQ2jFp1lTcFg8xeUSaoWiY1gh5T7Y6n5CsZc1UGfEdzNW2L5MUKaCjicxcjmeBFaVKP6CHTpeu4f1cowj1nckAxWRcAXz3/s766/espn-premium.png",ESPN Premium
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
+http://200.80.230.123:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-chno="551" group-title="14 - Deportes Premium 1 - ARG" tvg-id=""" tvg-shift="" tvg-name="TNT Sports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true",TNT Sports Premium
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
+http://200.80.230.123:8000/play/a0bk/index.m3u8
 
-#EXTINF:-1 tvg-chno="551" group-title="14 - Deportes Premium 1 - ARG" tvg-id=""" tvg-shift="" tvg-name="TNT Sports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true",TNT Sports Premium
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=08fe89bb41ac5f4825bbaa358b3458c7:c1ea85d94fb80f64d53747529e488a75
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd
 
 #EXTINF:-1 tvg-chno="560" group-title="14 - Deportes Premium 2 - ARG" tvg-id=""" tvg-shift="" tvg-name="TyC Sports 2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/vod/vod/320/320/0/0/49923.png",Sensa Eventos
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
