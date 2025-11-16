@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-chno="0" group-title="Radios" tvg-id="﻿Canal 20.ar" tvg-name="﻿Canal 20.ar" tvg-logo="https://cdn.instant.audio/images/logos/radioarg-com/los-40-principales.png" ,Los 40 Principales
 #EXTVLCOPT:http-referrer=https://radioarg.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/122.0.0.0 Safari/537.36
@@ -613,15 +612,11 @@ https://nog-live1-ott.izzigo.tv/1/out/u/dash/GOLFCHANNELHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=8c53466401bf1c02903470cf41d01b6e:90898b3079182c414ecc104ff53dc9b7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/122.0.0.0 Safari/537.36
 https://nog-live1-ott.izzigo.tv/4/out/u/dash/PXSPORTSHD/default.mpd
-#EXTINF:-1 tvg-chno="550" group-title="Deportes Pack Futbol" tvg-id="﻿ESPN PREMIUM.ar" tvg-name="﻿ESPN PREMIUM.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbT9nRpjRW1PfZMo0wywvjXVAGOBH_2eWPBF4ScJj3-6QOPm4YIi4JlwAtBrT7F048hsJXf8LSGhC74dS-gT3oD5NMV_DQ2jFp1lTcFg8xeUSaoWiY1gh5T7Y6n5CsZc1UGfEdzNW2L5MUKaCjicxcjmeBFaVKP6CHTpeu4f1cowj1nckAxWRcAXz3/s766/espn-premium.png" ,ESPN Premium
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w34.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-#EXTVLCOPT:http-referrer=https://web.app.flow.com.ar
-#EXTVLCOPT:http-origin=https://web.app.flow.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/122.0.0.0 Safari/537.36
-https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
 #EXTINF:-1 tvg-chno="550" ,ESPN Premium
 http://200.80.230.123:8000/play/a078/index.m3u8
 #EXTINF:-1 tvg-chno="550" ,ESPN Premium
 http://201.217.246.177:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-chno="551" ,TNT Sports Premium
+http://200.80.230.123:8000/play/a0bk/index.m3u8
+#EXTINF:-1 tvg-chno="551" ,TNT Sports Premium
+http://201.217.246.177:8000/play/a02u/index.m3u8
