@@ -7,24 +7,24 @@ https://smt-usr-edge01.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 https://smt-usr-edge01.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
 #EXTINF:-1 tvg-chno="0" group-title="Radios" tvg-id="﻿Canal 20.ar" tvg-name="﻿Canal 20.ar" tvg-logo="https://www.lapopu.com.ar/img/logo3-la-popu.png" ,La Popu (Cordoba)
 https://smt-usr-edge01.sensa.com.ar/output/ET-01/popular/master.m3u8
-#EXTINF:-1 tvg-chno="8" group-title="Cordoba" tvg-id="﻿Telefe Cordoba.ar" tvg-name="﻿Telefe Cordoba.ar" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/LV85.png" ,Telefe Cordoba (Cordoba)
-https://smt-usr-edge01.sensa.com.ar/output/Canal8D/output.mpd
-#EXTINF:-1 tvg-chno="10" group-title="Cordoba" tvg-id="Canal 10.cba.ar" tvg-name="Canal 10.cba.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/grilla-logos-2025/arg.cba.canal10.png" ,Canal 10 (Cordoba)
-https://smt-usr-edge01.sensa.com.ar/output/Canal10D/output.mpd
-#EXTINF:-1 tvg-chno="12" group-title="Cordoba" tvg-id="Canal 12.cba.ar" tvg-name="Canal 12.cba.ar" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/El_doce_tv_cba_logo.png/640px-El_doce_tv_cba_logo.png&w=640&q=50" ,El Doce (Cordoba)
-https://smt-usr-edge01.sensa.com.ar/output/Canal12D/output.mpd
 #EXTINF:-1 tvg-chno="6" group-title="Nacional" tvg-id="﻿AMERICA TV.ar" tvg-name="﻿AMERICA TV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" ,America TV
 #EXTVLCOPT:http-user-agent=iPhone
 http://200.80.230.123:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-chno="7" group-title="Nacional" tvg-id="﻿TV PUBLICA.ar" tvg-name="﻿TV PUBLICA.ar" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1569/1569_t-290x163.png" ,TV Publica
 #EXTVLCOPT:http-user-agent=iPhone
 http://201.217.246.177:8000/play/a056/index.m3u8
+#EXTINF:-1 tvg-chno="8" group-title="Cordoba" tvg-id="﻿Telefe Cordoba.ar" tvg-name="﻿Telefe Cordoba.ar" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/LV85.png" ,Telefe Cordoba (Cordoba)
+https://smt-usr-edge01.sensa.com.ar/output/Canal8D/output.mpd
 #EXTINF:-1 tvg-chno="9" group-title="Nacional" tvg-id="﻿EL NUEVE.ar" tvg-name="﻿EL NUEVE.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" ,El Nueve
 #EXTVLCOPT:http-user-agent=iPhone
 http://201.217.246.177:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-chno="10" group-title="Cordoba" tvg-id="Canal 10.cba.ar" tvg-name="Canal 10.cba.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/grilla-logos-2025/arg.cba.canal10.png" ,Canal 10 (Cordoba)
+https://smt-usr-edge01.sensa.com.ar/output/Canal10D/output.mpd
 #EXTINF:-1 tvg-chno="11" group-title="Nacional" tvg-id="﻿TELEFE.ar" tvg-name="﻿TELEFE.ar" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1335/1335_t-290x163.png" ,Telefe
 #EXTVLCOPT:http-user-agent=iPhone
 http://181.13.252.102:8000/play/a06c/index.m3u8
+#EXTINF:-1 tvg-chno="12" group-title="Cordoba" tvg-id="Canal 12.cba.ar" tvg-name="Canal 12.cba.ar" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/El_doce_tv_cba_logo.png/640px-El_doce_tv_cba_logo.png&w=640&q=50" ,El Doce (Cordoba)
+https://smt-usr-edge01.sensa.com.ar/output/Canal12D/output.mpd
 #EXTINF:-1 tvg-chno="13" group-title="Nacional" tvg-id="﻿EL TRECE.ar" tvg-name="﻿EL TRECE.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" ,El Trece
 #EXTVLCOPT:http-user-agent=iPhone
 http://201.217.246.177:8000/play/a06d/index.m3u8
