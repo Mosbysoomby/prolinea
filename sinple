@@ -3,5 +3,27 @@
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_1_372x160.png",La 1 (España)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&preroll_duration=30&preroll=1
 
+
+
 #EXTINF:-1 tvg-chno="84" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" ,84 - America (Peru)  - 213.12
 http://38.252.213.12:8000/play/a007
+
+#EXTINF:-1 tvg-id="TyCSports.ar" group-title="" tvg-logo="https://media.urgente24.com/p/5bed8f642e20b3dbafd5667382483243/adjuntos/319/imagenes/003/272/0003272155/800x0/smart/tyc-sportswebp.png",TYC SPORTS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+https://edge-live14-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyOTc4NjUyIiwic2lwIjoiMTgxLjE3MC4yNTIuMjAxIiwicGF0aCI6Ii9saXZlL2M3ZWRzL1R5Q1Nwb3J0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxN2E1YzkxMmY3ZWFiZmIxIiwic2Vzc2lvbl9pZCI6ImI1MzI0ZjM5NzU5OTk0ZDg2MWZmZDRkMTY3ZTlhYTJmLTE3NzI4MDU4NTEtOTM0IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDIyNjk4NjQtLWZsb3c6OTk5OTAwMDAyMjY5ODY0OlAiLCJkZXZpY2VfaWQiOiJiNTMyNGYzOTc1OTk5NGQ4NjFmZmQ0ZDE2N2U5YWEyZiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjcxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.6AIvDtJ-ms4uaf537id7Ez1FFdHWSg_Y5re4OdwyOI1Bzbe9BG7XKO57H9lGlPIAZ_uAshGuej_lt_Jyi5Vwnw==/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+
+#EXTINF:-1 tvg-id="TyCSports.ar" group-title="" tvg-logo="https://media.urgente24.com/p/5bed8f642e20b3dbafd5667382483243/adjuntos/319/imagenes/003/272/0003272155/800x0/smart/tyc-sportswebp.png",TYC SPORTS 1
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
+https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd|referer=https://player.sensa.com.ar/&webtoken=1.0
+
