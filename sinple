@@ -1,29 +1,410 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_1_372x160.png",La 1 (España)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&preroll_duration=30&preroll=1
-
-
-
-#EXTINF:-1 tvg-chno="84" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2031-205_import.png" ,84 - America (Peru)  - 213.12
-http://38.252.213.12:8000/play/a007
-
-#EXTINF:-1 tvg-id="TyCSports.ar" group-title="" tvg-logo="https://media.urgente24.com/p/5bed8f642e20b3dbafd5667382483243/adjuntos/319/imagenes/003/272/0003272155/800x0/smart/tyc-sportswebp.png",TYC SPORTS
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
-https://edge-live14-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyOTc4NjUyIiwic2lwIjoiMTgxLjE3MC4yNTIuMjAxIiwicGF0aCI6Ii9saXZlL2M3ZWRzL1R5Q1Nwb3J0L1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIxN2E1YzkxMmY3ZWFiZmIxIiwic2Vzc2lvbl9pZCI6ImI1MzI0ZjM5NzU5OTk0ZDg2MWZmZDRkMTY3ZTlhYTJmLTE3NzI4MDU4NTEtOTM0IiwiY2xpZW50X2lkIjoiZmxvdzo5OTk5MDAwMDIyNjk4NjQtLWZsb3c6OTk5OTAwMDAyMjY5ODY0OlAiLCJkZXZpY2VfaWQiOiJiNTMyNGYzOTc1OTk5NGQ4NjFmZmQ0ZDE2N2U5YWEyZiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjcxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.6AIvDtJ-ms4uaf537id7Ez1FFdHWSg_Y5re4OdwyOI1Bzbe9BG7XKO57H9lGlPIAZ_uAshGuej_lt_Jyi5Vwnw==/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
-
-#EXTINF:-1 tvg-id="TyCSports.ar" group-title="" tvg-logo="https://media.urgente24.com/p/5bed8f642e20b3dbafd5667382483243/adjuntos/319/imagenes/003/272/0003272155/800x0/smart/tyc-sportswebp.png",TYC SPORTS 1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-chno="1358" tvg-logo="https://www.tvchannellists.com/wiki/images/9/9c/TNT_Sports.svg" ,1358 - TNT Sports (Chile)  - 195.44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://38.7.195.44:8000/play/a0a7
+#EXTINF:-1 tvg-chno="1359" tvg-logo="https://www.tvchannellists.com/wiki/images/9/9c/TNT_Sports.svg" ,1359 - TNT Sports (Chile)  - 195.45
+http://38.7.195.45:8000/play/a01d
+#EXTINF:-1 tvg-chno="1360" tvg-logo="https://www.tvchannellists.com/wiki/images/9/9c/TNT_Sports.svg" ,1360 - TNT Sports (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-chno="1361" tvg-logo="https://www.tvchannellists.com/wiki/images/9/9c/TNT_Sports.svg" ,1361 - TNT Sports (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0gl/index.m3u8
+#EXTINF:-1 tvg-chno="1362" tvg-logo="https://www.tvchannellists.com/wiki/images/9/9c/TNT_Sports.svg" ,1362 - TNT Sports (Chile)  - 229.66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://152.230.229.66:8001/play/a01n/index.m3u8
+#EXTINF:-1 tvg-chno="1363" tvg-logo="https://www.tvchannellists.com/wiki/images/9/9c/TNT_Sports.svg" ,1363 - TNT Sports (Chile)  - BudTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278989.m3u8
+#EXTINF:-1 tvg-chno="1364" tvg-logo="https://www.tvchannellists.com/wiki/images/8/82/TNT_Sports_Premium.svg" ,1364 - TNT Sports Premium (Argentina)  - 252102
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://181.13.252.102:8000/play/a0bc/index.m3u8
+#EXTINF:-1 tvg-chno="1365" tvg-logo="https://www.tvchannellists.com/wiki/images/8/82/TNT_Sports_Premium.svg" ,1365 - TNT Sports Premium (Argentina)  - Sensa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
-https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=08fe89bb41ac5f4825bbaa358b3458c7:c1ea85d94fb80f64d53747529e488a75
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd
+#EXTINF:-1 tvg-chno="1366" tvg-logo="https://www.tvchannellists.com/wiki/images/8/82/TNT_Sports_Premium.svg" ,1366 - TNT Sports Premium (Argentina)  - Sensa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
+#EXTINF:-1 tvg-chno="1367" tvg-logo="https://www.tvchannellists.com/wiki/images/8/82/TNT_Sports_Premium.svg" ,1367 - TNT Sports Premium (Chile)  - 108.45
+http://209.14.108.45:8000/play/a0fx
+#EXTINF:-1 tvg-chno="1368" tvg-logo="https://www.tvchannellists.com/wiki/images/8/82/TNT_Sports_Premium.svg" ,1368 - TNT Sports Premium (Chile)  - 195.44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://38.7.195.44:8000/play/a077
+#EXTINF:-1 tvg-chno="1369" tvg-logo="https://www.tvchannellists.com/wiki/images/8/82/TNT_Sports_Premium.svg" ,1369 - TNT Sports Premium (Chile)  - 195.44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://38.7.195.44:8000/play/a0e7
+#EXTINF:-1 tvg-chno="1370" tvg-logo="https://www.tvchannellists.com/wiki/images/8/82/TNT_Sports_Premium.svg" ,1370 - TNT Sports Premium (Chile)  - 195.45
+http://38.7.195.45:8000/play/a00w
+#EXTINF:-1 tvg-chno="1371" tvg-logo="https://www.tvchannellists.com/wiki/images/8/82/TNT_Sports_Premium.svg" ,1371 - TNT Sports Premium (Chile)  - 195.45
+http://38.7.195.45:8000/play/a025
+#EXTINF:-1 tvg-chno="1372" tvg-logo="https://www.tvchannellists.com/wiki/images/8/82/TNT_Sports_Premium.svg" ,1372 - TNT Sports Premium (Chile)  - 195.45
+http://38.7.195.45:8000/play/a05w
+#EXTINF:-1 tvg-chno="1373" tvg-logo="https://www.tvchannellists.com/wiki/images/8/82/TNT_Sports_Premium.svg" ,1373 - TNT Sports Premium (Chile)  - 213.12
+http://38.252.213.12:8000/play/a06w
+#EXTINF:-1 tvg-chno="1374" tvg-logo="https://www.tvchannellists.com/wiki/images/8/82/TNT_Sports_Premium.svg" ,1374 - TNT Sports Premium (Chile)  - 223.20
+http://38.7.223.20:8000/play/a094
+#EXTINF:-1 tvg-chno="1375" tvg-logo="https://www.tvchannellists.com/wiki/images/8/82/TNT_Sports_Premium.svg" ,1375 - TNT Sports Premium (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0bs/index.m3u8
+#EXTINF:-1 tvg-chno="1376" tvg-logo="https://www.tvchannellists.com/wiki/images/8/82/TNT_Sports_Premium.svg" ,1376 - TNT Sports Premium (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0c1/index.m3u8
+#EXTINF:-1 tvg-chno="1377" tvg-logo="https://www.tvchannellists.com/wiki/images/8/82/TNT_Sports_Premium.svg" ,1377 - TNT Sports Premium (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0cz/index.m3u8
+#EXTINF:-1 tvg-chno="1378" tvg-logo="https://www.tvchannellists.com/wiki/images/8/82/TNT_Sports_Premium.svg" ,1378 - TNT Sports Premium (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0ek/index.m3u8
+#EXTINF:-1 tvg-chno="1379" tvg-logo="https://www.tvchannellists.com/wiki/images/8/82/TNT_Sports_Premium.svg" ,1379 - TNT Sports Premium (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0h4/index.m3u8
+#EXTINF:-1 tvg-chno="1380" tvg-logo="https://www.tvchannellists.com/wiki/images/8/82/TNT_Sports_Premium.svg" ,1380 - TNT Sports Premium (Chile)  - 229.66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://152.230.229.66:8001/play/a00f/index.m3u8
 
+
+
+#EXTINF:-1 tvg-chno="582" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,582 - ESPN (Argentina)  - 151.62
+http://45.5.151.62:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-chno="583" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,583 - ESPN (Argentina)  - 252102
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://181.13.252.102:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-chno="584" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,584 - ESPN (Argentina)  - Sensa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
+#EXTINF:-1 tvg-chno="585" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,585 - ESPN (Chile)  - 195.44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://38.7.195.44:8000/play/a02z
+#EXTINF:-1 tvg-chno="586" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,586 - ESPN (Chile)  - 195.44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://38.7.195.44:8000/play/a04h
+#EXTINF:-1 tvg-chno="587" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,587 - ESPN (Chile)  - 195.45
+http://38.7.195.45:8000/play/a01b
+#EXTINF:-1 tvg-chno="588" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,588 - ESPN (Chile)  - 223.20
+http://38.7.223.20:8000/play/a0l3
+#EXTINF:-1 tvg-chno="589" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,589 - ESPN (Chile)  - 229.30
+http://190.93.229.30:8000/play/a07s/index.m3u8
+#EXTINF:-1 tvg-chno="590" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,590 - ESPN (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0a1/index.m3u8
+#EXTINF:-1 tvg-chno="591" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,591 - ESPN (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0cb/index.m3u8
+#EXTINF:-1 tvg-chno="592" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,592 - ESPN (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0d0/index.m3u8
+#EXTINF:-1 tvg-chno="593" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,593 - ESPN (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0fb/index.m3u8
+#EXTINF:-1 tvg-chno="594" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,594 - ESPN (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0fw/index.m3u8
+#EXTINF:-1 tvg-chno="595" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,595 - ESPN (Chile)  - 229.66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://152.230.229.66:8001/play/a01k/index.m3u8
+#EXTINF:-1 tvg-chno="596" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,596 - ESPN (Colombia)  - 86170
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://138.117.86.170:18000/play/a098
+#EXTINF:-1 tvg-chno="597" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,597 - ESPN (Sur)  - 108.45
+http://209.14.108.45:8000/play/a0c1
+#EXTINF:-1 tvg-chno="598" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,598 - ESPN (Sur)  - 108.65
+http://209.14.108.65:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-chno="599" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,599 - ESPN 2 (Argentina)  - 151.62
+http://45.5.151.62:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-chno="600" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,600 - ESPN 2 (Argentina)  - 252102
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://181.13.252.102:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-chno="601" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,601 - ESPN 2 (Argentina)  - Sensa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
+#EXTINF:-1 tvg-chno="602" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,602 - ESPN 2 (Chile)  - 195.45
+http://38.7.195.45:8000/play/a011
+#EXTINF:-1 tvg-chno="603" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,603 - ESPN 2 (Chile)  - 223.20
+http://38.7.223.20:8000/play/a095
+#EXTINF:-1 tvg-chno="604" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,604 - ESPN 2 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0c2/index.m3u8
+#EXTINF:-1 tvg-chno="605" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,605 - ESPN 2 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0em/index.m3u8
+#EXTINF:-1 tvg-chno="606" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,606 - ESPN 2 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0eq/index.m3u8
+#EXTINF:-1 tvg-chno="607" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,607 - ESPN 2 (Peru)  - 108.45
+http://209.14.108.45:8000/play/a0ik
+#EXTINF:-1 tvg-chno="608" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,608 - ESPN 2 (Peru)  - 108.65
+http://209.14.108.65:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-chno="609" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,609 - ESPN 2 (Peru)  - 108.65
+http://209.14.108.65:8000/play/a097/index.m3u8
+#EXTINF:-1 tvg-chno="610" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,610 - ESPN 2 (Peru)  - 108.65
+http://209.14.108.65:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-chno="611" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,611 - ESPN 2 (Sur)  - 195.44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://38.7.195.44:8000/play/a01l
+#EXTINF:-1 tvg-chno="612" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,612 - ESPN 2 (Sur)  - 213.12
+http://38.252.213.12:8000/play/a05z
+#EXTINF:-1 tvg-chno="613" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,613 - ESPN 2 (Sur)  - 229.30
+http://190.93.229.30:8000/play/a08k/index.m3u8
+#EXTINF:-1 tvg-chno="614" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,614 - ESPN 2 (Sur)  - 229.30
+http://190.93.229.30:8000/play/a0ba/index.m3u8
+#EXTINF:-1 tvg-chno="615" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,615 - ESPN 2 (Sur)  - 229.30
+http://190.93.229.30:8000/play/a0f9/index.m3u8
+#EXTINF:-1 tvg-chno="616" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,616 - ESPN 2 (Sur)  - 229.66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://152.230.229.66:8001/play/a00o/index.m3u8
+#EXTINF:-1 tvg-chno="617" tvg-logo="https://static.flow.com.ar/images/294103520718/CH_LOGO/228/228/294103520718.png" ,617 - ESPN 2 (Sur)  - 86170
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://138.117.86.170:18000/play/a09t
+#EXTINF:-1 tvg-chno="618" tvg-logo="https://static.flow.com.ar/images/29145259074972/CH_LOGO/228/228/29145259074972.png" ,618 - ESPN 3 (Argentina)  - 151.62
+http://45.5.151.62:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-chno="619" tvg-logo="https://static.flow.com.ar/images/29145259074972/CH_LOGO/228/228/29145259074972.png" ,619 - ESPN 3 (Argentina)  - 252102
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://181.13.252.102:8000/play/a05b/index.m3u8
+#EXTINF:-1 tvg-chno="620" tvg-logo="https://static.flow.com.ar/images/29145259074972/CH_LOGO/228/228/29145259074972.png" ,620 - ESPN 3 (Argentina)  - Sensa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
+#EXTINF:-1 tvg-chno="621" tvg-logo="https://static.flow.com.ar/images/29145259074972/CH_LOGO/228/228/29145259074972.png" ,621 - ESPN 3 (Chile)  - 195.45
+http://38.7.195.45:8000/play/a021
+#EXTINF:-1 tvg-chno="622" tvg-logo="https://static.flow.com.ar/images/29145259074972/CH_LOGO/228/228/29145259074972.png" ,622 - ESPN 3 (Chile)  - 223.20
+http://38.7.223.20:8000/play/a0jr
+#EXTINF:-1 tvg-chno="623" tvg-logo="https://static.flow.com.ar/images/29145259074972/CH_LOGO/228/228/29145259074972.png" ,623 - ESPN 3 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0bn/index.m3u8
+#EXTINF:-1 tvg-chno="624" tvg-logo="https://static.flow.com.ar/images/29145259074972/CH_LOGO/228/228/29145259074972.png" ,624 - ESPN 3 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0ex/index.m3u8
+#EXTINF:-1 tvg-chno="625" tvg-logo="https://static.flow.com.ar/images/29145259074972/CH_LOGO/228/228/29145259074972.png" ,625 - ESPN 3 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0f6/index.m3u8
+#EXTINF:-1 tvg-chno="626" tvg-logo="https://static.flow.com.ar/images/29145259074972/CH_LOGO/228/228/29145259074972.png" ,626 - ESPN 3 (Peru)  - 108.45
+http://209.14.108.45:8000/play/a0hm
+#EXTINF:-1 tvg-chno="627" tvg-logo="https://static.flow.com.ar/images/29145259074972/CH_LOGO/228/228/29145259074972.png" ,627 - ESPN 3 (Peru)  - 108.65
+http://209.14.108.65:8000/play/a03v/index.m3u8
+#EXTINF:-1 tvg-chno="628" tvg-logo="https://static.flow.com.ar/images/29145259074972/CH_LOGO/228/228/29145259074972.png" ,628 - ESPN 3 (Sur)  - 195.44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://38.7.195.44:8000/play/a029
+#EXTINF:-1 tvg-chno="629" tvg-logo="https://static.flow.com.ar/images/29145259074972/CH_LOGO/228/228/29145259074972.png" ,629 - ESPN 3 (Sur)  - 229.66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://152.230.229.66:8001/play/a036/index.m3u8
+#EXTINF:-1 tvg-chno="630" tvg-logo="https://static.flow.com.ar/images/29145259074972/CH_LOGO/228/228/29145259074972.png" ,630 - ESPN 3 (Sur)  - 86170
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://138.117.86.170:18000/play/a09w
+#EXTINF:-1 tvg-chno="631" tvg-logo="https://static.flow.com.ar/images/43362732071132/CH_LOGO/228/228/43362732071132.png" ,631 - ESPN 4 (Chile)  - 195.45
+http://38.7.195.45:8000/play/a019
+#EXTINF:-1 tvg-chno="632" tvg-logo="https://static.flow.com.ar/images/43362732071132/CH_LOGO/228/228/43362732071132.png" ,632 - ESPN 4 (Chile)  - 223.20
+http://38.7.223.20:8000/play/a0iz
+#EXTINF:-1 tvg-chno="633" tvg-logo="https://static.flow.com.ar/images/43362732071132/CH_LOGO/228/228/43362732071132.png" ,633 - ESPN 4 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0ew/index.m3u8
+#EXTINF:-1 tvg-chno="634" tvg-logo="https://static.flow.com.ar/images/43362732071132/CH_LOGO/228/228/43362732071132.png" ,634 - ESPN 4 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0f5/index.m3u8
+#EXTINF:-1 tvg-chno="635" tvg-logo="https://static.flow.com.ar/images/43362732071132/CH_LOGO/228/228/43362732071132.png" ,635 - ESPN 4 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0hz/index.m3u8
+#EXTINF:-1 tvg-chno="636" tvg-logo="https://static.flow.com.ar/images/43362732071132/CH_LOGO/228/228/43362732071132.png" ,636 - ESPN 4 (Latam)  - 151.62
+http://45.5.151.62:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-chno="637" tvg-logo="https://static.flow.com.ar/images/43362732071132/CH_LOGO/228/228/43362732071132.png" ,637 - ESPN 4 (Latam)  - 252102
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://181.13.252.102:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-chno="638" tvg-logo="https://static.flow.com.ar/images/43362732071132/CH_LOGO/228/228/43362732071132.png" ,638 - ESPN 4 (Latam)  - Sensa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd
+#EXTINF:-1 tvg-chno="639" tvg-logo="https://static.flow.com.ar/images/43362732071132/CH_LOGO/228/228/43362732071132.png" ,639 - ESPN 4 (Peru)  - 108.45
+http://209.14.108.45:8000/play/a0hq
+#EXTINF:-1 tvg-chno="640" tvg-logo="https://static.flow.com.ar/images/43362732071132/CH_LOGO/228/228/43362732071132.png" ,640 - ESPN 4 (Sur)  - 195.44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://38.7.195.44:8000/play/a06n
+#EXTINF:-1 tvg-chno="641" tvg-logo="https://static.flow.com.ar/images/43362732071132/CH_LOGO/228/228/43362732071132.png" ,641 - ESPN 4 (Sur)  - 86170
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://138.117.86.170:18000/play/a09q
+#EXTINF:-1 tvg-chno="642" tvg-logo="" ,642 - ESPN 5 (Chile)  - 195.44
+http://38.7.195.44:8000/play/a0ae
+#EXTINF:-1 tvg-chno="643" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5.png" ,643 - ESPN 5 (Chile)  - 195.45
+http://38.7.195.45:8000/play/a043
+#EXTINF:-1 tvg-chno="644" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5.png" ,644 - ESPN 5 (Chile)  - 223.20
+http://38.7.223.20:8000/play/a0jj
+#EXTINF:-1 tvg-chno="645" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5.png" ,645 - ESPN 5 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a09x/index.m3u8
+#EXTINF:-1 tvg-chno="646" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5.png" ,646 - ESPN 5 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0bb/index.m3u8
+#EXTINF:-1 tvg-chno="647" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5.png" ,647 - ESPN 5 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0dx/index.m3u8
+#EXTINF:-1 tvg-chno="648" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5.png" ,648 - ESPN 5 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0ej/index.m3u8
+#EXTINF:-1 tvg-chno="649" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5.png" ,649 - ESPN 5 (Chile)  - 229.66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://152.230.229.66:8001/play/a01i/index.m3u8
+#EXTINF:-1 tvg-chno="650" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5.png" ,650 - ESPN 5 (Peru)  - 108.45
+http://209.14.108.45:8000/play/a0ft
+#EXTINF:-1 tvg-chno="651" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5.png" ,651 - ESPN 5 (Peru)  - 108.65
+http://209.14.108.65:8000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-chno="652" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5.png" ,652 - ESPN 5 (Sur)  - 195.44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://38.7.195.44:8000/play/a024
+#EXTINF:-1 tvg-chno="653" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5.png" ,653 - ESPN 5 (Sur)  - 86170
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://138.117.86.170:18000/play/a09v
+#EXTINF:-1 tvg-chno="654" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6.png" ,654 - ESPN 6 (Chile)  - 195.45
+http://38.7.195.45:8000/play/a027
+#EXTINF:-1 tvg-chno="655" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6.png" ,655 - ESPN 6 (Chile)  - 223.20
+http://38.7.223.20:8000/play/a0jd
+#EXTINF:-1 tvg-chno="656" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6.png" ,656 - ESPN 6 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0b4/index.m3u8
+#EXTINF:-1 tvg-chno="657" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6.png" ,657 - ESPN 6 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0bj/index.m3u8
+#EXTINF:-1 tvg-chno="658" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6.png" ,658 - ESPN 6 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0ev/index.m3u8
+#EXTINF:-1 tvg-chno="659" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6.png" ,659 - ESPN 6 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0f7/index.m3u8
+#EXTINF:-1 tvg-chno="660" tvg-logo="" ,660 - ESPN 6 (Latam)  - 195.44
+http://38.7.195.44:8000/play/a0ad
+#EXTINF:-1 tvg-chno="661" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6.png" ,661 - ESPN 6 (Peru)  - 108.45
+http://209.14.108.45:8000/play/a0hk
+#EXTINF:-1 tvg-chno="662" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6.png" ,662 - ESPN 6 (Peru)  - 108.65
+http://209.14.108.65:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-chno="663" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6.png" ,663 - ESPN 6 (Sur)  - 195.44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://38.7.195.44:8000/play/a01z
+#EXTINF:-1 tvg-chno="664" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6.png" ,664 - ESPN 6 (Sur)  - 213.12
+http://38.252.213.12:8000/play/a062
+#EXTINF:-1 tvg-chno="665" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6.png" ,665 - ESPN 6 (Sur)  - 229.66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://152.230.229.66:8001/play/a024/index.m3u8
+#EXTINF:-1 tvg-chno="666" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6.png" ,666 - ESPN 6 (Sur)  - 86170
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://138.117.86.170:18000/play/a09u
+#EXTINF:-1 tvg-chno="667" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7.png" ,667 - ESPN 7 (Chile)  - 195.45
+http://38.7.195.45:8000/play/a03b
+#EXTINF:-1 tvg-chno="668" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7.png" ,668 - ESPN 7 (Chile)  - 223.20
+http://38.7.223.20:8000/play/a0ir
+#EXTINF:-1 tvg-chno="669" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7.png" ,669 - ESPN 7 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a086/index.m3u8
+#EXTINF:-1 tvg-chno="670" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7.png" ,670 - ESPN 7 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0dy/index.m3u8
+#EXTINF:-1 tvg-chno="671" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7.png" ,671 - ESPN 7 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0hb/index.m3u8
+#EXTINF:-1 tvg-chno="672" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7.png" ,672 - ESPN 7 (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0hs/index.m3u8
+#EXTINF:-1 tvg-chno="673" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7.png" ,673 - ESPN 7 (Peru)  - 108.45
+http://209.14.108.45:8000/play/a0jy
+#EXTINF:-1 tvg-chno="674" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7.png" ,674 - ESPN 7 (Peru)  - 108.65
+http://209.14.108.65:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-chno="675" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7.png" ,675 - ESPN 7 (Sur)  - 195.44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://38.7.195.44:8000/play/a014
+#EXTINF:-1 tvg-chno="676" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7.png" ,676 - ESPN 7 (Sur)  - 229.66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://152.230.229.66:8001/play/a023/index.m3u8
+#EXTINF:-1 tvg-chno="677" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7.png" ,677 - ESPN 7 (Sur)  - 86170
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://138.117.86.170:18000/play/a07e
+#EXTINF:-1 tvg-chno="678" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,678 - ESPN Premium (Argentina)  - 151.62
+http://45.5.151.62:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-chno="679" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,679 - ESPN Premium (Argentina)  - 252102
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://181.13.252.102:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-chno="680" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,680 - ESPN Premium (Argentina)  - Sensa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
+#EXTINF:-1 tvg-chno="681" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,681 - ESPN Premium (Argentina)  - Sensa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd
+#EXTINF:-1 tvg-chno="682" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,682 - ESPN Premium (Chile)  - 195.44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://38.7.195.44:8000/play/a04g
+#EXTINF:-1 tvg-chno="683" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,683 - ESPN Premium (Chile)  - 213.12
+http://38.252.213.12:8000/play/a02r
+#EXTINF:-1 tvg-chno="684" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,684 - ESPN Premium (Chile)  - 223.20
+http://38.7.223.20:8000/play/a07i
+#EXTINF:-1 tvg-chno="685" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,685 - ESPN Premium (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0cf/index.m3u8
+#EXTINF:-1 tvg-chno="686" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,686 - Espn Premium (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0cl/index.m3u8
+#EXTINF:-1 tvg-chno="687" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,687 - ESPN Premium (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0fd/index.m3u8
+#EXTINF:-1 tvg-chno="688" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,688 - ESPN Premium (Chile)  - 229.66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://152.230.229.66:8001/play/a00g/index.m3u8
+#EXTINF:-1 tvg-chno="689" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,689 - ESPN Premium (Peru)  - 108.45
+http://209.14.108.45:8000/play/a0ho
+#EXTINF:-1 tvg-chno="690" tvg-logo="https://static.etc.cl/_common/images/logoetc_2015.png" ,690 - ETC (Chile)  - 195.43
+http://38.7.195.43:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-chno="691" tvg-logo="https://static.etc.cl/_common/images/logoetc_2015.png" ,691 - ETC (Chile)  - 195.45
+http://38.7.195.45:8000/play/a04u
+#EXTINF:-1 tvg-chno="692" tvg-logo="https://static.etc.cl/_common/images/logoetc_2015.png" ,692 - ETC (Chile)  - 223.20
+http://38.7.223.20:8000/play/a0hj
+#EXTINF:-1 tvg-chno="693" tvg-logo="https://static.etc.cl/_common/images/logoetc_2015.png" ,693 - ETC (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0b0/index.m3u8
+#EXTINF:-1 tvg-chno="694" tvg-logo="https://static.etc.cl/_common/images/logoetc_2015.png" ,694 - ETC (Chile)  - 229.30
+http://190.93.229.30:8000/play/a0g8/index.m3u8
+#EXTINF:-1 tvg-chno="695" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EUROC.png?raw=true" ,695 - Eurochannel (Latam)  - 229.30
+http://190.93.229.30:8000/play/a09s/index.m3u8
+#EXTINF:-1 tvg-chno="696" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EUROC.png?raw=true" ,696 - Eurochannel (Latam)  - 229.30
+http://190.93.229.30:8000/play/a0dv/index.m3u8
+#EXTINF:-1 tvg-chno="697" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EUROC.png?raw=true" ,697 - Eurochannel (Latam)  - Sensa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf1324eab263b72f5d8373a9678e6774:1375cd3390772b03b5136dce1641ba84
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd
+#EXTINF:-1 tvg-chno="698" tvg-logo="https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png" ,698 - Europa Europa (Latam)  - 151.62
+http://45.5.151.62:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-chno="699" tvg-logo="https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png" ,699 - Europa Europa (Latam)  - 195.44
+http://38.7.195.44:8000/play/a084
+#EXTINF:-1 tvg-chno="700" tvg-logo="https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png" ,700 - Europa Europa (Latam)  - 229.30
+http://190.93.229.30:8000/play/a08r/index.m3u8
+#EXTINF:-1 tvg-chno="701" tvg-logo="https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png" ,701 - Europa Europa (Latam)  - 252102
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://181.13.252.102:8000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-chno="702" tvg-logo="https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png" ,702 - Europa Europa (Latam)  - Sensa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01c6295e3fc98352427941dc1015605a:bac9c97340df0b813a9f08c54880feb4
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd
+#EXTINF:-1 tvg-chno="703" tvg-logo="https://canal50.tv/public/images/logos/logo-coop-removebg-preview.png" ,703 - Eventos Morteros (Argentina)  (Morteros - Cordoba) - Sensa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/output/ARR/CMSD/output.mpd
+
+
+
+#EXTINF:-1 tvg-chno="729" tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/221/221_t-290x163.png" ,729 - FOX Sports (Argentina)  - 151.62
+http://45.5.151.62:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-chno="730" tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/221/221_t-290x163.png" ,730 - FOX Sports (Argentina)  - 252102
+http://181.13.252.102:8000/play/a07j/index.m3u8
+#EXTINF:-1 tvg-chno="731" tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/221/221_t-290x163.png" ,731 - FOX Sports (Argentina)  - Sensa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
+#EXTINF:-1 tvg-chno="732" tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/978/978_t-290x163.png" ,732 - FOX Sports 2 (Argentina)  - 151.62
+http://45.5.151.62:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-chno="733" tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/978/978_t-290x163.png" ,733 - FOX Sports 2 (Argentina)  - 252102
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://181.13.252.102:8000/play/a05c/index.m3u8
+#EXTINF:-1 tvg-chno="734" tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/978/978_t-290x163.png" ,734 - FOX Sports 2 (Argentina)  - Sensa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ec1c5620f5c1553d3238988714e71b2:b8917b12e851dfc7bb8a3b832348b3be
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd
+#EXTINF:-1 tvg-chno="735" tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/362/362_t-290x163.png" ,735 - FOX Sports 3 (Argentina)  - 151.62
+http://45.5.151.62:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-chno="736" tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/362/362_t-290x163.png" ,736 - FOX Sports 3 (Argentina)  - 252102
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://181.13.252.102:8000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-chno="737" tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/362/362_t-290x163.png" ,737 - FOX Sports 3 (Argentina)  - Sensa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7f87e51c56a87a59cab7ec98fd062db:c3f0d7d067e385900a0e6d4c8e406a68
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd
