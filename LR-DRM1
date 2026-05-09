@@ -61,118 +61,44 @@ https://streaming01.shockmedia.com.ar/9910/;
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/lnrpqly5uq3r.jpg" ,Radio Universidad (Cordoba)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://radios.solumedia.com:10976/stream
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://www.cadena3.com/img2024/logo-cadena-3.png" ,Cadena 3 (Cordoba)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://smt-usr-edge01.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://www.cadena3.com/admin/imagenes/sectorprograma/824foto13534.png" ,Cosquin Rock Radio (Cordoba)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://smt-usr-edge01.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://www.lapopu.com.ar/img/logo3-la-popu.png" ,La Popu (Cordoba)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://smt-usr-edge01.sensa.com.ar/output/ET-01/popular/master.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1569/1569_t-290x163.png" ,TV Publica
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
-#EXTINF:-1 tvg-chno="8" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/LV85.png" ,Telefe Cordoba (Cordoba)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-http://cdn.sensa.com.ar/output/Canal8D/output.mpd
+http://45.5.151.62:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" ,El Nueve
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c1f50e3f51216bdd1efcc99d3a27217:3441c930277d824402aafee446ba8f90
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd
+http://181.13.252.102:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/grilla-logos-2025/arg.cba.canal10.png" ,Canal 10 (Cordoba)
 #EXTVLCOPT:http-referrer=https://www.cba24n.com.ar
 #EXTVLCOPT:http-origin=https://www.cba24n.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1335/1335_t-290x163.png" ,Telefe
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
-#EXTINF:-1 tvg-chno="12" tvg-logo="https://img.wikiwand.com/wikipedia/commons/thumb/9/94/El_doce_tv_cba_logo.png/480px-El_doce_tv_cba_logo.png" ,El Doce (Cordoba)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c816a8c004ab857e53d7897c7c1db1b:a57bb2fbf55f52d9d827a04bbb531588
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd
+http://181.13.252.102:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" ,El Trece
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:4079ac205b544b1c294ee1568906ff58
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
+http://181.13.252.102:8000/play/a0bg/index.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" ,America TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
-#EXTINF:-1 tvg-chno="15" tvg-logo="https://i.ibb.co/K2sJwVC/canal-u.png" ,Canal U (Cordoba)
-#EXTVLCOPT:http-referrer=https://www.cba24n.com.ar
-#EXTVLCOPT:http-origin=https://www.cba24n.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://stream.arcast.live/canalu/canalu/playlist.m3u8
+http://45.5.151.62:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" ,A24
 http://45.5.151.62:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" ,C5N
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
+http://45.5.151.62:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true" ,Canal 26
 #EXTVLCOPT:http-referrer=https://www.canal26.com
 #EXTVLCOPT:http-origin=https://www.canal26.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" ,Cronica TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
+#EXTVLCOPT:http-origin=https://vmf.edge-apps.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd
+https://g5.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-chno="24" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3644/3644_t-290x163.png" ,La Nacion+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a002010b506854599dffbb8b9048ec7c:160eedf85229da919a7c5eec4fbef809
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd
+http://45.5.151.62:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" ,TN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#KODIPROP:inputstream.adaptive.license_key=584993e864f65470a10116ca12916cda:57e14858914200752e9a9d397b0e7d46
+#EXTVLCOPT:http-referrer=https://app.mio.tv
+#EXTVLCOPT:http-origin=https://app.mio.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
+http://nor2live.win:80/livehttpplay?channel_id=16526
 #EXTINF:-1 tvg-chno="26" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6158/6158_t-290x163.png" ,Argentina 12
 http://45.5.151.62:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png" ,Canal E
@@ -185,12 +111,7 @@ http://38.252.213.12:8000/play/a001
 #EXTINF:-1 tvg-chno="31" tvg-logo="https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/11/11_t-290x163.png" ,Canal Rural
 http://nor2live.win:80/livehttpplay?channel_id=16543
 #EXTINF:-1 tvg-chno="32" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3840/3840_t-290x163.png" ,Chacra TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=68e7788389d18bfa49daf812c581a3b0:b4ef16f31325e24d16390ea74b088512
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/ChacraTV/default/index.mpd
+http://38.252.213.12:8000/play/a029
 #EXTINF:-1 tvg-chno="33" tvg-logo="https://elrural.com/wp-content/uploads/2025/04/logo-latam-recuadro.png" ,Latam Rural
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31e12c321623544bbbcb1fb67188f1b0:f14461ec767ee8e811593ed94eb8f4f0
@@ -198,13 +119,6 @@ https://cdn.sensa.com.ar/bpk-tv/ChacraTV/default/index.mpd
 #EXTVLCOPT:http-origin=https://app.mio.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 http://nor2live.win:80/livehttpplay?channel_id=16519
-#EXTINF:-1 tvg-chno="35" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3260/3260_t-290x163.png" ,Multivisión Federal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f9261beee045d06c325c380b9275e15:89976f64ccde3509e15e38c9196a529f
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Multivision/default/index.mpd
 #EXTINF:-1 tvg-chno="50" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6185/6185_t-290x163.png" ,Argentinisima Satelital
 #EXTVLCOPT:http-referrer=https://www.argentinisimatv.com.ar/
 #EXTVLCOPT:http-origin=https://www.argentinisimatv.com.ar/
@@ -257,14 +171,7 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTVLCOPT:http-origin=https://www.canal26.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijazmHacs13HUurNi_JazBSKkW3bNLpECWRNqPBThHU_yZ5YMavRKSZOFOggbFm6Xhqktk05z6bB0pCudCOE8oPUz1wbhqwl-nfYSmrp4qglY1i8uYx765j16mJ04b9qWXmemozPEjs1ltwI9HiM8daZg4FnQLVe9xRpTifKfJxYF12knUmoOIzqH_FEs/w1200-h630-p-k-no-nu/am1070-eldestape-mundo.png" ,El Destape
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af0566c50e733c311bdfa6736a95ce50:e4dfd12993097b3c35ad47562d61b4ce
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd
-#EXTINF:-1 tvg-chno="66" tvg-logo="https://static-media.streema.com/media/cache/6b/f0/6bf0f567504d17142d7b768ee5e89540.jpg" ,Vorterix
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://static-media.streema.com/media/cache/6b/f0/6bf0f567504d17142d7b768ee5e89540.jpg" ,Vorterix
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 #EXTVLCOPT:http-origin=https://vmf.edge-apps.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -318,13 +225,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15416
 http://45.5.151.62:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-chno="89" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/2/27/RCNNuestraTeleInternacional.png/revision/latest?cb=20250129222407&path-prefix=es" ,RCN Nuestra Tele (Colombia)
 http://190.93.229.30:8000/play/a0g4/index.m3u8
-#EXTINF:-1 tvg-chno="90" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" ,TV Chile Internacional (Chile)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b108e54efb596e5d6403a1759deea810:781e087cf7f814fd187f74daa62d112a
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/TVChile/default/index.mpd
 #EXTINF:-1 tvg-chno="91" tvg-logo="https://www.unifetv.com/logo.png" ,Unife Argentina
 #EXTVLCOPT:http-referrer=https://constantestimulo.mycloudstream.io/
 #EXTVLCOPT:http-origin=https://constantestimulo.mycloudstream.io/
@@ -340,12 +240,7 @@ http://181.13.252.102:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-chno="95" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVESP.png?raw=true" ,TVE Internacional (España)
 http://45.5.151.62:8000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-chno="150" tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/695/695_t-290x163.png" ,Baby TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5cf6da7262ddb74c2f370ded6056f46c:78109125565ab1747f511f7e77e3bbaf
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd
+http://190.93.229.30:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-chno="151" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/BabyFirstTV-Logo-2006.png" ,BabyFirst
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=320e1cb23cf15aa8f41a9edd52baa655:63c5e57ae2a2bc7dab3c67cac1a6c956
@@ -354,176 +249,77 @@ https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd
 #EXTINF:-1 tvg-chno="152" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSNJR.png?raw=true" ,Disney Jr
 http://45.5.151.62:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-chno="153" tvg-logo="https://i.ibb.co/HgqtG9q/plim-plim.png" ,Plim Plim TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a47bfb9e246f3b8405c1225fae73da9e:a4865fb8742b4541f64ac37370e902a6
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/PlimPlim/default/index.mpd
-#EXTINF:-1 tvg-chno="154" tvg-logo="https://dl.dropbox.com/scl/fi/quey4nnf41249gpxk2u14/canal-infantil.jpg?rlkey=nlgxwp78pqffqd6ppl8zsf2o0&dl=1" ,Canal Infantil
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39673983f4ba22f0f80c0934ce0424c8:cd9f3498cb63cc72d1317b14a67ab93c
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd
+http://45.5.151.62:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-chno="156" tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/174/174_t-290x163.png" ,Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf15d5a0f9329f815779d4a7dd760fbc:cd00a8a3f6a167954d4f678fab2323da
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#KODIPROP:inputstream.adaptive.license_key=5d494197700f5d238b86c9ef2c40cb1a:171a6b6ba3b7acd781085c03036572e7
+#EXTVLCOPT:http-referrer=https://app.mio.tv
+#EXTVLCOPT:http-origin=https://app.mio.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd
+http://nor2live.win:80/livehttpplay?channel_id=16506
 #EXTINF:-1 tvg-chno="157" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/5184/5184_t-290x163.png" ,Nick Jr
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=040efb4ac8008085d09c17db602b24fa:1940b88114de13d460cb196326e638a7
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd
+http://38.7.195.44:8000/play/a009
 #EXTINF:-1 tvg-chno="158" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TCAST.png?raw=true" ,Tooncast
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd904e04bd403cfa97b7482f3fefbea1:600f05511e9e743d8de056380e24310f
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd
+http://209.14.108.45:8000/play/a0gh
 #EXTINF:-1 tvg-chno="160" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2845/2845_t-290x163.png" ,Cartoon Network
 http://181.13.252.102:8000/play/a075/index.m3u8
 #EXTINF:-1 tvg-chno="161" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3531/3531_t-290x163.png" ,Discovery Kids
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d8b3220ac30e5c8148d4bcc225efa5a:eb6918dfe117fc405396a9c3986a0450
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd
+http://152.230.229.66:8001/play/a008/index.m3u8
 #EXTINF:-1 tvg-chno="162" tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/136/136_t-290x163.png" ,Disney Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70d91b14935a3599f02e5dab71ef21dc:803e9152e9daf717b772399a97802076
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd
+http://209.14.108.65:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-chno="163" tvg-logo="https://i.ibb.co/10jGH2z/dreamworks.png" ,Dreamworks
 http://45.5.151.62:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-chno="164" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3952/3952_t-290x163.png" ,Nickelodeon
 http://209.14.108.45:8000/play/a0fy
 #EXTINF:-1 tvg-chno="165" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PAKAP.png?raw=true" ,Paka Paka
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b767babf86cd94bb854084213c0ff47c:04847c6299cd7b48ebda927e957c167c
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd
+http://181.13.252.102:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-chno="166" tvg-logo="https://doblec.com.pe/wp-content/uploads/2025/10/RANDOM-KIDS-1-1.png" ,Random! Kids (Peru)
 http://38.252.213.12:8000/play/a049
 #EXTINF:-1 tvg-chno="167" tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png" ,AniRetro
 http://38.252.213.12:8000/play/a06i
 #EXTINF:-1 tvg-chno="168" tvg-logo="https://static.wixstatic.com/media/e50522_39d9fcc4bc1b4c5aba3bbdb5f8a1ad83~mv2.png/v1/fill/w_142,h_79,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGO%20ETC%20TRANSPARENTE.png" ,ETC (Chile)
 http://190.93.229.30:8000/play/a0g8/index.m3u8
-#EXTINF:-1 tvg-chno="170" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" ,Cine Familiar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7686e3ee3e606e6694e6e39fcbc9a8b7:cd0fa59bb71a398843499febb859c341
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd
 #EXTINF:-1 tvg-chno="171" tvg-logo="https://www.fmh.la/img/logo_kids.png" ,FMH KIDS
 http://209.14.108.45:8000/play/a0i7
 #EXTINF:-1 tvg-chno="172" tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/335/335_t-290x163.png" ,HBO Family
 http://209.14.108.45:8000/play/a0c4
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1250/1250_t-290x163.png" ,AMC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=68fc78cb6fe580c35d269da87a471eb0:2bd623220a247d95d6900cea612769df
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/AMC/live_dash_cld/AMC.mpd
+http://45.5.151.62:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-chno="201" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3390/3390_t-290x163.png" ,AMC Series
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36ae8a96a35562af4c5469cad84bfe68:24eb15ff1f525103aadfabd1908ce366
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/MasChic/live_dash_cld/MasChic.mpd
+http://181.13.252.102:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-chno="202" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNAXN.png?raw=true" ,AXN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=828c473cb192caaba8e1d9fc63da4d75:cb600861e9822efeea5d2dbd0c157c45
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/AXN/live_dash_cld/AXN.mpd
+http://181.13.252.102:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-chno="202" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNAXN.png?raw=true" ,AXN (Oeste)
 http://209.14.108.45:8000/play/a0cg
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3445/3445_t-290x163.png" ,Cinecanal
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=acea34a4dadf7896a0280b08496d49d5:6eb61a3bf3411c64f89b594e57d487c6
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd
+http://181.13.252.102:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-chno="203" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3445/3445_t-290x163.png" ,Cinecanal (Oeste)
 http://209.14.108.45:8000/play/a0fa
-#EXTINF:-1 tvg-chno="204" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" ,Cinemax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b3d89f0e099f750bab4f8c2ebc4c7ec:114313f734e7a8e84b0ca6d16bd652cb
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd
+#EXTINF:-1 tvg-chno="203" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3445/3445_t-290x163.png" ,Cinecanal (Oeste)
+http://138.117.86.170:18000/play/a09n
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" ,Cinemax (Chile)
 http://152.230.229.66:8001/play/a02r/index.m3u8
 #EXTINF:-1 tvg-chno="204" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" ,Cinemax (Oeste)
 http://190.93.229.30:8000/play/a0af/index.m3u8
 #EXTINF:-1 tvg-chno="205" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3953/3953_t-290x163.png" ,Comedy Central
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eed9a193b3c6167b823030d788d771a4:d21daeba7e513d9f3ba714deeddd0630
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ComCentral/live_dash_cld/ComCentral.mpd
+http://190.93.229.30:8000/play/a0b6/index.m3u8
 #EXTINF:-1 tvg-chno="206" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true" ,DHE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5453180074c0a8ecfe2a21e0cd5f2c1b:1150fd93492ba8609fb94d0a3087b3a5
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/DHE/live_dash_cld/DHE.mpd
+http://38.252.213.12:8000/play/a01g
 #EXTINF:-1 tvg-chno="207" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EUROC.png?raw=true" ,Eurochannel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf1324eab263b72f5d8373a9678e6774:1375cd3390772b03b5136dce1641ba84
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#KODIPROP:inputstream.adaptive.license_key=2528892552c65b5399017c2f2a194ab7:fc87001860c95eb094c2dd5fc2d2e2bd
+#EXTVLCOPT:http-referrer=https://app.mio.tv
+#EXTVLCOPT:http-origin=https://app.mio.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd
+http://nor2live.win:80/livehttpplay?channel_id=16502
 #EXTINF:-1 tvg-chno="208" tvg-logo="https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png" ,Europa Europa
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01c6295e3fc98352427941dc1015605a:bac9c97340df0b813a9f08c54880feb4
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd
+http://38.7.195.44:8000/play/a084
 #EXTINF:-1 tvg-chno="209" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3391/3391_t-290x163.png" ,Film & Arts
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8fe3226b05e86b7107d2c05e402d14ee:2caa3a78f028164cf395c6ed40b9d39a
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/FilmArts/live_dash_cld/FilmArts.mpd
+http://181.13.252.102:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2040/2040_t-290x163.png" ,FX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bbb8c81822a1628f4986c6379ca5406a:b661265baada5324eb826224a4f358bd
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd
-#EXTINF:-1 tvg-chno="211" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SONYC.png?raw=true" ,Sony Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=258b455eee76d6406f87dd02ddc735d9:dd8aad74c79fe839cc142d0ff6694473
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd
+http://190.93.229.30:8000/play/a0e8/index.m3u8
+#EXTINF:-1 tvg-chno="211" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SONYC.png?raw=true" ,Sony Channel (Oeste)
+http://190.93.229.30:8000/play/a0hc/index.m3u8
 #EXTINF:-1 tvg-chno="211" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SONYC.png?raw=true" ,Sony Channel (Oeste)
 http://138.117.86.170:18000/play/a08k
 #EXTINF:-1 tvg-chno="211" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SONYC.png?raw=true" ,Sony Channel (Sur)
@@ -531,21 +327,11 @@ http://38.252.213.12:8000/play/a01i
 #EXTINF:-1 tvg-chno="212" tvg-logo="https://i.ibb.co/HFpZ6CC/sony-movies.png" ,Sony Movies
 http://181.13.252.102:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-chno="213" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/SPAC.png" ,Space
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd7516e74eafbf6f9664a9465149f179:6aa2935d17fd4e1e8963ecbef4edb82b
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd
+http://181.13.252.102:8000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-chno="213" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/SPAC.png" ,Space (Oeste)
 http://38.7.195.44:8000/play/a03s
 #EXTINF:-1 tvg-chno="214" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/STARC.png?raw=true" ,Star Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=78396693b172158176c33c28f2e7c0b8:1e251112819a34ed691bc3881c64ea4d
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/StarChannel/live_dash_cld/StarChannel.mpd
+http://181.13.252.102:8000/play/a079/index.m3u8
 #EXTINF:-1 tvg-chno="214" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/STARC.png?raw=true" ,Star Channel (Oeste)
 http://190.93.229.30:8000/play/a0i1/index.m3u8
 #EXTINF:-1 tvg-chno="215" tvg-logo="https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/77/77_t-290x163.png" ,Studio Universal
@@ -638,6 +424,8 @@ http://209.14.108.45:8000/play/a0i8
 http://138.117.86.170:18000/play/a0ab
 #EXTINF:-1 tvg-chno="245" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/terror_0_0.jpg" ,Free TV Terror
 http://138.117.86.170:18000/play/a0aa
+#EXTINF:-1 tvg-chno="246" ,MI MIEDO CANAL (España)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15838
 #EXTINF:-1 tvg-chno="247" tvg-logo="https://dl.dropbox.com/scl/fi/6un36x6dt7errr3wvlqj5/morbido.jpg?rlkey=w7ljs0524jwwh7do59ayla4py&dl=1" ,Morbido TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a48e923df0b1783bfa0e82a3c51fc20:122676906256fb0154d841936909c57b
@@ -930,7 +718,7 @@ https://cdn.sensa.com.ar/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ID/live_dash_cld/ID.mpd
 #EXTINF:-1 tvg-chno="357" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSID.png?raw=true" ,Discovery ID (Oeste)
-http://190.93.229.30:8000/play/a0hf/index.m3u8
+http://209.14.108.45:8000/play/a0ch
 #EXTINF:-1 tvg-chno="358" tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/493/493_t-290x163.png" ,Discovery Science
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fcef63599e86bd9bd69644234020cd6:a82db4ee21e762bf6c734e71088511c0
@@ -986,6 +774,8 @@ https://stream.canaldelcaballo.cl/video/video.m3u8
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd
+#EXTINF:-1 tvg-chno="372" tvg-logo="https://cdn.dxomark.com/wp-content/uploads/2018/05/albo-en-xataka.png" ,Xakata TV (España)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15063
 #EXTINF:-1 tvg-chno="400" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/grilla-logos-2025/3abn-latino.v3.bl.250.png" ,3ABN Latino
 #EXTVLCOPT:http-referrer=https://3abnplus.tv/
 #EXTVLCOPT:http-origin=https://3abnplus.tv/
@@ -1001,7 +791,10 @@ http://209.14.108.45:8000/play/a08z
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd
 #EXTINF:-1 tvg-chno="403" tvg-logo="https://cristovision.tv/sites/default/files/logo_web2.png" ,Cristovision (Colombia)
-http://190.93.229.30:8000/play/a0cy/index.m3u8
+#EXTVLCOPT:http-referrer=https://conceptoweb-studio.com/
+#EXTVLCOPT:http-origin=https://conceptoweb-studio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
 #EXTINF:-1 tvg-chno="404" tvg-logo="https://espanol.daystar.com/hs-fs/hubfs/Logos/Daystar_Espanol_Logo_White-sm.png?width=170&height=65&name=Daystar_Espanol_Logo_White-sm.png" ,Daystar Español (Chile)
 http://190.93.229.30:8000/play/a08e/index.m3u8
 #EXTINF:-1 tvg-chno="405" tvg-logo="https://ejtv.wpenginepowered.com/wp-content/uploads/2014/07/EJTVlogo.png" ,EJTV
@@ -1016,7 +809,7 @@ http://138.117.86.170:18000/play/a085
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="409" tvg-logo="https://www.graciatv.com/wp-content/uploads/2024/08/IMAGEN-DESTACADA-EN-APP-ANDROID.png" ,GRACIA TV (Chile)
-http://38.7.223.20:8000/play/a0hk
+https://v4.tustreaming.cl/graciatv/index.m3u8
 #EXTINF:-1 tvg-chno="410" tvg-logo="https://www.jn19television.com/templates/televid_23/images/object979167786.png" ,JN19 (Peru)
 http://38.252.213.12:8000/play/a002
 #EXTINF:-1 tvg-chno="411" tvg-logo="https://lavozdemaria.org/wp-content/uploads/2024/10/Logo.png" ,La Voz de Maria
@@ -2016,6 +1809,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15088
 #EXTINF:-1 tvg-chno="722" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2541/2541_t-290x163.png" ,UCL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:-1 tvg-chno="90" ,TV Chile Internacional (Chile)
+http://nor2live.win:80/livehttpplay?channel_id=16561
 #EXTINF:-1 tvg-chno="980" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Movistar_TV_logo_2018.png?20181224224220" ,Movistar Informa (Chile)
 http://190.93.229.30:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-chno="985" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3803/3803_t-290x163.png" ,Playboy TV (18+)
