@@ -1253,6 +1253,32 @@ https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 https://cdn.sensa.com.ar/bpk-tv/SenalEventos/default/index.mpd
 #EXTINF:-1 tvg-chno="533" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" ,TyC Sports Internacional
 http://38.7.195.43:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-chno="535" group-title="DTV"  tvg-logo="https://d11o8pt3cttu38.cloudfront.net/wp-content/uploads/sites/45/2022/08/sportv-logo-f.png" ,Sportv (Brasil) - DTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+
+#EXTINF:-1 tvg-chno="536" group-title="DTV"  tvg-logo="https://americatvguide.com/img/br/logo/sportv-2.webp" ,Sportv 2 (Brasil) - DTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+
+#EXTINF:-1 tvg-chno="537" group-title="DTV"  tvg-logo="https://americatvguide.com/img/br/logo/sportv-3.webp" ,Sportv 3 (Brasil) - DTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+
+
+
+
+
 #EXTINF:-1 tvg-chno="541" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,ESPN (Chile)
 http://38.7.195.44:8000/play/a02z
 #EXTINF:-1 tvg-chno="541" tvg-logo="https://static.flow.com.ar/images/71306601073189/CH_LOGO/228/228/71306601073189.png" ,ESPN (Chile)
