@@ -1,3 +1,36 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-chno="2" group-title="Radios Stream" tvg-logo="https://www.cadena3.com/img2024/logo-cadena-3.png" ,Cadena 3 (Cordoba)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://smt-usr-edge01.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
+#EXTINF:-1 tvg-chno="2" group-title="Radios Stream" tvg-logo="https://comercial.cadena3.com/img/logo2-cosquin-rock-radio.png" ,Cosquin Rock Radio (Cordoba)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://smt-usr-edge01.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijazmHacs13HUurNi_JazBSKkW3bNLpECWRNqPBThHU_yZ5YMavRKSZOFOggbFm6Xhqktk05z6bB0pCudCOE8oPUz1wbhqwl-nfYSmrp4qglY1i8uYx765j16mJ04b9qWXmemozPEjs1ltwI9HiM8daZg4FnQLVe9xRpTifKfJxYF12knUmoOIzqH_FEs/w1200-h630-p-k-no-nu/am1070-eldestape-mundo.png" ,El Destape
+http://190.7.19.197:232/play/a00r/index.m3u8
+#EXTINF:-1 tvg-chno="2" group-title="Radios Stream" tvg-logo="https://www.lapopu.com.ar/img/logo3-la-popu.png" ,La Popu (Cordoba)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://smt-usr-edge01.sensa.com.ar/output/ET-01/popular/master.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://img.radios.com.br/radio/xl/radio83910_1539106037.png" ,MIL20 - AM1020 (San Juan)
+#EXTVLCOPT:http-referrer=https://www.telesoldiario.com/
+#EXTVLCOPT:http-origin=https://www.telesoldiario.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn1.tvlin.net/open/mil20/playlist.m3u8
+#EXTINF:-1 tvg-chno="2" group-title="Radios Stream" tvg-logo="https://static-media.streema.com/media/cache/6b/f0/6bf0f567504d17142d7b768ee5e89540.jpg" ,Vorterix
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
+#EXTVLCOPT:http-origin=https://vmf.edge-apps.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://g3.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/deportes/eventosflow.png" ,Eventos 1 Flow
 http://190.7.19.197:232/play/a022/index.m3u8
 #EXTINF:-1 tvg-chno="3" group-title="Deportes Premium" tvg-logo="https://www.sensa.com.ar/images/logo_sensa_nav.png" ,Eventos 2  Sensa
@@ -16,9 +49,15 @@ https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="14" group-title="Nacional" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" ,America TV
 #EXTVLCOPT:http-user-agent=VLC
 http://181.13.252.102:8000/play/a055/index.m3u8
+#EXTINF:-1 tvg-chno="13" group-title="Nacional" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" ,El Trece
+#EXTVLCOPT:http-user-agent=VLC
+http://181.13.252.102:8000/play/a0bg/index.m3u8
 #EXTINF:-1 tvg-chno="11" group-title="Nacional" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1335/1335_t-290x163.png" ,Telefe
 #EXTVLCOPT:http-user-agent=VLC
 http://181.13.252.102:8000/play/a06c/index.m3u8
+#EXTINF:-1 tvg-chno="7" group-title="Nacional" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/IE0Yf-Y3qxyupJcRblURuQ?tags=CH_LOGO" ,TV Publica
+#EXTVLCOPT:http-user-agent=VLC
+http://181.13.252.102:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-chno="20" group-title="Noticias" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" ,A24
 #EXTVLCOPT:http-user-agent=VLC
 http://181.13.252.102:8000/play/a01o/index.m3u8
