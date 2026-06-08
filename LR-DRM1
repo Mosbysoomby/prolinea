@@ -1,7 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-chno="2" group-title="Radios Stream" tvg-logo="https://www.cadena3.com/img2024/logo-cadena-3.png" ,Cadena 3 (Cordoba)
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -727,3 +729,4 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15512
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15632
 #EXTINF:-1 tvg-chno="540" group-title="Deportes Premium" tvg-logo="https://m.media-amazon.com/images/I/71LOnifsRIL.png" ,Vix Sports 1 (USA)
 https://linear-357.frequency.stream/mt/monitoring/357/hls/master/playlist.m3u8
+
