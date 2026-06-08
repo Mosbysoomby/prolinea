@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-
-
 #EXTINF:-1 tvg-chno="2" group-title="Radios Stream" tvg-logo="https://www.cadena3.com/img2024/logo-cadena-3.png" ,Cadena 3 (Cordoba)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar
@@ -171,6 +169,19 @@ https://cdn.sensa.com.ar/bpk-tv/ChacraTV/default/index.mpd
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/Argentinisima/default/index.mpd
+#EXTINF:-1 tvg-chno="51" group-title="Variedad Argentina" tvg-logo="https://unity-img.tbxapis.com/v0/images/56a180d8b2803da5ec713b61ada770a6/content/676daa12cdbda9118e7e9e7e/99e1b7d540515cc0f9e498f0cb64df74/img.png" ,El Folkorico
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6075bd0304bd40812aaa2a113b30be24:98c85fae2ce02017573a23fad09a8dfa
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/ElFolklorico/default/index.mpd
+#EXTINF:-1 tvg-chno="52" group-title="Variedad Argentina" tvg-logo="https://telecentro.com.ar/img/cm/channels/tierramia@2x.png" ,Tierramia TV
+#EXTVLCOPT:http-referrer=https://www.canal26.com
+#EXTVLCOPT:http-origin=https://www.canal26.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 #EXTINF:-1 tvg-chno="60" group-title="Variedad Argentina" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/s5bcN_UDJ3TW45O4-5-yrw?tags=CH_LOGO" ,Bravo TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -195,6 +206,27 @@ https://g2.mc-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Play
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd
+#EXTINF:-1 tvg-chno="64" group-title="Variedad Argentina" tvg-logo="https://telecentro.com.ar/img/cm/channels/Latinatv%20128.png" ,Latina TV
+#EXTVLCOPT:http-referrer=https://www.canal26.com
+#EXTVLCOPT:http-origin=https://www.canal26.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
+#EXTINF:-1 tvg-chno="65" group-title="Variedad Argentina" tvg-logo="https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/27/27_t-290x163.png" ,Metro
+#EXTVLCOPT:http-user-agent=VLC
+http://181.13.252.102:8000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-chno="66" group-title="Variedad Argentina" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/4646/4646_t-290x163.png" ,Net TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3db691c7e4520b7b2dc822ab905545a:ee2a1ebe6fcc2ef3b01943cdd9256cc6
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd
+#EXTINF:-1 tvg-chno="67" group-title="Variedad Argentina" tvg-logo="https://github.com/Mosbysoomby/prolinea/blob/main/grilla-logos-2025/arg.telemax.png?raw=yes" ,Telemax
+#EXTVLCOPT:http-referrer=https://www.canal26.com
+#EXTVLCOPT:http-origin=https://www.canal26.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-chno="68" group-title="Variedad Argentina" tvg-logo="https://www.fulltv.com.ar/images/tv/cn23-21.png" ,CN23
 http://190.7.19.197:232/play/a084/index.m3u8
 #EXTINF:-1 tvg-chno="70" group-title="Variedad Latam" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3267/3267_t-290x163.png" ,Canal Claro
