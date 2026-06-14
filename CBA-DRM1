@@ -1,80 +1,43 @@
-#EXTM3U  url-tvg="https://www.open-epg.com/files/argentina.xml.gz,https://www.open-epg.com/files/australia.xml.gz,https://www.open-epg.com/files/brazil1.xml.gz,https://www.open-epg.com/files/chile2.xml.gz,https://www.open-epg.com/files/colombia1.xml.gz,https://www.open-epg.com/files/colombia2.xml.gz,https://www.open-epg.com/files/italy1.xml.gz,https://www.open-epg.com/files/mexico1.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://www.open-epg.com/files/peru.xml.gz,https://www.open-epg.com/files/turkey1.xml.gz,https://www.open-epg.com/files/uruguay1.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/generate/b26XUV2hRF.xml.gz"
+#EXTM3U  url-tvg="https://www.open-epg.com/files/argentina.xml.gz,https://www.open-epg.com/files/australia.xml.gz,https://www.open-epg.com/files/brazil1.xml.gz,https://www.open-epg.com/files/chile2.xml.gz,https://www.open-epg.com/files/colombia1.xml.gz,https://www.open-epg.com/files/colombia2.xml.gz,https://www.open-epg.com/files/italy1.xml.gz,https://www.open-epg.com/files/mexico1.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://www.open-epg.com/files/peru.xml.gz,https://www.open-epg.com/files/turkey1.xml.gz,https://www.open-epg.com/files/uruguay1.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/generate/b26XUV2hRF.xml.gz,https://www.open-epg.com/files/unitedstates10.xml.gz,https://www.open-epg.com/files/unitedstates11.xml.gz"
 
-
-
-#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true"tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://www.cadena3.com/img2024/logo-cadena-3.png" ,Cadena 3 (Cordoba)
 https://liveradio.mediainbox.net/radio3.mp3
 #EXTINF:-1 tvg-chno="1" group-title="Radios"tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/932/cadena-3.7b3804b9.png" ,Cadena 3 (Cordoba)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO3_SC
-#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true" tvg-logo="https://www.cadenaheat.com/img/logo-cadena-heat.png" ,Cadena Heat (Cordoba)
-#EXTVLCOPT:http-referrer=https://api.apolomedia.com/
-#EXTVLCOPT:http-origin=playerservices.streamtheworld.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://playerservices.streamtheworld.com/api/livestream-redirect/cadenaheat.mp3?dist=c3-web
-#EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/931/cadena-heat.dfbd8d21.jpg" ,Cadena Heat (Cordoba)
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENAHEAT_SC
-#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true" tvg-logo="https://comercial.cadena3.com/img/logo2-cosquin-rock-radio.png" ,Cosquin Rock Radio (Cordoba)
-#EXTVLCOPT:http-referrer=https://api.apolomedia.com/
-#EXTVLCOPT:http-origin=https://api.apolomedia.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://playerservices.streamtheworld.com/api/livestream-redirect/cosquinrock.mp3
-#EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/744/fm-rock-pop.32c080fd.jpg" ,FM Rock & Pop (Cordoba)
-https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC_SC
-#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true" tvg-logo="https://noticias.kuarteto.com/wp-content/themes/kuarteto/img/logo.png" ,Kuarteto.com (Cordoba)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://sslstream.online/8408/stream
-#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true" tvg-logo="https://www.lapopu.com.ar/img/logo3-la-popu.png" ,La Popu (Cordoba)
-#EXTVLCOPT:http-referrer=https://www.cadena3.com/
-#EXTVLCOPT:http-origin=26583.live.streamtheworld.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://26583.live.streamtheworld.com/LAPOPU.mp3
-#EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/776/radio-popular.46869649.png" ,La Popu FM 92.3 (Cordoba)
-https://playerservices.streamtheworld.com/api/livestream-redirect/lapopu_SC?dist=c3-web
-#EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/481/mia-fm-argentina.f1994ce1.png" ,Mia FM 104.1 (Cordoba)
-https://playerservices.streamtheworld.com/api/livestream-redirect/FM1041_56AAC_SC
-#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true" tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/radio-mitre-cordoba/fb_cover.jpg" ,Mitre Cordoba AM 810 (Cordoba)
-https://playerservices.streamtheworld.com/api/livestream-redirect/AM810_56AAC.aac
-#EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/331/planeta-cuarteto.725d774d.png" ,Planeta Cuarteto (Cordoba)
-https://streaming.radiosenlinea.com.ar:10763/live
-#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true" tvg-logo="https://static.wixstatic.com/media/3e84df_5b00f131394cc16054df79e9e77df66e.png/v1/fill/w_204,h_176,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e84df_5b00f131394cc16054df79e9e77df66e.png" ,Pobre Jhonny 88.9 (Cordoba)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://stream.suenas.net/pobrejohnny
-#EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/487/radio-maxima-893.068a7d72.png" ,Radio Maxima 89.3 (Cordoba)
-https://streaming01.shockmedia.com.ar:10743/;stream.mp4?ver=152385
-#EXTINF:-1 tvg-chno="1" group-title="Radios"tvg-id="RadioNacional.ar" tvg-name="RadioNacional.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/621/lra7-radio-nacional-cordoba-am-750.a9276a7d.png" ,Radio Nacional Córdoba AM 750 (Cordoba)
-https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
-#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true" tvg-logo="https://1.bp.blogspot.com/-p2lzij_1IUg/YFsDsQGsscI/AAAAAAAKtU0/kbp2RhQ7iPUqfttni2H3K5j2SvOkm8mCgCLcBGAsYHQ/w1200-h630-p-k-no-nu/logo.png" ,Radio Sucesos 104.7 (Cordoba)
-#EXTVLCOPT:http-referrer=https://radioarg.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://vofile.ru/Argentina/susenos/icecast.audio
-#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/351/radio-suquia-965-fm.e191457c.png" ,Radio Suquia 96.5 (Cordoba)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://streaming01.shockmedia.com.ar:10945/;
-#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true" tvg-logo="https://suquia.ar/wp-content/uploads/2025/08/cropped-mas-grandeeeeee-suquia.png" ,Radio Suquia Plus 98.9 (Cordoba)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://streaming01.shockmedia.com.ar/9910/;
-#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/lnrpqly5uq3r.jpg" ,Radio Universidad (Cordoba)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://radios.solumedia.com:10976/stream
 #EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true"tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://comercial.cadena3.com/img/logo2-cadena-3-rosario.png" ,Cadena 3 Rosario (Santa Fe)
 #EXTVLCOPT:http-referrer=https://www.cadena3.com/
 #EXTVLCOPT:http-origin=26683.live.streamtheworld.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://26683.live.streamtheworld.com/RADIO3.mp3
-#EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_Clasica.png" ,Nacional Clasica
-https://sa.mp3.icecast.magma.edge-access.net/sc_rad37
-#EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_Folklorica.png" ,Nacional Folklorica
-https://sa.mp3.icecast.magma.edge-access.net/sc_rad38
-#EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_Rock.png" ,Nacional Rock
-https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
-#EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_AM870_b.png" ,RADIODIFUSIÓN ARGENTINA AL EXTERIOR
-https://sa.mp3.icecast.magma.edge-access.net/sc_rad35
+#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.cadenaheat.com/img/logo-cadena-heat.png" ,Cadena Heat (Cordoba)
+#EXTVLCOPT:http-referrer=https://api.apolomedia.com/
+#EXTVLCOPT:http-origin=playerservices.streamtheworld.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://playerservices.streamtheworld.com/api/livestream-redirect/cadenaheat.mp3?dist=c3-web
+#EXTINF:-1 tvg-chno="1" group-title="Radios"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/931/cadena-heat.dfbd8d21.jpg" ,Cadena Heat (Cordoba)
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENAHEAT_SC
+#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://comercial.cadena3.com/img/logo2-cosquin-rock-radio.png" ,Cosquin Rock Radio (Cordoba)
+#EXTVLCOPT:http-referrer=https://api.apolomedia.com/
+#EXTVLCOPT:http-origin=https://api.apolomedia.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://playerservices.streamtheworld.com/api/livestream-redirect/cosquinrock.mp3
+#EXTINF:-1 tvg-chno="1" group-title="Radios"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/744/fm-rock-pop.32c080fd.jpg" ,FM Rock & Pop (Cordoba)
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC_SC
+#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://noticias.kuarteto.com/wp-content/themes/kuarteto/img/logo.png" ,Kuarteto.com (Cordoba)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://sslstream.online/8408/stream
 #EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true"tvg-id="RadioLa100.ar" tvg-name="RadioLa100.ar"  tvg-logo="https://www.proradios.net/themes/default/images/radios/logo-ar-lacien.jpg" ,La Cien FM 99.9 (Bs. As.)
 #EXTVLCOPT:http-referrer=https://radioarg.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://vofile.ru/Argentina/la-100/icecast.audio
 #EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/265/top-fm-1049.56d4e2c4.png" ,La Nacion+ 104.9 (Bs. As.)
 https://edge02.radiohdvivo.com/ln1049
+#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.lapopu.com.ar/img/logo3-la-popu.png" ,La Popu (Cordoba)
+#EXTVLCOPT:http-referrer=https://www.cadena3.com/
+#EXTVLCOPT:http-origin=26583.live.streamtheworld.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://26583.live.streamtheworld.com/LAPOPU.mp3
+#EXTINF:-1 tvg-chno="1" group-title="Radios"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/776/radio-popular.46869649.png" ,La Popu FM 92.3 (Cordoba)
+https://playerservices.streamtheworld.com/api/livestream-redirect/lapopu_SC?dist=c3-web
 #EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/295/la-red-am.94f5f9be.jpg" ,La Red AM910 (Bs. As.)
 #EXTVLCOPT:http-referrer=https://www.radios-argentinas.org/
 #EXTVLCOPT:http-origin=https://www.radios-argentinas.org/
@@ -84,26 +47,68 @@ https://27583.live.streamtheworld.com/LA_RED_AM910AAC_SC
 #EXTVLCOPT:http-referrer=https://radioarg.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://edge04.radiohdvivo.com/los40
+#EXTINF:-1 tvg-chno="1" group-title="Radios"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/481/mia-fm-argentina.f1994ce1.png" ,Mia FM 104.1 (Cordoba)
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM1041_56AAC_SC
+#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/radio-mitre-cordoba/fb_cover.jpg" ,Mitre Cordoba AM 810 (Cordoba)
+https://playerservices.streamtheworld.com/api/livestream-redirect/AM810_56AAC.aac
+#EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_Clasica.png" ,Nacional Clasica
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad37
+#EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_Folklorica.png" ,Nacional Folklorica
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad38
+#EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_Rock.png" ,Nacional Rock
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
+#EXTINF:-1 tvg-chno="1" group-title="Radios"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/331/planeta-cuarteto.725d774d.png" ,Planeta Cuarteto (Cordoba)
+https://streaming.radiosenlinea.com.ar:10763/live
+#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://static.wixstatic.com/media/3e84df_5b00f131394cc16054df79e9e77df66e.png/v1/fill/w_204,h_176,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3e84df_5b00f131394cc16054df79e9e77df66e.png" ,Pobre Jhonny 88.9 (Cordoba)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://stream.suenas.net/pobrejohnny
 #EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/837/radio-10-argentina.81f75ed5.png" ,Radio 10 (Bs. As.)
 https://radio10.stweb.tv/radio10/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true"tvg-id="RadioContinental.ar" tvg-name="RadioContinental.ar"  tvg-logo="https://www.continental.com.ar/adjuntos/144x144/continental/logonuevo.png" ,Radio Continental AM 590 (Bs. As.)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://frontend.radiohdvivo.com/continental/live
+#EXTINF:-1 tvg-chno="1" group-title="Radios"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/487/radio-maxima-893.068a7d72.png" ,Radio Maxima 89.3 (Cordoba)
+https://streaming01.shockmedia.com.ar:10743/;stream.mp4?ver=152385
+#EXTINF:-1 tvg-chno="1" group-title="Radios"tvg-id="RadioNacional.ar" tvg-name="RadioNacional.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/621/lra7-radio-nacional-cordoba-am-750.a9276a7d.png" ,Radio Nacional Córdoba AM 750 (Cordoba)
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
 #EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/448/radio-rivadavia-630-am.ab450f7d.jpg" ,Radio Rivadavia 630 AM (Bs. As.)
 https://27403.live.streamtheworld.com/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets
+#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://1.bp.blogspot.com/-p2lzij_1IUg/YFsDsQGsscI/AAAAAAAKtU0/kbp2RhQ7iPUqfttni2H3K5j2SvOkm8mCgCLcBGAsYHQ/w1200-h630-p-k-no-nu/logo.png" ,Radio Sucesos 104.7 (Cordoba)
+#EXTVLCOPT:http-referrer=https://radioarg.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://vofile.ru/Argentina/susenos/icecast.audio
+#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/351/radio-suquia-965-fm.e191457c.png" ,Radio Suquia 96.5 (Cordoba)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://streaming01.shockmedia.com.ar:10945/;
+#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://suquia.ar/wp-content/uploads/2025/08/cropped-mas-grandeeeeee-suquia.png" ,Radio Suquia Plus 98.9 (Cordoba)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://streaming01.shockmedia.com.ar/9910/;
+#EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/lnrpqly5uq3r.jpg" ,Radio Universidad (Cordoba)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://radios.solumedia.com:10976/stream
+#EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_AM870_b.png" ,RADIODIFUSIÓN ARGENTINA AL EXTERIOR
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad35
 #EXTINF:-1 tvg-chno="2" group-title="Radios Stream"tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://www.cadena3.com/img2024/logo-cadena-3.png" ,Cadena 3 (Cordoba)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://smt-usr-edge01.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
-#EXTINF:-1 tvg-chno="2" group-title="Radios Stream" tvg-logo="https://comercial.cadena3.com/img/logo2-cosquin-rock-radio.png" ,Cosquin Rock Radio (Cordoba)
+#EXTINF:-1 tvg-chno="2" group-title="Radios Stream"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://comercial.cadena3.com/img/logo2-cosquin-rock-radio.png" ,Cosquin Rock Radio (Cordoba)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://smt-usr-edge01.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
-#EXTINF:-1 tvg-chno="2" group-title="Radios Stream" tvg-logo="https://www.lapopu.com.ar/img/logo3-la-popu.png" ,La Popu (Cordoba)
+#EXTINF:-1 tvg-chno="2" group-title="Radios Stream" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijazmHacs13HUurNi_JazBSKkW3bNLpECWRNqPBThHU_yZ5YMavRKSZOFOggbFm6Xhqktk05z6bB0pCudCOE8oPUz1wbhqwl-nfYSmrp4qglY1i8uYx765j16mJ04b9qWXmemozPEjs1ltwI9HiM8daZg4FnQLVe9xRpTifKfJxYF12knUmoOIzqH_FEs/w1200-h630-p-k-no-nu/am1070-eldestape-mundo.png" ,El Destape
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af0566c50e733c311bdfa6736a95ce50:e4dfd12993097b3c35ad47562d61b4ce
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd
+#EXTINF:-1 tvg-chno="2" group-title="Radios Stream"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.lapopu.com.ar/img/logo3-la-popu.png" ,La Popu (Cordoba)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -114,19 +119,33 @@ https://smt-usr-edge01.sensa.com.ar/output/ET-01/popular/master.m3u8
 #EXTVLCOPT:http-origin=https://www.telesoldiario.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn1.tvlin.net/open/mil20/playlist.m3u8
-#EXTINF:-1 tvg-chno="2" group-title="Radios Stream" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijazmHacs13HUurNi_JazBSKkW3bNLpECWRNqPBThHU_yZ5YMavRKSZOFOggbFm6Xhqktk05z6bB0pCudCOE8oPUz1wbhqwl-nfYSmrp4qglY1i8uYx765j16mJ04b9qWXmemozPEjs1ltwI9HiM8daZg4FnQLVe9xRpTifKfJxYF12knUmoOIzqH_FEs/w1200-h630-p-k-no-nu/am1070-eldestape-mundo.png" ,El Destape
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af0566c50e733c311bdfa6736a95ce50:e4dfd12993097b3c35ad47562d61b4ce
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd
 #EXTINF:-1 tvg-chno="2" group-title="Radios Stream" tvg-logo="https://static-media.streema.com/media/cache/6b/f0/6bf0f567504d17142d7b768ee5e89540.jpg" ,Vorterix
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 #EXTVLCOPT:http-origin=https://vmf.edge-apps.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://g3.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="AmericaTelevision.pe" tvg-name="AmericaTelevision.pe"  tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/peru/america.png" ,America (Peru)
+#EXTVLCOPT:http-user-agent=VLC
+http://190.238.43.117:9000/play/a0dg/index.m3u8
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="Canal 5 HD.mx" tvg-name="Canal 5 HD.mx"  tvg-logo="https://i.ibb.co/V310Z0q/canal5.png" ,Canal 5 (Mexico)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="Caracol HD.co" tvg-name="Caracol HD.co"  tvg-logo="https://www.comparandonos.com/plds/tv/canales/caracol-tv.png" ,Caracol (Colombia)
+http://190.60.37.115:8001/play/a0o7/index.m3u8
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="Caracol HD.co" tvg-name="Caracol HD.co"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Caracol_hd2_2015.png/revision/latest/scale-to-width-down/220?cb=20170516000440" ,Caracol HD2 (Colombia)
+http://190.60.37.115:8001/play/a0o8/index.m3u8
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://logospng.org/download/cazetv/caze-tv-512.png" ,Caze TV (Brasil)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="CHV.cl" tvg-name="CHV.cl"  tvg-logo="https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png" ,Chilevision (Chile)
+#EXTVLCOPT:http-user-agent=VLC
+http://190.93.229.30:8000/play/a0cj/index.m3u8
 #EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -139,6 +158,10 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/
 #KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","45bbd582f220f438f896450d8306a3f2":"582c6ba7f64bbc0f2d91c6b0c265760c"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports (Cable)
+http://190.7.19.197:232/play/a09i/index.m3u8
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports (Chile)
+http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports (Paramount)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -147,12 +170,8 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf
 #EXTVLCOPT:http-origin=https://www.paramountplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports (Cable)
-http://190.7.19.197:232/play/a09i/index.m3u8
 #EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports (Peru)
 http://190.234.82.52:8000/play/c4pn/index.m3u8
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports (Chile)
-http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/deportes/dsportsplus.png" ,Dsports +
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -169,82 +188,26 @@ https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37
 #EXTVLCOPT:http-origin=https://www.paramountplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a463f9d5/manifest.mpd
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="Telefe.ar" tvg-name="Telefe.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1335/1335_t-290x163.png" ,Telefe
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://telecablecr.com/wp-content/uploads/2026/05/FOX.webp" ,FOX (Costa Rica)
+http://8.243.126.131:8000/play/a0ih/index.m3u8
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="Fox Sports 1.us" tvg-name="Fox Sports 1.us"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_1_US.png" ,FOX Sports 1 (USA)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="TelefeCordoba.ar" tvg-name="TelefeCordoba.ar"  tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/LV85.png" ,Telefe Cordoba
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="Fox Sports 2.us" tvg-name="Fox Sports 2.us"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_2_US.png" ,FOX Sports 2 (USA)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" ,Telemundo KVEA (USA) (California)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" ,Telemundo Chicago (USA)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(WSNS)/master.mpd
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://media.telemundo47.com/2024/08/WNJU_station_logo_dark_9e2588.png" ,Telemundo Ney York (USA)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c71fe7bc82f037c6af21fd299d6341b0:13223c98886ff43d3c5f271eeb457cc6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/master.mpd
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://americatvguide.com/img/us/logo/universo.webp" ,Universo (USA) (E)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" ,Universo (USA) (W)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="CHV.cl" tvg-name="CHV.cl"  tvg-logo="https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png" ,Chilevision (Chile)
-#EXTVLCOPT:http-user-agent=VLC
-http://190.93.229.30:8000/play/a0cj/index.m3u8
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="Caracol HD.co" tvg-name="Caracol HD.co"  tvg-logo="https://www.comparandonos.com/plds/tv/canales/caracol-tv.png" ,Caracol (Colombia)
-http://190.60.37.115:8001/play/a0o7/index.m3u8
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="Caracol HD.co" tvg-name="Caracol HD.co"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Caracol_hd2_2015.png/revision/latest/scale-to-width-down/220?cb=20170516000440" ,Caracol HD2 (Colombia)
-http://190.60.37.115:8001/play/a0o8/index.m3u8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="Gloob HD.br" tvg-name="Gloob HD.br"  tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/brasil/globo.png" ,Globo (Brasil)
+http://190.7.19.197:232/play/a00w/index.m3u8
 #EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="RCN HD.co" tvg-name="RCN HD.co"  tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-rcnHD.png" ,RCN (Colombia)
 http://190.60.37.115:8001/play/a0o4/index.m3u8
 #EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="RCN HD.co" tvg-name="RCN HD.co"  tvg-logo="https://media.tv-porinternet.tv/logo_rcn_hd2_03405a_209c8584ee.png" ,RCN HD2 (Colombia)
 http://190.60.37.115:8001/play/a0o5/index.m3u8
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://telecablecr.com/wp-content/uploads/2026/05/FOX.webp" ,FOX (Costa Rica)
-http://8.243.126.131:8000/play/a0ih/index.m3u8
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="Canal 5 HD.mx" tvg-name="Canal 5 HD.mx"  tvg-logo="https://i.ibb.co/V310Z0q/canal5.png" ,Canal 5 (Mexico)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="AmericaTelevision.pe" tvg-name="AmericaTelevision.pe"  tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/peru/america.png" ,America (Peru)
-#EXTVLCOPT:http-user-agent=VLC
-http://190.238.43.117:9000/play/a0dg/index.m3u8
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://logospng.org/download/cazetv/caze-tv-512.png" ,Caze TV (Brasil)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="Gloob HD.br" tvg-name="Gloob HD.br"  tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/brasil/globo.png" ,Globo (Brasil)
-http://190.7.19.197:232/play/a00w/index.m3u8
 #EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="SporTV HD.br" tvg-name="SporTV HD.br"  tvg-logo="https://d11o8pt3cttu38.cloudfront.net/wp-content/uploads/sites/45/2022/08/sportv-logo-f.png" ,Sportv (Brasil)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -263,48 +226,52 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_1_US.png" ,FOX Sports 1 (USA)
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="Telefe.ar" tvg-name="Telefe.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1335/1335_t-290x163.png" ,Telefe
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+#KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_2_US.png" ,FOX Sports 2 (USA)
+https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="TelefeCordoba.ar" tvg-name="TelefeCordoba.ar"  tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/LV85.png" ,Telefe Cordoba
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+#KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://americatvguide.com/img/ca/logo/tsn1.webp" ,TSN 1 (Canada)
+https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="Telemundo (WSNS) Chicago, IL HD.us" tvg-name="Telemundo (WSNS) Chicago, IL HD.us"  tvg-logo="https://play-lh.googleusercontent.com/QWzkc_LXU5Bu-Z0osZFStRQ-IGNJk7MsPcywke4VJP081BUuhsP1Fs1FqBteH_wW15A_" ,Telemundo Chicago | WSNS (USA)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://americatvguide.com/img/ca/logo/tsn2.webp" ,TSN 2 (Canada)
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(WSNS)/master.mpd
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="Telemundo (KVEA) Los Angeles, CA HD.us" tvg-name="Telemundo (KVEA) Los Angeles, CA HD.us"  tvg-logo="https://www.hispanicprblog.com/wp-content/uploads/2015/07/tm52.jpg" ,Telemundo Los Angeles | KVEA (USA)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://americatvguide.com/img/ca/logo/tsn3.webp" ,TSN 3 (Canada)
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="Telemundo  East HD.us" tvg-name="Telemundo  East HD.us"  tvg-logo="https://media.telemundo47.com/2024/08/WNJU_station_logo_dark_9e2588.png" ,Telemundo Ney York | WNJU (USA)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
+#KODIPROP:inputstream.adaptive.license_key=c71fe7bc82f037c6af21fd299d6341b0:13223c98886ff43d3c5f271eeb457cc6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://americatvguide.com/img/ca/logo/tsn4.webp" ,TSN 4 (Canada)
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/master.mpd
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"tvg-id="UNIVERSO HDTV (East).us" tvg-name="UNIVERSO HDTV (East).us"  tvg-logo="https://americatvguide.com/img/us/logo/universo.webp" ,Universo (USA) (E)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://americatvguide.com/img/ca/logo/tsn5.webp" ,TSN 5 (Canada)
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://americatvguide.com/img/us/logo/universo.webp" ,Universo (USA) (W)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
+#KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
 #EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://tourismxp.com/wp-content/uploads/2024/03/paraguay.png" ,Albirroja Tv (Paraguay)
 http://138.59.227.20:8000/play/a0dx/index.m3u8
 #EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" ,Futbol Total (Multi)
@@ -317,30 +284,6 @@ http://138.59.227.20:8000/play/a0g9/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=784d6b54efe3a13dc1fbcda17e5804db:b4f4814e01943f910b62e6bfd0c23728
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-92-HD/default.mpd
-#EXTINF:-1 tvg-chno="8" group-title="Cordoba"tvg-id="TelefeCordoba.ar" tvg-name="TelefeCordoba.ar"  tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/LV85.png" ,Telefe Cordoba (Cordoba)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-http://cdn.sensa.com.ar/output/Canal8D/output.mpd
-#EXTINF:-1 tvg-chno="10" group-title="Cordoba"tvg-id="Canal10.ar" tvg-name="Canal10.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/grilla-logos-2025/arg.cba.canal10.png" ,Canal 10 (Cordoba)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=faf29a5a543c9d82ef34ec2479140003:2452197f9d4eb63a3081d986ca413375
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd
-#EXTINF:-1 tvg-chno="12" group-title="Cordoba"tvg-id="ElDoce.ar" tvg-name="ElDoce.ar"  tvg-logo="https://i.postimg.cc/mk9jsWhc/Logo-1.png" ,El Doce (Cordoba)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c816a8c004ab857e53d7897c7c1db1b:a57bb2fbf55f52d9d827a04bbb531588
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd
 #EXTINF:-1 tvg-chno="7" group-title="Nacional"tvg-id="TVPublica.ar" tvg-name="TVPublica.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/IE0Yf-Y3qxyupJcRblURuQ?tags=CH_LOGO" ,TV Publica
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -349,6 +292,14 @@ https://cdn.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
+#EXTINF:-1 tvg-chno="8" group-title="Cordoba"tvg-id="TelefeCordoba.ar" tvg-name="TelefeCordoba.ar"  tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/LV85.png" ,Telefe Cordoba (Cordoba)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://cdn.sensa.com.ar/output/Canal8D/output.mpd
 #EXTINF:-1 tvg-chno="9" group-title="Nacional"tvg-id="ElNueve.ar" tvg-name="ElNueve.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" ,El Nueve
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -357,6 +308,14 @@ https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd
+#EXTINF:-1 tvg-chno="10" group-title="Cordoba"tvg-id="Canal10.ar" tvg-name="Canal10.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/grilla-logos-2025/arg.cba.canal10.png" ,Canal 10 (Cordoba)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faf29a5a543c9d82ef34ec2479140003:2452197f9d4eb63a3081d986ca413375
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd
 #EXTINF:-1 tvg-chno="11" group-title="Nacional"tvg-id="Telefe.ar" tvg-name="Telefe.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1335/1335_t-290x163.png" ,Telefe
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -365,6 +324,14 @@ https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
+#EXTINF:-1 tvg-chno="12" group-title="Cordoba"tvg-id="ElDoce.ar" tvg-name="ElDoce.ar"  tvg-logo="https://i.postimg.cc/mk9jsWhc/Logo-1.png" ,El Doce (Cordoba)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c816a8c004ab857e53d7897c7c1db1b:a57bb2fbf55f52d9d827a04bbb531588
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd
 #EXTINF:-1 tvg-chno="13" group-title="Nacional"tvg-id="ElTrece.ar" tvg-name="ElTrece.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" ,El Trece
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -709,31 +676,31 @@ http://152.230.229.66:8001/play/a02r/index.m3u8
 #EXTINF:-1 tvg-chno="210" group-title="Premium CINEMAX"tvg-id="Cinemax.co" tvg-name="Cinemax.co"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" ,Cinemax (Colombia)
 #EXTVLCOPT:http-user-agent=VLC
 http://190.238.43.117:9000/play/a0ep/index.m3u8
-#EXTINF:-1 tvg-chno="211" group-title="Premium CINEMAX" tvg-logo="https://www.directv.com/dtvassets/global/channel-icons/c-d/Channel_Icon_Cinemax_East.svg" ,Cinemax (USA)
+#EXTINF:-1 tvg-chno="211" group-title="Premium CINEMAX"tvg-id="Cinemax (East).us" tvg-name="Cinemax (East).us"  tvg-logo="https://www.directv.com/dtvassets/global/channel-icons/c-d/Channel_Icon_Cinemax_East.svg" ,Cinemax (USA) (E)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd
-#EXTINF:-1 tvg-chno="212" group-title="Premium CINEMAX" tvg-logo="https://www.directv.com/dtvassets/global/channel-icons/c-d/Channel_Icon_Cinemax_West.svg" ,Cinemax (USA) (W)
+#EXTINF:-1 tvg-chno="212" group-title="Premium CINEMAX"tvg-id="Cinemax (West).us" tvg-name="Cinemax (West).us"  tvg-logo="https://www.directv.com/dtvassets/global/channel-icons/c-d/Channel_Icon_Cinemax_West.svg" ,Cinemax (USA) (W)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
-#EXTINF:-1 tvg-chno="213" group-title="Premium CINEMAX" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/estados%20unidos/cinemaxaction.png" ,Cinemax Action (USA)
+#EXTINF:-1 tvg-chno="213" group-title="Premium CINEMAX"tvg-id="Cinemax Action HDTV (East).us" tvg-name="Cinemax Action HDTV (East).us"  tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/estados%20unidos/cinemaxaction.png" ,Cinemax Action (USA)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd
-#EXTINF:-1 tvg-chno="214" group-title="Premium CINEMAX" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/estados%20unidos/cinemaxclassics.png" ,Cinemax Classics (USA)
+#EXTINF:-1 tvg-chno="214" group-title="Premium CINEMAX"tvg-id="Cinemax Classics (East).us" tvg-name="Cinemax Classics (East).us"  tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/estados%20unidos/cinemaxclassics.png" ,Cinemax Classics (USA)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
-#EXTINF:-1 tvg-chno="215" group-title="Premium CINEMAX" tvg-logo="https://americatvguide.com/img/us/logo/moremax.webp" ,MoreMax (USA)
+#EXTINF:-1 tvg-chno="215" group-title="Premium CINEMAX"tvg-id="Cinemax Hits (East).us" tvg-name="Cinemax Hits (East).us"  tvg-logo="https://americatvguide.com/img/us/logo/moremax.webp" ,Cinemax HITS (USA)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
@@ -1352,7 +1319,7 @@ http://190.7.19.197:232/play/a01x/index.m3u8
 #EXTINF:-1 tvg-chno="414" group-title="Religión"tvg-id="CanalOrbe21.ar" tvg-name="CanalOrbe21.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/8724/8724_t-290x163.png" ,Orbe 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="415" group-title="Religión" tvg-logo="https://radiomaria.org.ar/contenido/themes/radioMaria2019/imgs/logo.png" ,Radio María TV (Cordoba)
+#EXTINF:-1 tvg-chno="415" group-title="Religión"tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://radiomaria.org.ar/contenido/themes/radioMaria2019/imgs/logo.png" ,Radio María TV (Cordoba)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://5f700d5b2c46f.streamlock.net/maria720/maria720/playlist.m3u8?DVR
 #EXTINF:-1 tvg-chno="416" group-title="Religión" tvg-logo="https://canalsantamaria.com.ar/images/santamaria_logo.jpg" ,Santa Maria (Bs. As.)
@@ -1548,7 +1515,7 @@ https://cdn.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd
-#EXTINF:-1 tvg-chno="510" group-title="Deportes" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports (Paramount)
+#EXTINF:-1 tvg-chno="510" group-title="Deportes" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
@@ -1556,11 +1523,11 @@ https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd
 #EXTVLCOPT:http-origin=https://www.paramountplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
+#EXTINF:-1 tvg-chno="513" group-title="Deportes" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports (Chile)
+http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-chno="512" group-title="Deportes" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports (Peru)
 #EXTVLCOPT:http-user-agent=VLC
 http://190.238.43.117:9000/play/a09d/index.m3u8
-#EXTINF:-1 tvg-chno="513" group-title="Deportes" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports (Chile)
-http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-chno="514" group-title="Deportes" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/Ol1k8o68C2JoewlB-N2rrw?tags=CH_LOGO" ,Dsports 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1611,6 +1578,8 @@ https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd
+#EXTINF:-1 tvg-chno="530.1" group-title="Deportes Premium"tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium
+http://190.7.19.197:232/play/a038/index.m3u8
 #EXTINF:-1 tvg-chno="530" group-title="Deportes Premium"tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1619,6 +1588,8 @@ https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
+#EXTINF:-1 tvg-chno="531.1" group-title="Deportes Premium"tvg-id="TNTSportsPremium.ar" tvg-name="TNTSportsPremium.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" ,TNT Sports Premium
+http://190.7.19.197:232/play/a037/index.m3u8
 #EXTINF:-1 tvg-chno="531" group-title="Deportes Premium"tvg-id="TNTSportsPremium.ar" tvg-name="TNTSportsPremium.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" ,TNT Sports Premium
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1627,10 +1598,6 @@ https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/TNTSports/default/index.mpd
-#EXTINF:-1 tvg-chno="530.1" group-title="Deportes Premium"tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium
-http://190.7.19.197:232/play/a038/index.m3u8
-#EXTINF:-1 tvg-chno="531.1" group-title="Deportes Premium"tvg-id="TNTSportsPremium.ar" tvg-name="TNTSportsPremium.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" ,TNT Sports Premium
-http://190.7.19.197:232/play/a037/index.m3u8
 #EXTINF:-1 tvg-chno="536" group-title="Deportes Premium" tvg-logo="https://static-resources.redbull.tv/images/smarttv/rallytv/logos/logo-light.svg" ,Rally TV
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8
 #EXTINF:-1 tvg-chno="537" group-title="Deportes Premium" tvg-logo="https://sport-kijken.nl/wp-content/uploads/f1tv.png" ,F1 TV (USA)
@@ -1643,6 +1610,39 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15512
 #EXTINF:-1 tvg-chno="539" group-title="Deportes Premium" tvg-logo="https://assets.azbilliards.com/wp-content/uploads/2023/04/06180627/unnamed-3-2.png" ,Billard TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15632
+#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
+#EXTVLCOPT:http-user-agent=VLC
+http://152.230.229.66:8001/play/a00g/index.m3u8
+#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
+http://190.234.82.52:8000/play/a0kk/index.m3u8
+#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
+http://190.234.82.52:8000/play/a0q2/index.m3u8
+#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
+#EXTVLCOPT:http-user-agent=VLC
+http://190.238.43.117:9000/play/a0gd/index.m3u8
+#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
+http://190.60.37.115:8001/play/a0ia/index.m3u8
+#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
+#EXTVLCOPT:http-user-agent=VLC
+http://190.93.229.30:8000/play/a0cf/index.m3u8
+#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
+#EXTVLCOPT:http-user-agent=VLC
+http://190.93.229.30:8000/play/a0cl/index.m3u8
+#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
+#EXTVLCOPT:http-user-agent=VLC
+http://190.93.229.30:8000/play/a0jt/index.m3u8
+#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
+#EXTVLCOPT:http-user-agent=VLC
+http://209.14.108.45:8000/play/a0ho
+#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
+#EXTVLCOPT:http-user-agent=VLC
+http://38.7.195.44:8000/play/a04g
+#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
+http://8.243.126.131:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
+http://8.243.126.131:8000/play/a0lu/index.m3u8
+#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
+http://8.243.126.131:8000/play/a0no/index.m3u8
 #EXTINF:-1 tvg-chno="550" group-title="Pack ESPN"tvg-id="ESPN HD.cl" tvg-name="ESPN HD.cl"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/6ujI2dFhkwCxWJhbEOCqmg?tags=CH_LOGO" ,ESPN (Chile)
 #EXTVLCOPT:http-user-agent=VLC
 http://152.230.229.66:8001/play/a01k/index.m3u8
@@ -1739,7 +1739,7 @@ http://8.243.126.131:8000/play/a0jt/index.m3u8
 #EXTINF:-1 tvg-chno="552" group-title="Pack ESPN"tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3 HD.uy"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO" ,ESPN 3 (Sur)
 #EXTVLCOPT:http-user-agent=VLC
 http://152.230.229.66:8001/play/a036/index.m3u8
-#EXTINF:-1 tvg-chno="552" group-title="Pack ESPN"tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3 HD.uy"  ,ESPN 3 (Sur)
+#EXTINF:-1 tvg-chno="552" group-title="Pack ESPN"tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3 HD.uy"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO" ,ESPN 3 (Sur)
 http://179.60.51.134:8888/ESPN3/index.m3u8
 #EXTINF:-1 tvg-chno="552" group-title="Pack ESPN"tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3 HD.uy"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO" ,ESPN 3 (Sur)
 http://190.234.82.52:8000/play/a0lm/index.m3u8
@@ -1868,36 +1868,3 @@ http://209.14.108.65:8000/play/a01h/index.m3u8
 http://38.7.195.44:8000/play/a014
 #EXTINF:-1 tvg-chno="556" group-title="Pack ESPN"tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy"  tvg-logo="https://americatvguide.com/img/cl/logo/espn-7.webp" ,ESPN 7 (Sur)
 http://8.243.126.131:8000/play/a065/index.m3u8
-#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
-#EXTVLCOPT:http-user-agent=VLC
-http://152.230.229.66:8001/play/a00g/index.m3u8
-#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
-http://190.234.82.52:8000/play/a0kk/index.m3u8
-#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
-http://190.234.82.52:8000/play/a0q2/index.m3u8
-#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
-#EXTVLCOPT:http-user-agent=VLC
-http://190.238.43.117:9000/play/a0gd/index.m3u8
-#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
-http://190.60.37.115:8001/play/a0ia/index.m3u8
-#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
-#EXTVLCOPT:http-user-agent=VLC
-http://190.93.229.30:8000/play/a0cf/index.m3u8
-#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
-#EXTVLCOPT:http-user-agent=VLC
-http://190.93.229.30:8000/play/a0cl/index.m3u8
-#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
-#EXTVLCOPT:http-user-agent=VLC
-http://190.93.229.30:8000/play/a0jt/index.m3u8
-#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
-#EXTVLCOPT:http-user-agent=VLC
-http://209.14.108.45:8000/play/a0ho
-#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
-#EXTVLCOPT:http-user-agent=VLC
-http://38.7.195.44:8000/play/a04g
-#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
-http://8.243.126.131:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
-http://8.243.126.131:8000/play/a0lu/index.m3u8
-#EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium (Chile)
-http://8.243.126.131:8000/play/a0no/index.m3u8
