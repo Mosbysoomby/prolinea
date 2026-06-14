@@ -277,40 +277,18 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://tourismxp.com/wp-content/uploads/2024/03/paraguay.png" ,Albirroja Tv (Paraguay)
-http://138.59.227.20:8000/play/a0dx/index.m3u8
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" ,Futbol Total (Multi)
-http://138.59.227.20:8000/play/a0fs/index.m3u8
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" ,GEN EXTRA 1 (Paraguay)
-http://138.59.227.20:8000/play/a0g9/index.m3u8
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" ,Vix Mundial 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=784d6b54efe3a13dc1fbcda17e5804db:b4f4814e01943f910b62e6bfd0c23728
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://vod-cua-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-92-HD/default.mpd
 #EXTINF:-1 tvg-chno="7" group-title="Nacional"  tvg-id="TVPublica.ar" tvg-name="TVPublica.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/IE0Yf-Y3qxyupJcRblURuQ?tags=CH_LOGO" ,TV Publica
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a056/index.m3u8
+http://138.59.227.20:8000/play/a095/index.m3u8
 #EXTINF:-1 tvg-chno="9" group-title="Nacional"  tvg-id="ElNueve.ar" tvg-name="ElNueve.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" ,El Nueve
 http://190.7.19.197:232/play/a03k/index.m3u8
-#EXTINF:-1 tvg-chno="10" group-title="Cordoba"  tvg-id="Canal10.ar" tvg-name="Canal10.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/grilla-logos-2025/arg.cba.canal10.png" ,Canal 10 (Cordoba)
-#EXTVLCOPT:http-referrer=https://www.cba24n.com.ar
-#EXTVLCOPT:http-origin=https://www.cba24n.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="11" group-title="Nacional"  tvg-id="Telefe.ar" tvg-name="Telefe.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1335/1335_t-290x163.png" ,Telefe
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a06c/index.m3u8
+http://138.59.227.20:8000/play/a08a/index.m3u8
 #EXTINF:-1 tvg-chno="13" group-title="Nacional"  tvg-id="ElTrece.ar" tvg-name="ElTrece.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" ,El Trece
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a0bg/index.m3u8
+http://138.59.227.20:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-chno="14" group-title="Nacional"  tvg-id="America.ar" tvg-name="America.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" ,America TV
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a055/index.m3u8
+http://138.59.227.20:8000/play/a094/index.m3u8
 #EXTINF:-1 tvg-chno="20" group-title="Noticias"  tvg-id="A24.ar" tvg-name="A24.ar"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" ,A24
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a01o/index.m3u8
+http://138.59.227.20:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-chno="21" group-title="Noticias"  tvg-id="C5N.ar" tvg-name="C5N.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" ,C5N
 http://190.7.19.197:232/play/a040/index.m3u8
 #EXTINF:-1 tvg-chno="22" group-title="Noticias"  tvg-id="Canal26.ar" tvg-name="Canal26.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true" ,Canal 26
@@ -324,11 +302,9 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://g5.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-chno="24" group-title="Noticias"  tvg-id="LaNacion+.ar" tvg-name="LaNacion+.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3644/3644_t-290x163.png" ,La Nacion+
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a01s/index.m3u8
+http://138.59.227.20:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-chno="25" group-title="Noticias"  tvg-id="TN.ar" tvg-name="TN.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" ,TN
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a058/index.m3u8
+http://138.59.227.20:8000/play/a097/index.m3u8
 #EXTINF:-1 tvg-chno="26" group-title="Noticias"  tvg-id="Ar12.ar" tvg-name="Ar12.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6158/6158_t-290x163.png" ,Ar|12
 http://190.7.19.197:232/play/a00o/index.m3u8
 #EXTINF:-1 tvg-chno="27" group-title="Noticias" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png" ,Canal E
@@ -337,8 +313,7 @@ http://190.7.19.197:232/play/a00o/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" group-title="Noticias"  tvg-id="CanalRural.ar" tvg-name="CanalRural.ar"  tvg-logo="https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/11/11_t-290x163.png" ,Canal Rural
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a02f/index.m3u8
+http://190.7.19.197:232/play/a04j/index.m3u8
 #EXTINF:-1 tvg-chno="31" group-title="Noticias" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3840/3840_t-290x163.png" ,Chacra TV
 https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
 #EXTINF:-1 tvg-chno="50" group-title="Variedad Argentina"  tvg-id="ArgentinisimaSatelital.ar" tvg-name="ArgentinisimaSatelital.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/argentinisimasatelital@2x.png" ,Argentinisima Satelital
@@ -358,8 +333,7 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-chno="61" group-title="Variedad Argentina"  tvg-id="CanalA.ar" tvg-name="CanalA.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/IScOx6Ju6ANYu51LB7XhPQ?tags=CH_LOGO" ,Canal (á)
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a09j/index.m3u8
+http://138.59.227.20:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-chno="62" group-title="Variedad Argentina"  tvg-id="CanaldelaCiudad.ar" tvg-name="CanaldelaCiudad.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/canaldelaciudad@2x.png" ,Canal de la Ciudad
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
 #EXTVLCOPT:http-origin=https://vmf.edge-apps.net/
@@ -373,8 +347,7 @@ http://190.7.19.197:232/play/a04l/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 #EXTINF:-1 tvg-chno="65" group-title="Variedad Argentina"  tvg-id="Metro.ar" tvg-name="Metro.ar"  tvg-logo="https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/27/27_t-290x163.png" ,Metro
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a02g/index.m3u8
+http://190.7.19.197:232/play/a018/index.m3u8
 #EXTINF:-1 tvg-chno="66" group-title="Variedad Argentina"  tvg-id="NetTV.ar" tvg-name="NetTV.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/4646/4646_t-290x163.png" ,Net TV
 #EXTVLCOPT:http-referrer=https://5900.tv/
 #EXTVLCOPT:http-origin=https://5900.tv/
@@ -474,8 +447,7 @@ http://190.238.43.117:9000/play/a0ei/index.m3u8
 #EXTVLCOPT:http-user-agent=VLC
 http://190.238.43.117:9000/play/a0gf/index.m3u8
 #EXTINF:-1 tvg-chno="210" group-title="Premium CINEMAX"  tvg-id="Cinemax.ar" tvg-name="Cinemax.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" ,Cinemax
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a04s/index.m3u8
+http://138.59.227.20:8000/play/a08r/index.m3u8
 #EXTINF:-1 tvg-chno="210" group-title="Premium CINEMAX"  tvg-id="Cinemax HD.cl" tvg-name="Cinemax HD.cl"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" ,Cinemax (Chile)
 #EXTVLCOPT:http-user-agent=VLC
 http://152.230.229.66:8001/play/a02r/index.m3u8
@@ -563,11 +535,11 @@ http://190.238.43.117:9000/play/a0fk/index.m3u8
 #EXTINF:-1 tvg-chno="241" group-title="Cine y Series"  tvg-id="AmcSeries.ar" tvg-name="AmcSeries.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3390/3390_t-290x163.png" ,AMC Series
 http://38.7.195.44:8000/play/a0d6
 #EXTINF:-1 tvg-chno="242" group-title="Cine y Series"  tvg-id="AXN.ar" tvg-name="AXN.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNAXN.png?raw=true" ,AXN
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a05f/index.m3u8
+http://138.59.227.20:8000/play/a09e/index.m3u8
+#EXTINF:-1 tvg-chno="242" group-title="Cine y Series"  tvg-id="AXN.sv" tvg-name="AXN.sv"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNAXN.png?raw=true" ,AXN (Centro)
+http://8.243.126.131:8000/play/a0gy/index.m3u8
 #EXTINF:-1 tvg-chno="243" group-title="Cine y Series"  tvg-id="CineAr.ar" tvg-name="CineAr.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/INCAA.png?raw=true" ,Cine.AR
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a024/index.m3u8
+http://190.7.19.197:232/play/a04b/index.m3u8
 #EXTINF:-1 tvg-chno="244" group-title="Cine y Series"  tvg-id="Cinecanal.ar" tvg-name="Cinecanal.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3445/3445_t-290x163.png" ,Cinecanal
 http://190.7.19.197:232/play/a05y/index.m3u8
 #EXTINF:-1 tvg-chno="245" group-title="Cine y Series"  tvg-id="DHE.ar" tvg-name="DHE.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true" ,DHE
@@ -596,17 +568,12 @@ http://190.7.19.197:232/play/a050/index.m3u8
 http://190.7.19.197:232/play/a05w/index.m3u8
 #EXTINF:-1 tvg-chno="253" group-title="Cine y Series"  tvg-id="StudioUniversal.ar" tvg-name="StudioUniversal.ar"  tvg-logo="https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/77/77_t-290x163.png" ,Studio Universal
 http://8.243.126.131:8000/play/a0dx/index.m3u8
-#EXTINF:-1 tvg-chno="254" group-title="Cine y Series" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTAR.png?raw=true" ,TNT
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a07d/index.m3u8
 #EXTINF:-1 tvg-chno="255" group-title="Cine y Series"  tvg-id="TNTSeries.ar" tvg-name="TNTSeries.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSE.png?raw=true" ,TNT Series
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a07e/index.m3u8
+http://190.234.82.52:8000/play/a0oh/index.m3u8
 #EXTINF:-1 tvg-chno="256" group-title="Cine y Series"  tvg-id="USA.ar" tvg-name="USA.ar"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/160/160/0/0/81694330078327.png|worldtv2" ,USA
 http://8.243.126.131:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-chno="257" group-title="Cine y Series"  tvg-id="Warner.ar" tvg-name="Warner.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3787/3787_t-290x163.png" ,Warner TV
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a05e/index.m3u8
+http://190.60.37.115:8001/play/a0l9/index.m3u8
 #EXTINF:-1 tvg-chno="258" group-title="Cine y Series"  tvg-id="ComedyCentral.ar" tvg-name="ComedyCentral.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3953/3953_t-290x163.png" ,Comedy Central
 http://8.243.126.131:8000/play/a060/index.m3u8
 #EXTINF:-1 tvg-chno="259" group-title="Cine y Series"  tvg-id="FilmAndArts.ar" tvg-name="FilmAndArts.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3391/3391_t-290x163.png" ,Film & Arts
@@ -635,8 +602,7 @@ http://38.7.195.44:8000/play/a0c0
 #EXTINF:-1 tvg-chno="278" group-title="Cine y Series" tvg-logo="https://static.wixstatic.com/media/c5adb2_2ece8c7444e645078f23972a4e84e2b6~mv2.png/v1/fill/w_266,h_189,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png" ,MX Prime
 http://38.7.195.44:8000/play/a0c6
 #EXTINF:-1 tvg-chno="280" group-title="Cine Retro"  tvg-id="Volver.ar" tvg-name="Volver.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" ,Volver
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a021/index.m3u8
+http://190.7.19.197:232/play/a048/index.m3u8
 #EXTINF:-1 tvg-chno="281" group-title="Cine Retro"  tvg-id="DePelicula.ar" tvg-name="DePelicula.ar"  tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2024/12/logo-d-pelicula.png" ,De Película
 http://190.234.82.52:8000/play/a0o7/index.m3u8
 #EXTINF:-1 tvg-chno="283" group-title="Cine Retro"  tvg-id="TCM.ar" tvg-name="TCM.ar"  tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/328/328_t-290x163.png" ,TCM
@@ -714,22 +680,19 @@ http://190.234.82.52:8000/play/a0lo/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 http://190.7.19.197:232/play/a08g/index.m3u8
 #EXTINF:-1 tvg-chno="341" group-title="Cultura"  tvg-id="Encuentro.ar" tvg-name="Encuentro.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CENC.png?raw=true" ,Encuentro
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a01m/index.m3u8
+http://190.7.19.197:232/play/a013/index.m3u8
 #EXTINF:-1 tvg-chno="342" group-title="Cultura"  tvg-id="TECtv.ar" tvg-name="TECtv.ar"  tvg-logo="https://www.tec.gob.ar/wp-content/uploads/2022/05/Tec-logo.png" ,TEC
 http://190.7.19.197:232/play/a08c/index.m3u8
 #EXTINF:-1 tvg-chno="350" group-title="Cultura"  tvg-id="Animal Planet.co" tvg-name="Animal Planet.co"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/CGK4TLWx_s-GVxkGA69uVQ?tags=CH_LOGO" ,Animal Planet (Panregional)
 http://8.243.126.131:8000/play/a0dy/index.m3u8
 #EXTINF:-1 tvg-chno="351" group-title="Cultura"  tvg-id="History.ar" tvg-name="History.ar"  tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/historychannel.png" ,History
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a05h/index.m3u8
+http://190.7.19.197:232/play/a03t/index.m3u8
 #EXTINF:-1 tvg-chno="352" group-title="Cultura"  tvg-id="History2.ar" tvg-name="History2.ar"  tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/historychannel2.png" ,History 2
 http://8.243.126.131:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-chno="353" group-title="Cultura"  tvg-id="NationalGeographic.ar" tvg-name="NationalGeographic.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2710/2710_t-290x163.png" ,National Geographic
 http://8.243.126.131:8000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-chno="354" group-title="Cultura"  tvg-id="Discovery.ar" tvg-name="Discovery.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/EsvkD06EpyPQG58R6A82yA?tags=CH_LOGO" ,Discovery Channel
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a07i/index.m3u8
+#EXTINF:-1 tvg-chno="353" group-title="Cultura"  tvg-id="NationalGeographic.ar" tvg-name="NationalGeographic.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2710/2710_t-290x163.png" ,National Geographic
+http://138.59.227.20:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-chno="355" group-title="Cultura"  tvg-id="DiscoveryHomeAndHealth.ar" tvg-name="DiscoveryHomeAndHealth.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/BFvn4fj8fcDWhtDSEnZjdg?tags=CH_LOGO" ,Discovery H&H
 #EXTVLCOPT:http-user-agent=VLC
 http://209.14.108.65:8000/play/a01p/index.m3u8
@@ -835,8 +798,7 @@ http://38.7.195.44:8000/play/a00d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:-1 tvg-chno="436" group-title="Musica"  tvg-id="QuieroMusica.ar" tvg-name="QuieroMusica.ar"  tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/779/779_t-290x163.png" ,Quiero Musica
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a02n/index.m3u8
+http://138.59.227.20:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-chno="437" group-title="Musica"  tvg-id="Telehit.ar" tvg-name="Telehit.ar"  tvg-logo="https://desdepuebla.com/wp-content/uploads/2021/02/TELEHIT-1-1.png" ,TeleHit
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -882,8 +844,7 @@ http://118.142.17.190:8278/now80hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="458" group-title="Musica Retro" ,NOW Rock (UK)
 http://118.142.17.190:8278/now90hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="460" group-title="Musica Conciertos"  tvg-id="Allegro.ar" tvg-name="Allegro.ar"  tvg-logo="https://allegrohd.com/images/logo3.png" ,Allegro
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a053/index.m3u8
+http://190.7.19.197:232/play/a098/index.m3u8
 #EXTINF:-1 tvg-chno="461" group-title="Musica Conciertos" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1351/1351_t-290x163.png" ,Concert Channel
 http://8.243.126.131:8000/play/a04z/index.m3u8
 #EXTINF:-1 tvg-chno="462" group-title="Musica Conciertos" tvg-logo="https://iconcerts.stingray.com/themes/custom/iconcerts/logo.svg" ,Stingray Concerts
@@ -904,23 +865,16 @@ http://190.7.19.197:232/play/a04w/index.m3u8
 #EXTINF:-1 tvg-chno="501" group-title="Deportes"  tvg-id="Espn.ar" tvg-name="Espn.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/6ujI2dFhkwCxWJhbEOCqmg?tags=CH_LOGO" ,ESPN
 http://190.234.82.52:8000/play/a0kn/index.m3u8
 #EXTINF:-1 tvg-chno="502" group-title="Deportes"  tvg-id="Espn2.ar" tvg-name="Espn2.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/pKel4txgUUES1wvAVQK9DQ?tags=CH_LOGO" ,ESPN 2
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a059/index.m3u8
+http://190.7.19.197:232/play/a03m/index.m3u8
 #EXTINF:-1 tvg-chno="503" group-title="Deportes"  tvg-id="Espn3.ar" tvg-name="Espn3.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO" ,ESPN 3
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a05b/index.m3u8
+http://190.7.19.197:232/play/a03o/index.m3u8
 #EXTINF:-1 tvg-chno="504" group-title="Deportes"  tvg-id="Espn4.ar" tvg-name="Espn4.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/jGyt-p8MW55TcZMkzRBHLw?tags=CH_LOGO" ,ESPN 4
 #EXTVLCOPT:http-user-agent=VLC
 http://190.238.43.117:9000/play/a0gv/index.m3u8
 #EXTINF:-1 tvg-chno="505" group-title="Deportes"  tvg-id="FoxSports.ar" tvg-name="FoxSports.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/600/600/HAq2thFBSFQ6BPwjbeV3mw?tags=CH_LOGO" ,FOX Sports
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a07j/index.m3u8
-#EXTINF:-1 tvg-chno="506" group-title="Deportes"  tvg-id="FoxSports2.ar" tvg-name="FoxSports2.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/8lNQixZEsN3Eadq_eLSVqg?tags=CH_LOGO" ,FOX Sports 2
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a05c/index.m3u8
+http://138.59.227.20:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-chno="507" group-title="Deportes"  tvg-id="FoxSports3.ar" tvg-name="FoxSports3.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/aAian9WeLoU0vTudB9xL2g?tags=CH_LOGO" ,FOX Sports 3
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a02t/index.m3u8
+http://138.59.227.20:8000/play/a06y/index.m3u8
 #EXTINF:-1 tvg-chno="508" group-title="Deportes"  tvg-id="AmericaSports.ar" tvg-name="AmericaSports.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/qPhxg2V8AzmZJNNmXIuRKA?tags=CH_LOGO" ,America Sports
 http://190.7.19.197:232/play/a044/index.m3u8
 #EXTINF:-1 tvg-chno="509" group-title="Deportes"  tvg-id="DeporTv.ar" tvg-name="DeporTv.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/XMlPUQ7mIvaDO707-0z5MQ?tags=CH_LOGO" ,DeporTV
@@ -968,13 +922,9 @@ http://8.243.126.131:8000/play/a0js/index.m3u8
 #EXTINF:-1 tvg-chno="520" group-title="Deportes"  tvg-id="GolfChannel.ar" tvg-name="GolfChannel.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GOLFC.png?raw=true" ,Golf Channel Latinoamerica
 http://8.243.126.131:8000/play/a0ea/index.m3u8
 #EXTINF:-1 tvg-chno="530" group-title="Deportes Premium"  tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a078/index.m3u8
-#EXTINF:-1 tvg-chno="530" group-title="Deportes Premium"  tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium
 http://190.7.19.197:232/play/a038/index.m3u8
-#EXTINF:-1 tvg-chno="531" group-title="Deportes Premium"  tvg-id="TNTSportsPremium.ar" tvg-name="TNTSportsPremium.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" ,TNT Sports Premium
-#EXTVLCOPT:http-user-agent=VLC
-http://181.13.252.102:8000/play/a0bc/index.m3u8
+#EXTINF:-1 tvg-chno="530" group-title="Deportes Premium"  tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium
+http://138.59.227.20:8000/play/a086/index.m3u8
 #EXTINF:-1 tvg-chno="531" group-title="Deportes Premium"  tvg-id="TNTSportsPremium.ar" tvg-name="TNTSportsPremium.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" ,TNT Sports Premium
 http://190.7.19.197:232/play/a037/index.m3u8
 #EXTINF:-1 tvg-chno="535" group-title="Deportes Premium" tvg-logo="https://statics-files.tycsports.com/frontend/tycsports/img/logos_2026/logo-play-azul.svg" ,TyC Sports Internacional
