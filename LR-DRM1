@@ -1,3 +1,8 @@
+#EXTM3U  url-tvg="https://www.open-epg.com/files/argentina.xml.gz,https://www.open-epg.com/files/australia.xml.gz,https://www.open-epg.com/files/brazil1.xml.gz,https://www.open-epg.com/files/chile2.xml.gz,https://www.open-epg.com/files/colombia1.xml.gz,https://www.open-epg.com/files/colombia2.xml.gz,https://www.open-epg.com/files/italy1.xml.gz,https://www.open-epg.com/files/mexico1.xml.gz,https://www.open-epg.com/files/mexico2.xml.gz,https://www.open-epg.com/files/peru.xml.gz,https://www.open-epg.com/files/turkey1.xml.gz,https://www.open-epg.com/files/uruguay1.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/generate/b26XUV2hRF.xml.gz,https://www.open-epg.com/files/unitedstates10.xml.gz,https://www.open-epg.com/files/unitedstates11.xml.gz"
+
+
+
+
 #EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true"tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://www.cadena3.com/img2024/logo-cadena-3.png" ,Cadena 3 (Cordoba)
 https://liveradio.mediainbox.net/radio3.mp3
 #EXTINF:-1 tvg-chno="1" group-title="Radios"tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/932/cadena-3.7b3804b9.png" ,Cadena 3 (Cordoba)
