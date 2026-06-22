@@ -295,6 +295,23 @@ http://190.238.43.117:9000/play/a0dg/index.m3u8
 #EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports (Peru)
 http://190.234.82.52:8000/play/c4pn/index.m3u8
 
+
+
+
+
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="Telemundo (WSNS) Chicago, IL HD.us" tvg-name="Telemundo (WSNS) Chicago, IL HD.us"  tvg-logo="https://play-lh.googleusercontent.com/QWzkc_LXU5Bu-Z0osZFStRQ-IGNJk7MsPcywke4VJP081BUuhsP1Fs1FqBteH_wW15A_" ,Telemundo Arizona | TCS (USA)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd
+
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="Fox Sports 1.us" tvg-name="Fox Sports 1.us"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_1_US.png" ,Telemundo 4K (USA)
+https://vizio.kuvuslov.cymru/telemundo-4k/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="Fox Sports 1.us" tvg-name="Fox Sports 1.us"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_1_US.png" ,FOX Sports 4K (USA)
+https://vizio.kuvuslov.cymru/fs1-4k/index.m3u8
+
 #EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="Fox Sports 1.us" tvg-name="Fox Sports 1.us"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_1_US.png" ,FOX Sports 1 (USA)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -309,12 +326,6 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="Telemundo (WSNS) Chicago, IL HD.us" tvg-name="Telemundo (WSNS) Chicago, IL HD.us"  tvg-logo="https://play-lh.googleusercontent.com/QWzkc_LXU5Bu-Z0osZFStRQ-IGNJk7MsPcywke4VJP081BUuhsP1Fs1FqBteH_wW15A_" ,Telemundo Chicago | WSNS (USA)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(WSNS)/master.mpd
 
 #EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="Telemundo (KVEA) Los Angeles, CA HD.us" tvg-name="Telemundo (KVEA) Los Angeles, CA HD.us"  tvg-logo="https://www.hispanicprblog.com/wp-content/uploads/2015/07/tm52.jpg" ,Telemundo Los Angeles | KVEA (USA)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2298,4 +2309,3 @@ http://38.7.195.44:8000/play/a014
 
 #EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"  tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy"  tvg-logo="https://americatvguide.com/img/cl/logo/espn-7.webp" ,ESPN 7 (Sur)
 http://8.243.126.131:8000/play/a065/index.m3u8
-
