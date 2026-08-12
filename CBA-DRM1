@@ -7,8 +7,8 @@
 #EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true"  tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://www.cadena3.com/img2024/logo-cadena-3.png" ,Cadena 3 (Cordoba)
 https://liveradio.mediainbox.net/radio3.mp3
 
-#EXTINF:-1 tvg-chno="1" group-title="Radios"  tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/932/cadena-3.7b3804b9.png" ,Cadena 3 (Cordoba)
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO3_SC
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/932/cadena-3.7b3804b9.png" ,Apple Tv
+http://a47.streamtrx.xyz/live/7a8ff8f5f3/cef195279c66/2053074.m3u8
 
 #EXTINF:-1 tvg-chno="1" group-title="Radios" radio="true"  tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.cadenaheat.com/img/logo-cadena-heat.png" ,Cadena Heat (Cordoba)
 #EXTVLCOPT:http-referrer=https://api.apolomedia.com/
