@@ -860,8 +860,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15807
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15788
 #EXTINF:-1 tvg-chno="473" group-title="Musica VOD" tvg-logo="https://static.wixstatic.com/media/0d7284_fcb7cccb80b142af82255090976b8ada~mv2.png/v1/fill/w_531,h_206,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/MC_Relax_Main.png" ,ESSENTIAL RELAX 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15791
+
 #EXTINF:-1 tvg-chno="500" group-title="Deportes"  tvg-id="TyCSports.ar" tvg-name="TyCSports.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/600/600/vub_hfkh4B1JFwp7LQ-GrA?tags=CH_LOGO" ,TyC Sports
-http://190.7.19.197:232/play/a04w/index.m3u8
+http://138.59.227.20:8000/play/a06x/index.m3u8
+
+
 #EXTINF:-1 tvg-chno="501" group-title="Deportes"  tvg-id="Espn.ar" tvg-name="Espn.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/6ujI2dFhkwCxWJhbEOCqmg?tags=CH_LOGO" ,ESPN
 http://190.234.82.52:8000/play/a0kn/index.m3u8
 #EXTINF:-1 tvg-chno="502" group-title="Deportes"  tvg-id="Espn2.ar" tvg-name="Espn2.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/pKel4txgUUES1wvAVQK9DQ?tags=CH_LOGO" ,ESPN 2
