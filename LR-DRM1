@@ -900,7 +900,9 @@ https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d95265
 http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-chno="512" group-title="Deportes" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports (Peru)
 #EXTVLCOPT:http-user-agent=VLC
-http://190.238.43.117:9000/play/a09d/index.m3u8
+http://190.234.82.52:8000/play/ac5p/index.m3u8
+
+
 #EXTINF:-1 tvg-chno="513" group-title="Deportes" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/Ol1k8o68C2JoewlB-N2rrw?tags=CH_LOGO" ,Dsports 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
