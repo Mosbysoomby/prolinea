@@ -124,6 +124,14 @@ https://frontend.radiohdvivo.com/continental/live
 #EXTINF:-1 tvg-chno="1" group-title="Radios" tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_AM870_b.png" ,RADIODIFUSIÓN ARGENTINA AL EXTERIOR (Bs. As.)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad35
 
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-chno="2" group-title="Radios Stream" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijazmHacs13HUurNi_JazBSKkW3bNLpECWRNqPBThHU_yZ5YMavRKSZOFOggbFm6Xhqktk05z6bB0pCudCOE8oPUz1wbhqwl-nfYSmrp4qglY1i8uYx765j16mJ04b9qWXmemozPEjs1ltwI9HiM8daZg4FnQLVe9xRpTifKfJxYF12knUmoOIzqH_FEs/w1200-h630-p-k-no-nu/am1070-eldestape-mundo.png" ,El Destape (Bs. As.)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -166,194 +174,14 @@ https://smt-usr-edge01.sensa.com.ar/output/ET-01/popular/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn1.tvlin.net/open/mil20/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","45bbd582f220f438f896450d8306a3f2":"582c6ba7f64bbc0f2d91c6b0c265760c"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports (Cable)
-http://190.7.19.197:232/play/a09i/index.m3u8
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports (Paramount)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
-#EXTVLCOPT:http-referrer=https://www.paramountplus.com/
-#EXTVLCOPT:http-origin=https://www.paramountplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/deportes/dsportsplus.png" ,Dsports +
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
-#EXTVLCOPT:http-referrer=https://www.paramountplus.com/
-#EXTVLCOPT:http-origin=https://www.paramountplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/Ol1k8o68C2JoewlB-N2rrw?tags=CH_LOGO" ,Dsports 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=010b4fa338184f52a712121ad62ae9b4:e310bad2a570b60f7799e2aa0fb33a71
-#EXTVLCOPT:http-referrer=https://www.paramountplus.com/
-#EXTVLCOPT:http-origin=https://www.paramountplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a463f9d5/manifest.mpd
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="Telefe.ar" tvg-name="Telefe.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1335/1335_t-290x163.png" ,Telefe
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="TelefeCordoba.ar" tvg-name="TelefeCordoba.ar"  tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/LV85.png" ,Telefe Cordoba
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40eb9a4d4c2d374123cdaa14325f9589:432059bce61664caffc06223a1c081e2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://logospng.org/download/cazetv/caze-tv-512.png" ,Caze TV (Brasil)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="Gloob HD.br" tvg-name="Gloob HD.br"  tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/brasil/globo.png" ,Globo (Brasil)
-http://190.7.19.197:232/play/a00w/index.m3u8
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="SporTV HD.br" tvg-name="SporTV HD.br"  tvg-logo="https://d11o8pt3cttu38.cloudfront.net/wp-content/uploads/sites/45/2022/08/sportv-logo-f.png" ,Sportv (Brasil)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="SporTV2 HD.br" tvg-name="SporTV2 HD.br"  tvg-logo="https://americatvguide.com/img/br/logo/sportv-2.webp" ,Sportv 2 (Brasil)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="SporTV3 HD.br" tvg-name="SporTV3 HD.br"  tvg-logo="https://americatvguide.com/img/br/logo/sportv-3.webp" ,Sportv 3 (Brasil)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="CHV.cl" tvg-name="CHV.cl"  tvg-logo="https://iconape.com/wp-content/png_logo_vector/chilevision-logo.png" ,Chilevision (Chile)
-#EXTVLCOPT:http-user-agent=VLC
-http://190.93.229.30:8000/play/a0cj/index.m3u8
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports (Chile)
-http://8.243.126.131:8000/play/a05a/index.m3u8
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="Caracol HD.co" tvg-name="Caracol HD.co"  tvg-logo="https://www.comparandonos.com/plds/tv/canales/caracol-tv.png" ,Caracol (Colombia)
-http://190.60.37.115:8001/play/a0o7/index.m3u8
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="Caracol HD.co" tvg-name="Caracol HD.co"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Caracol_hd2_2015.png/revision/latest/scale-to-width-down/220?cb=20170516000440" ,Caracol HD2 (Colombia)
-http://190.60.37.115:8001/play/a0o8/index.m3u8
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="RCN HD.co" tvg-name="RCN HD.co"  tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-rcnHD.png" ,RCN (Colombia)
-http://190.60.37.115:8001/play/a0o4/index.m3u8
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="RCN HD.co" tvg-name="RCN HD.co"  tvg-logo="https://media.tv-porinternet.tv/logo_rcn_hd2_03405a_209c8584ee.png" ,RCN HD2 (Colombia)
-http://190.60.37.115:8001/play/a0o5/index.m3u8
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://telecablecr.com/wp-content/uploads/2026/05/FOX.webp" ,FOX (Costa Rica)
-http://8.243.126.131:8000/play/a0ih/index.m3u8
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="Canal 5 HD.mx" tvg-name="Canal 5 HD.mx"  tvg-logo="https://i.ibb.co/V310Z0q/canal5.png" ,Canal 5 (Mexico)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="AmericaTelevision.pe" tvg-name="AmericaTelevision.pe"  tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/peru/america.png" ,America (Peru)
-#EXTVLCOPT:http-user-agent=VLC
-http://190.238.43.117:9000/play/a0dg/index.m3u8
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports (Peru)
-http://190.234.82.52:8000/play/c4pn/index.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="Telemundo (WSNS) Chicago, IL HD.us" tvg-name="Telemundo (WSNS) Chicago, IL HD.us"  tvg-logo="https://play-lh.googleusercontent.com/QWzkc_LXU5Bu-Z0osZFStRQ-IGNJk7MsPcywke4VJP081BUuhsP1Fs1FqBteH_wW15A_" ,Telemundo Arizona | TCS (USA)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="Fox Sports 1.us" tvg-name="Fox Sports 1.us"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_1_US.png" ,Telemundo 4K (USA)
-https://vizio.kuvuslov.cymru/telemundo-4k/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="Fox Sports 1.us" tvg-name="Fox Sports 1.us"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_1_US.png" ,FOX Sports 4K (USA)
-https://vizio.kuvuslov.cymru/fs1-4k/index.m3u8
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="Fox Sports 1.us" tvg-name="Fox Sports 1.us"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_1_US.png" ,FOX Sports 1 (USA)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="Fox Sports 2.us" tvg-name="Fox Sports 2.us"  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_2_US.png" ,FOX Sports 2 (USA)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
 
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="Telemundo (KVEA) Los Angeles, CA HD.us" tvg-name="Telemundo (KVEA) Los Angeles, CA HD.us"  tvg-logo="https://www.hispanicprblog.com/wp-content/uploads/2015/07/tm52.jpg" ,Telemundo Los Angeles | KVEA (USA)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="Telemundo  East HD.us" tvg-name="Telemundo  East HD.us"  tvg-logo="https://media.telemundo47.com/2024/08/WNJU_station_logo_dark_9e2588.png" ,Telemundo Ney York | WNJU (USA)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c71fe7bc82f037c6af21fd299d6341b0:13223c98886ff43d3c5f271eeb457cc6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/master.mpd
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026"  tvg-id="UNIVERSO HDTV (East).us" tvg-name="UNIVERSO HDTV (East).us"  tvg-logo="https://americatvguide.com/img/us/logo/universo.webp" ,Universo (USA) (E)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
-
-#EXTINF:-1 tvg-chno="4" group-title="Mundial Fifa 2026" tvg-logo="https://americatvguide.com/img/us/logo/universo.webp" ,Universo (USA) (W)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=069f3495380f3d25a8c03477067f7d1b:7d9dbf8134535e1665e914fb7134ce47
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-west)/master.mpd
 
 #EXTINF:-1 tvg-chno="7" group-title="Nacional"  tvg-id="TVPublica.ar" tvg-name="TVPublica.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/IE0Yf-Y3qxyupJcRblURuQ?tags=CH_LOGO" ,TV Publica
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -371,7 +199,7 @@ https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-http://cdn.sensa.com.ar/output/Canal8D/output.mpd
+https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd
 
 #EXTINF:-1 tvg-chno="9" group-title="Nacional"  tvg-id="ElNueve.ar" tvg-name="ElNueve.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" ,El Nueve
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -472,17 +300,7 @@ https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
 
-#EXTINF:-1 tvg-chno="26" group-title="Noticias"  tvg-id="Ar12.ar" tvg-name="Ar12.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6158/6158_t-290x163.png" ,Ar|12
-http://190.7.19.197:232/play/a00o/index.m3u8
 
-#EXTINF:-1 tvg-chno="27" group-title="Noticias" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png" ,Canal E
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1894229072ccac2d0f6a101d618d039d:9a7ea848df202bf22ac51bda4482a4c2
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/CanalE/default/index.mpd
 
 #EXTINF:-1 tvg-chno="30" group-title="Noticias"  tvg-id="CanalRural.ar" tvg-name="CanalRural.ar"  tvg-logo="https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/11/11_t-290x163.png" ,Canal Rural
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -526,17 +344,14 @@ https://cdn.sensa.com.ar/bpk-tv/ElFolklorico/default/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
-#EXTINF:-1 tvg-chno="60" group-title="Variedad Argentina"  tvg-id="BravoTv.ar" tvg-name="BravoTv.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/s5bcN_UDJ3TW45O4-5-yrw?tags=CH_LOGO" ,Bravo TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d7d1609477d0b0d51a5b7d1539e65eb:90b61b3fa577eab7b53ef6f1caeb82bf
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd
+
+
 
 #EXTINF:-1 tvg-chno="61" group-title="Variedad Argentina"  tvg-id="CanalA.ar" tvg-name="CanalA.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/IScOx6Ju6ANYu51LB7XhPQ?tags=CH_LOGO" ,Canal (á)
-http://190.7.19.197:232/play/a015/index.m3u8
+http://138.59.227.20:8000/play/a06d/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-chno="62" group-title="Variedad Argentina"  tvg-id="CanaldelaCiudad.ar" tvg-name="CanaldelaCiudad.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/canaldelaciudad@2x.png" ,Canal de la Ciudad
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
@@ -559,8 +374,6 @@ https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
-#EXTINF:-1 tvg-chno="65" group-title="Variedad Argentina"  tvg-id="Metro.ar" tvg-name="Metro.ar"  tvg-logo="https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/27/27_t-290x163.png" ,Metro
-http://190.7.19.197:232/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-chno="66" group-title="Variedad Argentina"  tvg-id="NetTV.ar" tvg-name="NetTV.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/4646/4646_t-290x163.png" ,Net TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -577,12 +390,6 @@ https://cdn.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
-#EXTINF:-1 tvg-chno="68" group-title="Variedad Argentina"  tvg-id="CN23.ar" tvg-name="CN23.ar"  tvg-logo="https://www.fulltv.com.ar/images/tv/cn23-21.png" ,CN23
-http://190.7.19.197:232/play/a084/index.m3u8
-
-#EXTINF:-1 tvg-chno="70" group-title="Variedad Latam" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3267/3267_t-290x163.png" ,Canal Claro
-#EXTVLCOPT:http-user-agent=VLC
-http://152.230.229.66:8001/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-chno="100" group-title="INF. +00"  tvg-id="BabyTv.ar" tvg-name="BabyTv.ar"  tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/695/695_t-290x163.png" ,Baby TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -593,12 +400,12 @@ http://152.230.229.66:8001/play/a029/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd
 
+
+
 #EXTINF:-1 tvg-chno="101" group-title="INF. +00" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/BabyFirstTV-Logo-2006.png" ,BabyFirst
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=320e1cb23cf15aa8f41a9edd52baa655:63c5e57ae2a2bc7dab3c67cac1a6c956
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd
+http://209.14.108.65:8000/play/a03r/index.m3u8
+
+
 
 #EXTINF:-1 tvg-chno="102" group-title="INF. +00"  tvg-id="DisneyJunior.ar" tvg-name="DisneyJunior.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSNJR.png?raw=true" ,Disney Jr
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -633,8 +440,6 @@ https://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mp
 #EXTINF:-1 tvg-chno="106" group-title="INF. +00" tvg-logo="https://semillitas.com/wp-content/uploads/2021/06/LogoSemillitas-1536x451.png" ,Semillitas
 http://38.7.195.44:8000/play/a0cw
 
-#EXTINF:-1 tvg-chno="107" group-title="INF. +00"  tvg-id="ZooMoo.ar" tvg-name="ZooMoo.ar"  tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/zoomoo.png" ,ZooMoo
-http://8.243.126.131:8000/play/a0li/index.m3u8
 
 #EXTINF:-1 tvg-chno="110" group-title="INF. +05"  tvg-id="Cartoonito.ar" tvg-name="Cartoonito.ar"  tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/174/174_t-290x163.png" ,Cartoonito
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -666,11 +471,17 @@ https://cdn.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd
 #EXTINF:-1 tvg-chno="114" group-title="INF. +05"  tvg-id="Clan.ar" tvg-name="Clan.ar"  tvg-logo="https://css.rtve.es/css/rtveplay.2026/i/LogoClan_cab_ffffff.svg" ,clan (España)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15620
 
-#EXTINF:-1 tvg-chno="116" group-title="INF. +05" tvg-logo="https://yt3.googleusercontent.com/3JZFOlAwxK_1IpvxPndi79XRY2Gx9xKgNEu8YzU8blnhqn9qLuSJ_UQQXF68xQzrz1BIO5SHrsc=s900-c-k-c0x00ffffff-no-rj" ,Kidoo
-http://190.7.19.197:232/play/a03f/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-chno="120" group-title="INF. +10"  tvg-id="CartoonNetwork.ar" tvg-name="CartoonNetwork.ar"  tvg-logo="https://images.open-epg.com/16782275.png" ,Cartoon Network
-http://8.243.126.131:8000/play/a05i/index.m3u8
+http://38.7.195.44:8000/play/a0g0
+
+
+
+
+
 
 #EXTINF:-1 tvg-chno="121" group-title="INF. +10"  tvg-id="DiscoveryKids.ar" tvg-name="DiscoveryKids.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/awF5jN8kYIm6Fw7dd4ktEQ?tags=CH_LOGO" ,Discovery Kids
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -690,9 +501,14 @@ https://cdn.sensa.com.ar/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd
 
+
+
+
 #EXTINF:-1 tvg-chno="124" group-title="INF. +10"  tvg-id="Nickelodeon.ar" tvg-name="Nickelodeon.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3952/3952_t-290x163.png" ,Nickelodeon
-#EXTVLCOPT:http-user-agent=VLC
-http://190.238.43.117:9000/play/a0g6/index.m3u8
+http://38.7.195.44:8000/play/a03v
+
+
+
 
 #EXTINF:-1 tvg-chno="125" group-title="INF. +10"  tvg-id="PakaPaka.ar" tvg-name="PakaPaka.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PAKAP.png?raw=true" ,Paka Paka
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -707,9 +523,9 @@ https://cdn.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd
 #EXTVLCOPT:http-user-agent=VLC
 http://38.7.195.44:8000/play/a0bs
 
-#EXTINF:-1 tvg-chno="132" group-title="INF. +10"  tvg-id="ETC TV HD.cl" tvg-name="ETC TV HD.cl"  tvg-logo="https://static.wixstatic.com/media/e50522_39d9fcc4bc1b4c5aba3bbdb5f8a1ad83~mv2.png/v1/fill/w_142,h_79,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGO%20ETC%20TRANSPARENTE.png" ,ETC (Chile)
-#EXTVLCOPT:http-user-agent=VLC
-http://190.93.229.30:8000/play/a0ii/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-chno="134" group-title="INF. +10" tvg-logo="https://img3.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/366x206/T-Ei73InYLUNsavDyCJjF0ipJGYC-Iqp3R0SMPAk5x4.jpg" ,Pitufo TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11855
@@ -726,12 +542,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1746
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd
 
-#EXTINF:-1 tvg-chno="200" group-title="Premium HBO"  tvg-id="HBO HD.cl" tvg-name="HBO HD.cl"  tvg-logo="https://www.pngmart.com/files/23/Hbo-Logo-PNG-Pic.png" ,HBO (Chile)
-#EXTVLCOPT:http-user-agent=VLC
-http://152.230.229.66:8001/play/a02q/index.m3u8
-
-#EXTINF:-1 tvg-chno="200" group-title="Premium HBO" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/hbo.png" ,HBO (Oeste)
-http://8.243.126.131:8000/play/a0f3/index.m3u8
 
 #EXTINF:-1 tvg-chno="201" group-title="Premium HBO"  tvg-id="HBO2.ar" tvg-name="HBO2.ar"  tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/hbo2.png" ,HBO 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -805,13 +615,7 @@ https://cdn.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd
 
-#EXTINF:-1 tvg-chno="210" group-title="Premium CINEMAX"  tvg-id="Cinemax HD.cl" tvg-name="Cinemax HD.cl"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" ,Cinemax (Chile)
-#EXTVLCOPT:http-user-agent=VLC
-http://152.230.229.66:8001/play/a02r/index.m3u8
 
-#EXTINF:-1 tvg-chno="210" group-title="Premium CINEMAX"  tvg-id="Cinemax.co" tvg-name="Cinemax.co"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" ,Cinemax (Colombia)
-#EXTVLCOPT:http-user-agent=VLC
-http://190.238.43.117:9000/play/a0ep/index.m3u8
 
 #EXTINF:-1 tvg-chno="211" group-title="Premium CINEMAX"  tvg-id="Cinemax (East).us" tvg-name="Cinemax (East).us"  tvg-logo="https://www.directv.com/dtvassets/global/channel-icons/c-d/Channel_Icon_Cinemax_East.svg" ,Cinemax (USA) (E)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -866,12 +670,6 @@ https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd
 
-#EXTINF:-1 tvg-chno="222" group-title="Premium Golden"  tvg-id="GoldenEdge.ar" tvg-name="GoldenEdge.ar"  tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge.png" ,Golden Edge (vix)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae4cbc34d4b1645f6c7b26410dde7b58:647478cd3bd0dfb3e820249296c23096
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc.mpd
 
 #EXTINF:-1 tvg-chno="223" group-title="Premium Golden" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus.png" ,Golden Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -883,16 +681,6 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o09knw
 #EXTINF:-1 tvg-chno="224" group-title="Premium Golden" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png" ,Golden Premiere
 http://38.7.195.44:8000/play/a0dh
 
-#EXTINF:-1 tvg-chno="225" group-title="Premium Golden" tvg-logo="https://claroperupoc.vtexassets.com/arquivos/golden-premier-2hd-v2.png" ,Golden Premiere 2
-#EXTVLCOPT:http-user-agent=VLC
-http://209.14.108.45:8000/play/a0dp
-
-#EXTINF:-1 tvg-chno="226" group-title="Premium Golden"  tvg-id="Golden.ar" tvg-name="Golden.ar"  tvg-logo="https://i.ibb.co/s1yPj71/worldtv2.png" ,Golden (vix)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=38dbcf2d094923f94aca4f913045e993:a475a0bcc6f77b04f07ed1487619d626
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ox4csgyamg/out/v1/95cf9c4df3d542f6812f382a52771327/cenc.mpd
 
 #EXTINF:-1 tvg-chno="230" group-title="Premium Universal+" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6981/6981_t-290x163.png" ,Universal Premiere
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -903,8 +691,6 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ox4csg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd
 
-#EXTINF:-1 tvg-chno="231" group-title="Premium Universal+" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6981/6981_t-290x163.png" ,Universal Premiere (Oeste)
-http://8.243.126.131:8000/play/a04s/index.m3u8
 
 #EXTINF:-1 tvg-chno="232" group-title="Premium Universal+" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6979/6979_t-290x163.png" ,Universal Cinema
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1008,14 +794,8 @@ https://cdn.sensa.com.ar/live/eds/DHE/live_dash_cld/DHE.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd
 
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
-#REF!
+
+
 #EXTINF:-1 tvg-chno="247" group-title="Cine y Series"  tvg-id="EuropaEuropa.ar" tvg-name="EuropaEuropa.ar"  tvg-logo="https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png" ,Europa Europa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1043,17 +823,24 @@ https://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd
 
+
+
+
+
 #EXTINF:-1 tvg-chno="250" group-title="Cine y Series"  tvg-id="SonyMovies.ar" tvg-name="SonyMovies.ar"  tvg-logo="https://i.ibb.co/HFpZ6CC/sony-movies.png" ,Sony Movies
-http://8.243.126.131:8000/play/a06a/index.m3u8
+http://209.14.108.65:8000/play/a08m/index.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-chno="251" group-title="Cine y Series"  tvg-id="Space.ar" tvg-name="Space.ar"  tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/SPAC.png" ,Space
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd7516e74eafbf6f9664a9465149f179:6aa2935d17fd4e1e8963ecbef4edb82b
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd
+http://138.59.227.20:8000/play/a071/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-chno="252" group-title="Cine y Series"  tvg-id="StarChannel.ar" tvg-name="StarChannel.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/STARC.png?raw=true" ,Star Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1073,8 +860,15 @@ https://cdn.sensa.com.ar/live/eds/StarChannel/live_dash_cld/StarChannel.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd
 
+
+
+
+
 #EXTINF:-1 tvg-chno="254" group-title="Cine y Series"  tvg-id="TNT.ar" tvg-name="TNT.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTAR.png?raw=true" ,TNT
-http://190.7.19.197:232/play/a060/index.m3u8
+http://138.59.227.20:8000/play/a08b/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-chno="255" group-title="Cine y Series"  tvg-id="TNTSeries.ar" tvg-name="TNTSeries.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSE.png?raw=true" ,TNT Series
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1095,11 +889,12 @@ https://cdn.sensa.com.ar/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd
 https://cdn.sensa.com.ar/live/eds/USANetwork/live_dash_cld/USANetwork.mpd
 
 #EXTINF:-1 tvg-chno="257" group-title="Cine y Series"  tvg-id="Warner.ar" tvg-name="Warner.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3787/3787_t-290x163.png" ,Warner TV
-http://190.7.19.197:232/play/a01h/index.m3u8
+http://190.60.37.115:8001/play/a0l9/index.m3u8
+
 
 #EXTINF:-1 tvg-chno="258" group-title="Cine y Series"  tvg-id="ComedyCentral.ar" tvg-name="ComedyCentral.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3953/3953_t-290x163.png" ,Comedy Central
-#EXTVLCOPT:http-user-agent=VLC
-http://190.238.43.117:9000/play/a0fd/index.m3u8
+http://190.234.82.52:8000/play/a0im/index.m3u8
+
 
 #EXTINF:-1 tvg-chno="259" group-title="Cine y Series"  tvg-id="FilmAndArts.ar" tvg-name="FilmAndArts.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3391/3391_t-290x163.png" ,Film & Arts
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1112,7 +907,8 @@ https://cdn.sensa.com.ar/live/eds/FilmArts/live_dash_cld/FilmArts.mpd
 
 #EXTINF:-1 tvg-chno="260" group-title="Cine y Series"  tvg-id="Atreseries.ar" tvg-name="Atreseries.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/420/420/Udqzh8pyX4ZJUmmeNZ4voQ?tags=CH_LOGO" ,A3Series Int.
 #EXTVLCOPT:http-user-agent=VLC
-http://190.238.43.117:9000/play/a0fi/index.m3u8
+http://45.188.229.33:8000/play/a1em/index.m3u8
+
 
 #EXTINF:-1 tvg-chno="261" group-title="Cine y Series" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/latam/cinefamiliar.png" ,Cine Familiar
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1132,9 +928,6 @@ https://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd
 
-#EXTINF:-1 tvg-chno="263" group-title="Cine y Series"  tvg-id="CineLatino.ar" tvg-name="CineLatino.ar"  tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinelatino-mediano.png" ,Cine Latino
-http://8.243.126.131:8000/play/a0gu/index.m3u8
-
 #EXTINF:-1 tvg-chno="263" group-title="Cine y Series" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/01.Logo-Cine-Premium-Alpha-Aoriginal-2048x1152.png" ,Cine Premium
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1144,11 +937,7 @@ http://8.243.126.131:8000/play/a0gu/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd
 
-#EXTINF:-1 tvg-chno="265" group-title="Cine y Series" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/9249/9249_t-290x163.png" ,Claro Cinema
-http://8.243.126.131:8000/play/a0gf/index.m3u8
 
-#EXTINF:-1 tvg-chno="274" group-title="Cine y Series" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/video_logos/2025/07/01/1751333788lNZ0MTgbtO.png" ,Mi Miedo Canal (España)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15838
 
 #EXTINF:-1 tvg-chno="275" group-title="Cine y Series" tvg-logo="https://dl.dropbox.com/scl/fi/6un36x6dt7errr3wvlqj5/morbido.jpg?rlkey=w7ljs0524jwwh7do59ayla4py&dl=1" ,Morbido TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1219,7 +1008,8 @@ https://cdn.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd
 http://38.7.195.44:8000/play/a0ce
 
 #EXTINF:-1 tvg-chno="292" group-title="Anime Pack" tvg-logo="https://i0.wp.com/www.jbox.com.br/wp/wp-content/uploads/2019/02/locomotion-animestation-desracada.jpg?fit=774%2C489&ssl=1" ,Anime Station Locomotion
-https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
+http://146.19.49.197:81/live/loco_hi/index.m3u8
+
 
 #EXTINF:-1 tvg-chno="293" group-title="Anime Pack"  tvg-id="BITIME.mx" tvg-name="BITIME.mx"  tvg-logo="https://images.ctfassets.net/lx4ov5kud2ld/73e9v3uTqBtDkOjwf3lXA3/beb2986a588cffaa6aaece6911cef625/bitme.svg" ,Bitme
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1240,9 +1030,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/AyE/live_dash_cld/AyE.mpd
 
-#EXTINF:-1 tvg-chno="301" group-title="Life" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/BJtk3lOacTL4LgGEdKHqgg?tags=CH_LOGO" ,Caras TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-chno="302" group-title="Life"  tvg-id="E!Entertainment.ar" tvg-name="E!Entertainment.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/cgvTJ4y2ivlSqdwg8dRBvg?tags=CH_LOGO" ,E! Entertainment
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1253,8 +1043,6 @@ https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd
 
-#EXTINF:-1 tvg-chno="303" group-title="Life"  tvg-id="HolaTV.ar" tvg-name="HolaTV.ar"  tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/holatv.png" ,HOLA! TV
-http://8.243.126.131:8000/play/a0im/index.m3u8
 
 #EXTINF:-1 tvg-chno="304" group-title="Life"  tvg-id="Lifetime.ar" tvg-name="Lifetime.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2788/2788_t-290x163.png" ,Lifetime
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1768,11 +1556,16 @@ https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
 
+
+
+
 #EXTINF:-1 tvg-chno="502" group-title="Deportes"  tvg-id="Espn2.ar" tvg-name="Espn2.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/pKel4txgUUES1wvAVQK9DQ?tags=CH_LOGO" ,ESPN 2
-http://190.7.19.197:232/play/a03m/index.m3u8
+http://138.59.227.20:8000/play/a098/index.m3u8
 
 #EXTINF:-1 tvg-chno="503" group-title="Deportes"  tvg-id="Espn3.ar" tvg-name="Espn3.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO" ,ESPN 3
-http://190.7.19.197:232/play/a03o/index.m3u8
+http://138.59.227.20:8000/play/a09a/index.m3u8
+
+
 
 #EXTINF:-1 tvg-chno="504" group-title="Deportes"  tvg-id="Espn4.ar" tvg-name="Espn4.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/jGyt-p8MW55TcZMkzRBHLw?tags=CH_LOGO" ,ESPN 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1793,10 +1586,14 @@ https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd
 https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
 
 #EXTINF:-1 tvg-chno="506" group-title="Deportes"  tvg-id="FoxSports2.ar" tvg-name="FoxSports2.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/8lNQixZEsN3Eadq_eLSVqg?tags=CH_LOGO" ,FOX Sports 2
-http://190.7.19.197:232/play/a03p/index.m3u8
+http://45.188.229.33:8000/play/a1ae/index.m3u8
+
+
 
 #EXTINF:-1 tvg-chno="507" group-title="Deportes"  tvg-id="FoxSports3.ar" tvg-name="FoxSports3.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/aAian9WeLoU0vTudB9xL2g?tags=CH_LOGO" ,FOX Sports 3
-http://190.7.19.197:232/play/a04x/index.m3u8
+http://138.59.227.20:8000/play/a06y/index.m3u8
+
+
 
 #EXTINF:-1 tvg-chno="508" group-title="Deportes"  tvg-id="AmericaSports.ar" tvg-name="AmericaSports.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/qPhxg2V8AzmZJNNmXIuRKA?tags=CH_LOGO" ,America Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1822,22 +1619,6 @@ https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd
 #KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","45bbd582f220f438f896450d8306a3f2":"582c6ba7f64bbc0f2d91c6b0c265760c"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-
-#EXTINF:-1 tvg-chno="510" group-title="Deportes" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
-#EXTVLCOPT:http-referrer=https://www.paramountplus.com/
-#EXTVLCOPT:http-origin=https://www.paramountplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
-
-#EXTINF:-1 tvg-chno="511" group-title="Deportes" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports (Chile)
-http://8.243.126.131:8000/play/a05a/index.m3u8
-
-#EXTINF:-1 tvg-chno="512" group-title="Deportes" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/YIJDr-r03_wmAKa8DzDDew?tags=CH_LOGO" ,Dsports (Peru)
-#EXTVLCOPT:http-user-agent=VLC
-http://190.238.43.117:9000/play/a09d/index.m3u8
 
 #EXTINF:-1 tvg-chno="513" group-title="Deportes" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/Ol1k8o68C2JoewlB-N2rrw?tags=CH_LOGO" ,Dsports 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1875,8 +1656,6 @@ https://cdn.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd
 
-#EXTINF:-1 tvg-chno="518" group-title="Deportes" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/8962/8962_t-290x163.png" ,Claro Sports 2
-http://8.243.126.131:8000/play/a0js/index.m3u8
 
 #EXTINF:-1 tvg-chno="519" group-title="Deportes"  tvg-id="PXSports.ar" tvg-name="PXSports.ar"  tvg-logo="https://www.pxsports.com/images/brand/logo.svg" ,PX Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1896,8 +1675,6 @@ https://cdn.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/GolfTV/live_dash_cld/GolfTV.mpd
 
-#EXTINF:-1 tvg-chno="530" group-title="Deportes Premium"  tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium
-http://190.7.19.197:232/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-chno="530" group-title="Deportes Premium"  tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,ESPN Premium
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1908,8 +1685,6 @@ http://190.7.19.197:232/play/a038/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
 
-#EXTINF:-1 tvg-chno="531" group-title="Deportes Premium"  tvg-id="TNTSportsPremium.ar" tvg-name="TNTSportsPremium.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" ,TNT Sports Premium
-http://190.7.19.197:232/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-chno="531" group-title="Deportes Premium"  tvg-id="TNTSportsPremium.ar" tvg-name="TNTSportsPremium.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/tntsportsPremium256.png" ,TNT Sports Premium
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2309,3 +2084,4 @@ http://38.7.195.44:8000/play/a014
 
 #EXTINF:-1 tvg-chno="557" group-title="Pack ESPN"  tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy"  tvg-logo="https://americatvguide.com/img/cl/logo/espn-7.webp" ,ESPN 7 (Sur)
 http://8.243.126.131:8000/play/a065/index.m3u8
+http://190.7.19.197:232/play/a04x/index.m3u8
