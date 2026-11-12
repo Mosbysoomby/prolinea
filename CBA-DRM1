@@ -9,13 +9,13 @@
 
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://comercial.cadena3.com/img/logo2-cadena-3.png" ,Cadena 3   (Cordoba)
 https://liveradio.mediainbox.net/radio3.mp3
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://comercial.cadena3.com/img/logo2-cadena-3-rosario.png" ,Cadena 3 Rosario   (Santa Fe)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://comercial.cadena3.com/img/logo2-cadena-3-rosario.png" ,Cadena 3 Rosario   (Santa Fe)
 https://playerservices.streamtheworld.com/api/livestream-redirect/C3ROSARIO.mp3
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.cadenaheat.com/img/logo-cadena-heat.png" ,Cadena Heat   (Cordoba)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.cadenaheat.com/img/logo-cadena-heat.png" ,Cadena Heat   (Cordoba)
 https://playerservices.streamtheworld.com/api/livestream-redirect/cadenaheat.mp3
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://comercial.cadena3.com/img/logo2-cosquin-rock-radio.png" ,Cosquin Rock Radio   (Cordoba)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://comercial.cadena3.com/img/logo2-cosquin-rock-radio.png" ,Cosquin Rock Radio   (Cordoba)
 https://playerservices.streamtheworld.com/api/livestream-redirect/cosquinrock.mp3
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://srt-assets.tadevel-cdn.com/68239c31e399cde2b83dedb2/1023.svg" ,FM 102.3   (Cordoba)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://srt-assets.tadevel-cdn.com/68239c31e399cde2b83dedb2/1023.svg" ,FM 102.3   (Cordoba)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
@@ -23,89 +23,89 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/cosquinrock.mp
 #EXTVLCOPT:http-origin=https://www.paramountplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://radios.solumedia.com:6276/stream
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://kuarteto.com/wp-content/themes/kuarteto/img/logo.png" ,Kuarteto.com   (Cordoba)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://kuarteto.com/wp-content/themes/kuarteto/img/logo.png" ,Kuarteto.com   (Cordoba)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://sslstream.online/8408/stream
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.lapopu.com.ar/img/logo3-la-popu.png" ,La Popu - FM 92.3   (Cordoba)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.lapopu.com.ar/img/logo3-la-popu.png" ,La Popu - FM 92.3   (Cordoba)
 https://playerservices.streamtheworld.com/api/livestream-redirect/lapopu.mp3
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://lvdos.com/resources/logos/152x152.png" ,LV2 Cordoba   (Cordoba)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://lvdos.com/resources/logos/152x152.png" ,LV2 Cordoba   (Cordoba)
 #EXTVLCOPT:http-referrer=https://render.edge-apps.net/
 #EXTVLCOPT:http-origin=https://render.edge-apps.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://ice3.edge-apps.net/ros3-lv2/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://cloudfront-arc.cienradios.com/miafm/logo/logo.svg" ,Mia - FM 104.1   (Cordoba)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://cloudfront-arc.cienradios.com/miafm/logo/logo.svg" ,Mia - FM 104.1   (Cordoba)
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM1041_56AAC_SC
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/radio-mitre-cordoba/fb_cover.jpg" ,Mitre Cordoba - AM 810   (Cordoba)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/radio-mitre-cordoba/fb_cover.jpg" ,Mitre Cordoba - AM 810   (Cordoba)
 https://playerservices.streamtheworld.com/api/livestream-redirect/AM810_56AAC.aac
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.Planeta-Cuarteto.250.png" ,Planeta Cuarteto   (Cordoba)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://streaming.radiosenlinea.com.ar/8470/stream
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://static.wixstatic.com/media/3e84df_5b00f131394cc16054df79e9e77df66e.png" ,Pobre Jhonny - FM 88.9   (Cordoba)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://static.wixstatic.com/media/3e84df_5b00f131394cc16054df79e9e77df66e.png" ,Pobre Jhonny - FM 88.9   (Cordoba)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream4.suenas.net/pobrejohnny
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://radiomaxima893.com.ar/img/logo.png" ,Radio Maxima 89.3   (Cordoba)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://radiomaxima893.com.ar/img/logo.png" ,Radio Maxima 89.3   (Cordoba)
 https://streaming01.shockmedia.com.ar:10743/;stream.mp3
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://1.bp.blogspot.com/-p2lzij_1IUg/YFsDsQGsscI/AAAAAAAKtU0/kbp2RhQ7iPUqfttni2H3K5j2SvOkm8mCgCLcBGAsYHQ/w1200-h630-p-k-no-nu/logo.png" ,Radio Sucesos 104.7   (Cordoba)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://1.bp.blogspot.com/-p2lzij_1IUg/YFsDsQGsscI/AAAAAAAKtU0/kbp2RhQ7iPUqfttni2H3K5j2SvOkm8mCgCLcBGAsYHQ/w1200-h630-p-k-no-nu/logo.png" ,Radio Sucesos 104.7   (Cordoba)
 #EXTVLCOPT:http-referrer=https://radioarg.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://vofile.ru/Argentina/susenos/icecast.audio
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/351/radio-suquia-965-fm.e191457c.png" ,Radio Suquia 96.5   (Cordoba)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/351/radio-suquia-965-fm.e191457c.png" ,Radio Suquia 96.5   (Cordoba)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://streaming01.shockmedia.com.ar:10945/;
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://suquia.ar/wp-content/uploads/2025/08/cropped-mas-grandeeeeee-suquia.png" ,Radio Suquia Plus 98.9   (Cordoba)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://suquia.ar/wp-content/uploads/2025/08/cropped-mas-grandeeeeee-suquia.png" ,Radio Suquia Plus 98.9   (Cordoba)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://streaming01.shockmedia.com.ar/9910/;
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/lnrpqly5uq3r.jpg" ,Radio Universidad   (Cordoba)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/lnrpqly5uq3r.jpg" ,Radio Universidad   (Cordoba)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://radios.solumedia.com:10976/stream
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://rockandpopcba.com.ar/wp-content/uploads/2022/04/2022-04-logo-RockPop.png" ,Rock&Pop 87.9   (Cordoba)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://rockandpopcba.com.ar/wp-content/uploads/2022/04/2022-04-logo-RockPop.png" ,Rock&Pop 87.9   (Cordoba)
 https://streaming.gostreaming.com.ar:10985/stream
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_AM870_b.png" ,Nacional AM 870   (Bs. As.)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_AM870_b.png" ,Nacional AM 870   (Bs. As.)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_Clasica.png" ,Nacional Clasica   (Bs. As.)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_Clasica.png" ,Nacional Clasica   (Bs. As.)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad37
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_AM870_b.png" ,Nacional Exterior   (Bs. As.)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_AM870_b.png" ,Nacional Exterior   (Bs. As.)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad35
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_Folklorica.png" ,Nacional Folklorica   (Bs. As.)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_Folklorica.png" ,Nacional Folklorica   (Bs. As.)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad38
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_Rock.png" ,Nacional Rock   (Bs. As.)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_Rock.png" ,Nacional Rock   (Bs. As.)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/d/s/dsports_radio_2.png" ,Dsports Radio - FM103.1   (Bs. As.)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/d/s/dsports_radio_2.png" ,Dsports Radio - FM103.1   (Bs. As.)
 https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIOAAC.aac
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijazmHacs13HUurNi_JazBSKkW3bNLpECWRNqPBThHU_yZ5YMavRKSZOFOggbFm6Xhqktk05z6bB0pCudCOE8oPUz1wbhqwl-nfYSmrp4qglY1i8uYx765j16mJ04b9qWXmemozPEjs1ltwI9HiM8daZg4FnQLVe9xRpTifKfJxYF12knUmoOIzqH_FEs/w1200-h630-p-k-no-nu/am1070-eldestape-mundo.png" ,El Destape - AM 1070   (Bs. As.)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijazmHacs13HUurNi_JazBSKkW3bNLpECWRNqPBThHU_yZ5YMavRKSZOFOggbFm6Xhqktk05z6bB0pCudCOE8oPUz1wbhqwl-nfYSmrp4qglY1i8uYx765j16mJ04b9qWXmemozPEjs1ltwI9HiM8daZg4FnQLVe9xRpTifKfJxYF12knUmoOIzqH_FEs/w1200-h630-p-k-no-nu/am1070-eldestape-mundo.png" ,El Destape - AM 1070   (Bs. As.)
 https://live-ar1.cdnrad.com/hls/radio-2123/live.m3u8
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="RadioLa100.ar" tvg-name="RadioLa100.ar"  tvg-logo="https://www.proradios.net/themes/default/images/radios/logo-ar-lacien.jpg" ,La Cien FM 99.9   (Bs. As.)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="RadioLa100.ar" tvg-name="RadioLa100.ar"  tvg-logo="https://www.proradios.net/themes/default/images/radios/logo-ar-lacien.jpg" ,La Cien FM 99.9   (Bs. As.)
 #EXTVLCOPT:http-referrer=https://radioarg.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://vofile.ru/Argentina/la-100/icecast.audio
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.lared.am/css-custom/316/images/logo-lared-nuevo.svg" ,La Red - AM 910   (Bs. As.)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.lared.am/css-custom/316/images/logo-lared-nuevo.svg" ,La Red - AM 910   (Bs. As.)
 https://26653.live.streamtheworld.com/LA_RED_AM910AAC.aac
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://masmusica.lanacion.com.ar/assets/img/logo-masmusica.png" ,LN+ musica - FM 104.9   (Bs. As.)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://masmusica.lanacion.com.ar/assets/img/logo-masmusica.png" ,LN+ musica - FM 104.9   (Bs. As.)
 https://api-distribucion-ln.lnapps.com.ar/audiofm1049
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://recursosweb.prisaradio.com/fotos/original/010002994540.png" ,Los 40 Principales   (Bs. As.)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://recursosweb.prisaradio.com/fotos/original/010002994540.png" ,Los 40 Principales   (Bs. As.)
 #EXTVLCOPT:http-referrer=https://radioarg.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://edge03.radiohdvivo.com/los40
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://cloudfront-arc.cienradios.com/radiomitre/logo/logo-widget.svg" ,Mitre - AM 790   (Bs. As.)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://cloudfront-arc.cienradios.com/radiomitre/logo/logo-widget.svg" ,Mitre - AM 790   (Bs. As.)
 http://45.188.229.33:8000/play/a1dt/index.m3u8
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://media.radio10.com.ar/adjuntos/220/imagenes/043/550/0043550469.png" ,Radio 10   (Bs. As.)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://media.radio10.com.ar/adjuntos/220/imagenes/043/550/0043550469.png" ,Radio 10   (Bs. As.)
 https://radio10.stweb.tv/radio10/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="RadioContinental.ar" tvg-name="RadioContinental.ar"  tvg-logo="https://www.continental.com.ar/adjuntos/350/continental/logopng.png" ,Radio Continental AM 590   (Bs. As.)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="RadioContinental.ar" tvg-name="RadioContinental.ar"  tvg-logo="https://www.continental.com.ar/adjuntos/350/continental/logopng.png" ,Radio Continental AM 590   (Bs. As.)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://frontend.radiohdvivo.com/continental/live
-#EXTINF:-1 tvg-chno="1001" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/448/radio-rivadavia-630-am.ab450f7d.jpg" ,Radio Rivadavia 630 AM   (Bs. As.)
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/448/radio-rivadavia-630-am.ab450f7d.jpg" ,Radio Rivadavia 630 AM   (Bs. As.)
 https://27403.live.streamtheworld.com/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets
-#EXTINF:-1 tvg-chno="1002" group-title="Radios Stream"  tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://www.cadena3.com/img2024/logo-cadena-3.png" ,Cadena 3 ᴴᴰ  (Cordoba)
+#EXTINF:-1 tvg-chno="2" group-title="Radios Stream"  tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://www.cadena3.com/img2024/logo-cadena-3.png" ,Cadena 3 ᴴᴰ  (Cordoba)
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://smt-usr-edge01.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
-#EXTINF:-1 tvg-chno="1002" group-title="Radios Stream"  tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://comercial.cadena3.com/img/logo2-cosquin-rock-radio.png" ,Cosquin Rock Radio ᴴᴰ  (Cordoba)
+#EXTINF:-1 tvg-chno="2" group-title="Radios Stream"  tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://comercial.cadena3.com/img/logo2-cosquin-rock-radio.png" ,Cosquin Rock Radio ᴴᴰ  (Cordoba)
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://smt-usr-edge01.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
-#EXTINF:-1 tvg-chno="1002" group-title="Radios Stream"  tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.lapopu.com.ar/img/logo3-la-popu.png" ,La Popu - FM 92.3 ᴴᴰ  (Cordoba)
+#EXTINF:-1 tvg-chno="2" group-title="Radios Stream"  tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.lapopu.com.ar/img/logo3-la-popu.png" ,La Popu - FM 92.3 ᴴᴰ  (Cordoba)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -117,7 +117,7 @@ https://smt-usr-edge01.sensa.com.ar/output/ET-01/popular/master.m3u8
 #EXTVLCOPT:http-origin=https://planetacuarteto.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://lbgo.bozztv.com/ssh101/ssh101/planetatv26/playlist.m3u8
-#EXTINF:-1 tvg-chno="1002" group-title="Radios Stream"  tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijazmHacs13HUurNi_JazBSKkW3bNLpECWRNqPBThHU_yZ5YMavRKSZOFOggbFm6Xhqktk05z6bB0pCudCOE8oPUz1wbhqwl-nfYSmrp4qglY1i8uYx765j16mJ04b9qWXmemozPEjs1ltwI9HiM8daZg4FnQLVe9xRpTifKfJxYF12knUmoOIzqH_FEs/w1200-h630-p-k-no-nu/am1070-eldestape-mundo.png" ,El Destape ᴴᴰ  (Bs. As.)
+#EXTINF:-1 tvg-chno="2" group-title="Radios Stream"  tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijazmHacs13HUurNi_JazBSKkW3bNLpECWRNqPBThHU_yZ5YMavRKSZOFOggbFm6Xhqktk05z6bB0pCudCOE8oPUz1wbhqwl-nfYSmrp4qglY1i8uYx765j16mJ04b9qWXmemozPEjs1ltwI9HiM8daZg4FnQLVe9xRpTifKfJxYF12knUmoOIzqH_FEs/w1200-h630-p-k-no-nu/am1070-eldestape-mundo.png" ,El Destape ᴴᴰ  (Bs. As.)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af0566c50e733c311bdfa6736a95ce50:e4dfd12993097b3c35ad47562d61b4ce
@@ -125,19 +125,19 @@ https://lbgo.bozztv.com/ssh101/ssh101/planetatv26/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd
-#EXTINF:-1 tvg-chno="2" group-title="Radios Stream" tvg-logo="https://www.latina101.com.ar/assets/LATINA_LOGO-DejT1LZw.png" ,Latina Tv ᴴᴰ
+#EXTINF:-1 tvg-chno="2" group-title="Radios Stream" tvg-logo="https://www.latina101.com.ar/assets/LATINA_LOGO-DejT1LZw.png" ,Latina Tv ᴴᴰ 
 #EXTVLCOPT:http-referrer=https://www.canal26.com
 #EXTVLCOPT:http-origin=https://www.canal26.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
-#EXTINF:-1 tvg-chno="1002" group-title="Radios Stream"  tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://staticm11.app.flow.com.ar/images/content/600/400/Vqfw5SS8gWr332vJUn6aKQ?tags=CH_LOGO" ,Vorterix ᴴᴰ  (Bs. As.)
+#EXTINF:-1 tvg-chno="2" group-title="Radios Stream"  tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://staticm11.app.flow.com.ar/images/content/600/400/Vqfw5SS8gWr332vJUn6aKQ?tags=CH_LOGO" ,Vorterix ᴴᴰ  (Bs. As.)
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 #EXTVLCOPT:http-origin=https://vmf.edge-apps.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://g3.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
-#EXTINF:-1 tvg-chno="1004" group-title="Eventos" tvg-logo="https://staticm11.app.flow.com.ar/images/content/600/400/dEOhDb7vsbbZcm6GlzVAHQ?tags=CH_LOGO" ,Eventos 1 | Flow Sporst ᴴᴰ
+#EXTINF:-1 tvg-chno="4" group-title="Eventos" tvg-logo="https://staticm11.app.flow.com.ar/images/content/600/400/dEOhDb7vsbbZcm6GlzVAHQ?tags=CH_LOGO" ,Eventos 1 | Flow Sporst ᴴᴰ 
 http://45.188.229.33:8000/play/a1dc/index.m3u8
-#EXTINF:-1 tvg-chno="7" group-title="Nacional"  tvg-id="TVPublica.ar" tvg-name="TVPublica.ar"  tvg-logo="https://www.tvpublica.com.ar/static/img/branding/Canal7_Logo_Principal_Blanco.svg" ,Canal 7 ᴴᴰ
+#EXTINF:-1 tvg-chno="7" group-title="Nacional"  tvg-id="TVPublica.ar" tvg-name="TVPublica.ar"  tvg-logo="https://www.tvpublica.com.ar/static/img/branding/Canal7_Logo_Principal_Blanco.svg" ,Canal 7 ᴴᴰ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
@@ -153,7 +153,7 @@ https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd
-#EXTINF:-1 tvg-chno="9" group-title="Nacional"  tvg-id="ElNueve.ar" tvg-name="ElNueve.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" ,El Nueve ᴴᴰ
+#EXTINF:-1 tvg-chno="9" group-title="Nacional"  tvg-id="ElNueve.ar" tvg-name="ElNueve.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" ,El Nueve ᴴᴰ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c1f50e3f51216bdd1efcc99d3a27217:3441c930277d824402aafee446ba8f90
@@ -169,7 +169,7 @@ https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/bpk-tv/Canal10cba/default/index.mpd
-#EXTINF:-1 tvg-chno="11" group-title="Nacional"  tvg-id="Telefe.ar" tvg-name="Telefe.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1335/1335_t-290x163.png" ,Telefe ᴴᴰ
+#EXTINF:-1 tvg-chno="11" group-title="Nacional"  tvg-id="Telefe.ar" tvg-name="Telefe.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1335/1335_t-290x163.png" ,Telefe ᴴᴰ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
@@ -185,7 +185,7 @@ https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd
-#EXTINF:-1 tvg-chno="13" group-title="Nacional"  tvg-id="ElTrece.ar" tvg-name="ElTrece.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" ,El Trece ᴴᴰ
+#EXTINF:-1 tvg-chno="13" group-title="Nacional"  tvg-id="ElTrece.ar" tvg-name="ElTrece.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" ,El Trece ᴴᴰ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:4079ac205b544b1c294ee1568906ff58
@@ -193,7 +193,7 @@ https://cdn.sensa.com.ar/bpk-tv/Canal12cba/default/index.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
-#EXTINF:-1 tvg-chno="14" group-title="Nacional"  tvg-id="America.ar" tvg-name="America.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" ,America TV ᴴᴰ
+#EXTINF:-1 tvg-chno="14" group-title="Nacional"  tvg-id="America.ar" tvg-name="America.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" ,America TV ᴴᴰ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
@@ -201,12 +201,12 @@ https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
-#EXTINF:-1 tvg-chno="20" group-title="Noticias"  tvg-id="A24.ar" tvg-name="A24.ar"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" ,A24 ᴴᴰ
+#EXTINF:-1 tvg-chno="20" group-title="Noticias"  tvg-id="A24.ar" tvg-name="A24.ar"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png" ,A24 ᴴᴰ 
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 #EXTVLCOPT:http-origin=https://vmf.edge-apps.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://g5.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-chno="21" group-title="Noticias"  tvg-id="C5N.ar" tvg-name="C5N.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" ,C5N ᴴᴰ
+#EXTINF:-1 tvg-chno="21" group-title="Noticias"  tvg-id="C5N.ar" tvg-name="C5N.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" ,C5N ᴴᴰ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
@@ -214,12 +214,12 @@ https://g5.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
-#EXTINF:-1 tvg-chno="22" group-title="Noticias"  tvg-id="Canal26.ar" tvg-name="Canal26.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true" ,Canal 26 ᴴᴰ
+#EXTINF:-1 tvg-chno="22" group-title="Noticias"  tvg-id="Canal26.ar" tvg-name="Canal26.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true" ,Canal 26 ᴴᴰ 
 #EXTVLCOPT:http-referrer=https://www.canal26.com
 #EXTVLCOPT:http-origin=https://www.canal26.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-chno="23" group-title="Noticias"  tvg-id="CronicaTV.ar" tvg-name="CronicaTV.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" ,Cronica TV ᴴᴰ
+#EXTINF:-1 tvg-chno="23" group-title="Noticias"  tvg-id="CronicaTV.ar" tvg-name="CronicaTV.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" ,Cronica TV ᴴᴰ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
@@ -227,7 +227,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd
-#EXTINF:-1 tvg-chno="24" group-title="Noticias"  tvg-id="LaNacion+.ar" tvg-name="LaNacion+.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3644/3644_t-290x163.png" ,La Nacion+ ᴴᴰ
+#EXTINF:-1 tvg-chno="24" group-title="Noticias"  tvg-id="LaNacion+.ar" tvg-name="LaNacion+.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3644/3644_t-290x163.png" ,La Nacion+ ᴴᴰ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a002010b506854599dffbb8b9048ec7c:160eedf85229da919a7c5eec4fbef809
@@ -235,16 +235,16 @@ https://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd
-#EXTINF:-1 tvg-chno="25" group-title="Noticias"  tvg-id="TN.ar" tvg-name="TN.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" ,TN ᴴᴰ
+#EXTINF:-1 tvg-chno="25" group-title="Noticias"  tvg-id="TN.ar" tvg-name="TN.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" ,TN ᴴᴰ 
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
-#EXTINF:-1 tvg-chno="27" group-title="Noticias"  tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/8196/8196_t-290x163.png" ,Mas Perfil ᴴᴰ
+#EXTINF:-1 tvg-chno="27" group-title="Noticias"  tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/8196/8196_t-290x163.png" ,Mas Perfil ᴴᴰ 
 #EXTVLCOPT:http-referrer=https://rudo.video/
 #EXTVLCOPT:http-origin=https://rudo.video/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="30" group-title="Noticias"  tvg-id="CanalRural.ar" tvg-name="CanalRural.ar"  tvg-logo="https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/11/11_t-290x163.png" ,Rural
+#EXTINF:-1 tvg-chno="30" group-title="Noticias"  tvg-id="CanalRural.ar" tvg-name="CanalRural.ar"  tvg-logo="https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/11/11_t-290x163.png" ,Rural 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24ecaed20225a367ad8fde9b6e826cd6:14dbfc007a3f5648d2c30075f037a830
@@ -252,11 +252,11 @@ https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd
-#EXTINF:-1 tvg-chno="31" group-title="Noticias"  tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3840/3840_t-290x163.png" ,Chacra TV
+#EXTINF:-1 tvg-chno="31" group-title="Noticias"  tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3840/3840_t-290x163.png" ,Chacra TV 
 https://media.cdnvid.com/public/1tgsjc7hs1kv.m3u8
 #EXTINF:-1 tvg-chno="34" group-title="Noticias Latam"  tvg-id="Azteca13.gt" tvg-name="Azteca13.gt"  tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png" ,Azteca Noticias ᴴᴰ  (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15412
-#EXTINF:-1 tvg-chno="35" group-title="Noticias Latam"  tvg-id="CnnenEspañol.ar" tvg-name="CnnenEspañol.ar"  tvg-logo="https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/62/62_t-290x163.png" ,CNN en Español ᴴᴰ
+#EXTINF:-1 tvg-chno="35" group-title="Noticias Latam"  tvg-id="CnnenEspañol.ar" tvg-name="CnnenEspañol.ar"  tvg-logo="https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/62/62_t-290x163.png" ,CNN en Español ᴴᴰ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=718f07e2beccf40cc207365ea8a70ef6:672d59d617c4a697025be0fb8d382cc0
@@ -264,7 +264,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15412
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd
-#EXTINF:-1 tvg-chno="36" group-title="Noticias Latam" tvg-logo="https://staticm11.app.flow.com.ar/images/content/300/300/kh2tCx9k5O1X6VJZe5TKLg?tags=CH_LOGO" ,Dnews ᴴᴰ
+#EXTINF:-1 tvg-chno="36" group-title="Noticias Latam" tvg-logo="https://staticm11.app.flow.com.ar/images/content/300/300/kh2tCx9k5O1X6VJZe5TKLg?tags=CH_LOGO" ,Dnews ᴴᴰ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5ba5c05d3eb98bb2d26ff885ac3cacc:172bb2b8fa089d9d7f6d6a1b956682c9
@@ -278,14 +278,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15088
 https://app-videoplayer-proxy-prod-eu-001.azurewebsites.net/proxy/live/ngrp:cable09061970_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="40" group-title="Noticias Latam"  tvg-id="NTN24NuestraTeleNoticias.ar" tvg-name="NTN24NuestraTeleNoticias.ar"  tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ntn24.png" ,NTN24  (Colombia)
 http://190.60.37.115:8001/play/a0n4/index.m3u8
-#EXTINF:-1 tvg-chno="41" group-title="Noticias Latam"  tvg-id="TeleSUR.ar" tvg-name="TeleSUR.ar"  tvg-logo="https://www.ecured.cu/images/thumb/c/c0/Emblema_de_TeleSur.png/500px-Emblema_de_TeleSur.png" ,teleSUR
+#EXTINF:-1 tvg-chno="41" group-title="Noticias Latam"  tvg-id="TeleSUR.ar" tvg-name="TeleSUR.ar"  tvg-logo="https://www.ecured.cu/images/thumb/c/c0/Emblema_de_TeleSur.png/500px-Emblema_de_TeleSur.png" ,teleSUR 
 http://45.188.229.33:8000/play/a1f9/index.m3u8
-#EXTINF:-1 tvg-chno="42" group-title="Noticias Latam"  tvg-id="Canal24horas.ar" tvg-name="Canal24horas.ar"  tvg-logo="https://css.rtve.es/css/rtve.2021/i/rtve-logos/logos_cadenas/tv-24horas.svg" ,24h ᴴᴰ
+#EXTINF:-1 tvg-chno="42" group-title="Noticias Latam"  tvg-id="Canal24horas.ar" tvg-name="Canal24horas.ar"  tvg-logo="https://css.rtve.es/css/rtve.2021/i/rtve-logos/logos_cadenas/tv-24horas.svg" ,24h ᴴᴰ 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621
-#EXTINF:-1 tvg-chno="43" group-title="Noticias Latam"  tvg-id="DwEspañol.ar" tvg-name="DwEspañol.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/O_-a0280xePeyTh4IxQAEQ?tags=CH_LOGO" ,DW en Español ᴴᴰ
+#EXTINF:-1 tvg-chno="43" group-title="Noticias Latam"  tvg-id="DwEspañol.ar" tvg-name="DwEspañol.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/O_-a0280xePeyTh4IxQAEQ?tags=CH_LOGO" ,DW en Español ᴴᴰ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-chno="44" group-title="Noticias Latam" tvg-logo="https://i.postimg.cc/4m5NVvh1/FR24-ES.png" ,France 24 en Español
+#EXTINF:-1 tvg-chno="44" group-title="Noticias Latam" tvg-logo="https://i.postimg.cc/4m5NVvh1/FR24-ES.png" ,France 24 en Español 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f35f2d6a34c58941cc3e066c75c2690:872ba8b196786ee9858645e641ac221d
@@ -293,28 +293,28 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/bpk-tv/France24/default/index.mpd
-#EXTINF:-1 tvg-chno="45" group-title="Noticias Latam"  tvg-id="RussiaToday.ar" tvg-name="RussiaToday.ar"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/RT_Espa%C3%B1ol_2010.png" ,RT en Español ᴴᴰ
+#EXTINF:-1 tvg-chno="45" group-title="Noticias Latam"  tvg-id="RussiaToday.ar" tvg-name="RussiaToday.ar"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/RT_Espa%C3%B1ol_2010.png" ,RT en Español ᴴᴰ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-chno="50" group-title="Variedad Argentina"  tvg-id="ArgentinisimaSatelital.ar" tvg-name="ArgentinisimaSatelital.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/argentinisimasatelital@2x.png" ,Argentinisima Satelital
+#EXTINF:-1 tvg-chno="50" group-title="Variedad Argentina"  tvg-id="ArgentinisimaSatelital.ar" tvg-name="ArgentinisimaSatelital.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/argentinisimasatelital@2x.png" ,Argentinisima Satelital 
 #EXTVLCOPT:http-referrer=https://www.argentinisimatv.com.ar/
 #EXTVLCOPT:http-origin=https://www.argentinisimatv.com.ar/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1 tvg-chno="51" group-title="Variedad Argentina" tvg-logo="https://unity-img.tbxapis.com/v0/images/56a180d8b2803da5ec713b61ada770a6/content/676daa12cdbda9118e7e9e7e/99e1b7d540515cc0f9e498f0cb64df74/img.png" ,El Folkorico ᴴᴰ
+#EXTINF:-1 tvg-chno="51" group-title="Variedad Argentina" tvg-logo="https://unity-img.tbxapis.com/v0/images/56a180d8b2803da5ec713b61ada770a6/content/676daa12cdbda9118e7e9e7e/99e1b7d540515cc0f9e498f0cb64df74/img.png" ,El Folkorico ᴴᴰ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream.t5satelital.blog/hls/elfolklorico.m3u8
-#EXTINF:-1 tvg-chno="52" group-title="Variedad Argentina"  tvg-id="TierraMiaTV.ar" tvg-name="TierraMiaTV.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/tierramia@2x.png" ,Tierramia TV ᴴᴰ
+#EXTINF:-1 tvg-chno="52" group-title="Variedad Argentina"  tvg-id="TierraMiaTV.ar" tvg-name="TierraMiaTV.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/tierramia@2x.png" ,Tierramia TV ᴴᴰ 
 #EXTVLCOPT:http-referrer=https://www.canal26.com
 #EXTVLCOPT:http-origin=https://www.canal26.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
-#EXTINF:-1 tvg-chno="62" group-title="Variedad Argentina"  tvg-id="CanaldelaCiudad.ar" tvg-name="CanaldelaCiudad.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/canaldelaciudad@2x.png" ,Canal de la Ciudad ᴴᴰ
+#EXTINF:-1 tvg-chno="62" group-title="Variedad Argentina"  tvg-id="CanaldelaCiudad.ar" tvg-name="CanaldelaCiudad.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/canaldelaciudad@2x.png" ,Canal de la Ciudad ᴴᴰ 
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
 #EXTVLCOPT:http-origin=https://vmf.edge-apps.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://g2.mc-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-chno="63" group-title="Variedad Argentina"  tvg-id="CiudadMagazine.ar" tvg-name="CiudadMagazine.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CIUMA.png?raw=true" ,Ciudad Magazine ᴴᴰ
+#EXTINF:-1 tvg-chno="63" group-title="Variedad Argentina"  tvg-id="CiudadMagazine.ar" tvg-name="CiudadMagazine.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CIUMA.png?raw=true" ,Ciudad Magazine ᴴᴰ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=014771c4a91db80e96f038ec0acfc304:e37fa696265923a6082de157662aab73
@@ -322,19 +322,19 @@ https://g2.mc-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Play
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd
-#EXTINF:-1 tvg-chno="66" group-title="Variedad Argentina"  tvg-id="NetTV.ar" tvg-name="NetTV.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/4646/4646_t-290x163.png" ,Net TV ᴴᴰ
+#EXTINF:-1 tvg-chno="66" group-title="Variedad Argentina"  tvg-id="NetTV.ar" tvg-name="NetTV.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/4646/4646_t-290x163.png" ,Net TV ᴴᴰ 
 #EXTVLCOPT:http-referrer=https://5900.tv/
 #EXTVLCOPT:http-origin=https://5900.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="67" group-title="Variedad Argentina"  tvg-id="Telemax.ar" tvg-name="Telemax.ar"  tvg-logo="https://github.com/Mosbysoomby/prolinea/blob/main/grilla-logos-2025/arg.telemax.png?raw=yes" ,Telemax ᴴᴰ
+#EXTINF:-1 tvg-chno="67" group-title="Variedad Argentina"  tvg-id="Telemax.ar" tvg-name="Telemax.ar"  tvg-logo="https://github.com/Mosbysoomby/prolinea/blob/main/grilla-logos-2025/arg.telemax.png?raw=yes" ,Telemax ᴴᴰ 
 #EXTVLCOPT:http-referrer=https://www.canal26.com
 #EXTVLCOPT:http-origin=https://www.canal26.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-#EXTINF:-1 tvg-chno="68" group-title="Variedad Latam" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3267/3267_t-290x163.png" ,Canal Claro ᴴᴰ
+#EXTINF:-1 tvg-chno="68" group-title="Variedad Latam" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3267/3267_t-290x163.png" ,Canal Claro ᴴᴰ 
 http://181.119.177.253:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-chno="69" group-title="Variedad Latam" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2541/2541_t-290x163.png" ,UCL TV ᴴᴰ
+#EXTINF:-1 tvg-chno="69" group-title="Variedad Latam" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2541/2541_t-290x163.png" ,UCL TV ᴴᴰ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5746dc57cb1c26d5267d116d3f49d871:d1dc3a3a13fc3981c08a0376706b2e61
@@ -342,16 +342,16 @@ http://181.119.177.253:8000/play/a00v/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/bpk-tv/UCL/default/index.mpd
-#EXTINF:-1 tvg-chno="70" group-title="Variedad Latam" tvg-logo="https://www.unifetv.com/logo.png" ,Unife Argentina ᴴᴰ
+#EXTINF:-1 tvg-chno="70" group-title="Variedad Latam" tvg-logo="https://www.unifetv.com/logo.png" ,Unife Argentina ᴴᴰ 
 #EXTVLCOPT:http-referrer=https://constantestimulo.mycloudstream.io/
 #EXTVLCOPT:http-origin=https://constantestimulo.mycloudstream.io/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
-#EXTINF:-1 tvg-chno="80" group-title="Inter. Latam" tvg-logo="https://github.com/Mosbysoomby/prolinea/blob/main/Logo2026/el-trece-internacional.png?raw=true" ,El Trece Int.
+#EXTINF:-1 tvg-chno="80" group-title="Inter. Latam" tvg-logo="https://github.com/Mosbysoomby/prolinea/blob/main/Logo2026/el-trece-internacional.png?raw=true" ,El Trece Int. 
 http://45.188.229.33:8000/play/a0x2/index.m3u8
-#EXTINF:-1 tvg-chno="81" group-title="Inter. Latam"  tvg-id="TelefeInternacional.pe" tvg-name="TelefeInternacional.pe"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Telefe_Internacional_%282018%29.png" ,Telefe Int.
+#EXTINF:-1 tvg-chno="81" group-title="Inter. Latam"  tvg-id="TelefeInternacional.pe" tvg-name="TelefeInternacional.pe"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Telefe_Internacional_%282018%29.png" ,Telefe Int. 
 http://45.188.229.33:8000/play/a0w9/index.m3u8
-#EXTINF:-1 tvg-chno="85" group-title="Inter. Latam"  tvg-id="Telemundo.ar" tvg-name="Telemundo.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2827/2827_t-290x163.png" ,Telemundo Int. ᴴᴰ
+#EXTINF:-1 tvg-chno="85" group-title="Inter. Latam"  tvg-id="Telemundo.ar" tvg-name="Telemundo.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2827/2827_t-290x163.png" ,Telemundo Int. ᴴᴰ 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ae7b0708be4edf3453c1ab9d6976974:8b31a9788f6dc12640ba69560fcb4b39
@@ -359,7 +359,7 @@ http://45.188.229.33:8000/play/a0w9/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd
-#EXTINF:-1 tvg-chno="86" group-title="Inter. Latam" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Univision-Logo-2013.png" ,Univision Int. ᴴᴰ
+#EXTINF:-1 tvg-chno="86" group-title="Inter. Latam" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Univision-Logo-2013.png" ,Univision Int. ᴴᴰ 
 #EXTVLCOPT:http-user-agent=VLC
 http://209.14.108.65:8000/play/a08z/index.m3u8
 #EXTINF:-1 tvg-chno="87" group-title="Inter. Latam"  tvg-id="TVChile.ar" tvg-name="TVChile.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" ,TV Chile Int. ᴴᴰ  (Chile)
@@ -391,6 +391,7 @@ https://cdn.sensa.com.ar/live/eds/TVE/live_dash_cld/TVE.mpd
 #EXTINF:-1 tvg-chno="94" group-title="Inter. Latam"  tvg-id="CGTNEspanol.uy" tvg-name="CGTNEspanol.uy"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png?20170830062000" ,CGTN en Español ᴴᴰ  (China)
 #EXTVLCOPT:http-user-agent=VLC
 http://181.78.14.26:4000/play/a03q/index.m3u8
+
 
 
 
