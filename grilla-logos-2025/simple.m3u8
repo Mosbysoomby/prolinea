@@ -7,7 +7,6 @@
 
 
 
-
 #EXTINF:-1  group-title="Radios" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-argentina.BL.H.250.png" ,1 - Cadena 3   - Propio
 https://liveradio.mediainbox.net/radio3.mp3
 
@@ -70,7 +69,7 @@ https://ice3.edge-apps.net/ros3-lv2/live/playlist.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM1041_56AAC_SC
 
 
-#EXTINF:-1  group-title="Radios" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/radio-mitre-cordoba/fb_cover.jpg" ,15 - Mitre Cordoba - AM 810   (Cordoba) - Radioarg.net
+#EXTINF:-1  group-title="Radios" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.radio-mitre-cordoba.CL.H.250.png" ,15 - Mitre Cordoba - AM 810   (Cordoba) - Radioarg.net
 https://playerservices.streamtheworld.com/api/livestream-redirect/AM810_56AAC.aac
 
 
@@ -175,7 +174,7 @@ https://api-distribucion-ln.lnapps.com.ar/audiofm1049
 https://edge03.radiohdvivo.com/los40
 
 
-#EXTINF:-1  group-title="Radios" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://cloudfront-arc.cienradios.com/radiomitre/logo/logo-widget.svg" ,38-//200 - Mitre - AM 790   (Bs. As.) - 229.33
+#EXTINF:-1  group-title="Radios" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.bsas.radio-mitre.CL.H.250.png" ,38-//200 - Mitre - AM 790   (Bs. As.) - 229.33
 http://45.188.229.33:8000/play/a1dt/index.m3u8
 
 
