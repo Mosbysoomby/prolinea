@@ -2,52 +2,48 @@
 
 
 
-
-
-
-
-#EXTINF:-1  group-title="Propio" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-argentina.BL.H.250.png" ,1 - Cadena 3   - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-argentina.blanco.h.250.png" ,1 - Cadena 3   - Propio
 https://liveradio.mediainbox.net/radio3.mp3
-#EXTINF:-1  group-title="Propio" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-argentina.BL.H.250.png" ,2 - Cadena 3   - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-argentina.blanco.h.250.png" ,2 - Cadena 3   - Propio
 #EXTVLCOPT:http-user-agent=mpv
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO3_SC
-#EXTINF:-1  group-title="Propio" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-la-plata.BL.H.250.png" ,3 - Cadena 3   (Bs. As. - La Plata) - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-la-plata.blanco.h.250.png" ,3 - Cadena 3   (Bs. As. - La Plata) - Propio
 https://playerservices.streamtheworld.com/api/livestream-redirect/C3LAPLATA.mp3
-#EXTINF:-1  group-title="Propio" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-cordoba.BL.H.250.png" ,4 - Cadena 3   (Cordoba) - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-cordoba.blanco.h.250.png" ,4 - Cadena 3   (Cordoba) - Propio
 https://playerservices.streamtheworld.com/api/livestream-redirect/AM700.mp3
-#EXTINF:-1  group-title="Propio" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-mendoza.BL.H.250.png" ,5 - Cadena 3   (Mendoza) - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-mendoza.blanco.h.250.png" ,5 - Cadena 3   (Mendoza) - Propio
 https://liveradio.mediainbox.net/c3mendoza.mp3
-#EXTINF:-1  group-title="Propio" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-rosario.BL.H.250.png" ,6 - Cadena 3   (Santa Fe - Rosario) - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-rosario.blanco.h.250.png" ,6 - Cadena 3   (Santa Fe - Rosario) - Propio
 #EXTVLCOPT:http-user-agent=mpv
 https://playerservices.streamtheworld.com/api/livestream-redirect/c3rosario.mp3
-#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena-heat.BL.H.250.png" ,7 - Cadena Heat   (Cordoba) - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena-heat.blanco.h.250.png" ,7 - Cadena Heat   (Cordoba) - Propio
 https://playerservices.streamtheworld.com/api/livestream-redirect/cadenaheat.mp3
-#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena-heat.BL.H.250.png" ,8 - Cadena Heat   (Cordoba) - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena-heat.color.h.250.png" ,8 - Cadena Heat   (Cordoba) - Propio
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENAHEAT_SC
-#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cosquin-rock-radio.BL.H.250.png" ,9 - Cosquin Rock Radio   (Cordoba) - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cosquin-rock-radio.blanco.h.250.png" ,9 - Cosquin Rock Radio   (Cordoba) - Propio
 https://playerservices.streamtheworld.com/api/livestream-redirect/cosquinrock.mp3
-#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.102-3-FM.BL.H.250.png" ,10 - FM 102.3   (Cordoba) - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.102-3-FM.blanco.h.250.png" ,10 - FM 102.3   (Cordoba) - Propio
 https://radios.solumedia.com:6276/stream
-#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://kuarteto.com/wp-content/themes/kuarteto/img/logo.png" ,11 - Kuarteto.com   (Cordoba) - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.kuarteto-radio.blanco.h.250.png" ,11 - Kuarteto.com   (Cordoba) - Propio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://sslstream.online/8408/stream
-#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://www.lapopu.com.ar/img/logo3-la-popu.png" ,12 - La Popu - FM 92.3   (Cordoba) - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.la-popu.color.h.png" ,12 - La Popu - FM 92.3   (Cordoba) - Propio
 https://playerservices.streamtheworld.com/api/livestream-redirect/lapopu.mp3
-#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://lvdos.com/resources/logos/152x152.png" ,13-403 - LV2   (Cordoba) - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.lv2-lvdos.v2.color.c.svg" ,13 - LV2   (Cordoba) - Propio
 #EXTVLCOPT:http-referrer=https://render.edge-apps.net/
 #EXTVLCOPT:http-origin=https://render.edge-apps.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://ice3.edge-apps.net/ros3-lv2/live/playlist.m3u8
-#EXTINF:-1  group-title="radios-argentinas.org" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://cloudfront-arc.cienradios.com/miafm/logo/logo.svg" ,14 - Mia - FM 104.1   (Cordoba) - radios-argentinas.org
+#EXTINF:-1  group-title="radios-argentinas.org" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.mia-fm-104-1.color.c.250.png" ,14 - Mia - FM 104.1   (Cordoba) - radios-argentinas.org
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM1041_56AAC_SC
-#EXTINF:-1  group-title="Radioarg.net" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.radio-mitre-cordoba.CL.H.250.png" ,15 - Mitre Cordoba - AM 810   (Cordoba) - Radioarg.net
+#EXTINF:-1  group-title="Radioarg.net" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.radio-mitre-cordoba.color.h.250.png" ,15 - Mitre Cordoba - AM 810   (Cordoba) - Radioarg.net
 https://playerservices.streamtheworld.com/api/livestream-redirect/AM810_56AAC.aac
 #EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.Planeta-Cuarteto.250.png" ,16 - Planeta Cuarteto   (Cordoba) - Propio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://streaming.radiosenlinea.com.ar/8470/stream
 #EXTINF:-1  group-title="radios-argentinas.org" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.Planeta-Cuarteto.250.png" ,17 - Planeta Cuarteto   (Cordoba) - radios-argentinas.org
 https://streaming.radiosenlinea.com.ar:10763/live
-#EXTINF:-1  group-title="Radioarg.net" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://static.wixstatic.com/media/3e84df_5b00f131394cc16054df79e9e77df66e.png" ,18 - Pobre Jhonny - FM 88.9   (Cordoba) - Radioarg.net
+#EXTINF:-1  group-title="Radioarg.net" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.pobre-johnny-88.9.color.c.250.png" ,18 - Pobre Jhonny - FM 88.9   (Cordoba) - Radioarg.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream4.suenas.net/pobrejohnny
 #EXTINF:-1  group-title="radios-argentinas.org" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://radiomaxima893.com.ar/img/logo.png" ,19 - Radio Maxima 89.3   (Cordoba) - radios-argentinas.org
@@ -5232,7 +5228,7 @@ http://138.59.227.20:8000/play/a0fc/index.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/66.m3u8
 #EXTINF:-1  group-title="227.20" tvg-id="" tvg-name="",1762-/1/ - Xpress TV  (Paraguay) (Paraguari) - 227.20
 http://138.59.227.20:8000/play/a0fz/index.m3u8
-#EXTINF:-1  group-title="Full.109.10" tvg-id="" tvg-name="" tvg-logo="py.5-dias.h.png" ,1763 - 5 Dias ᴴᴰ  (Paraguay) - Full.109.10
+#EXTINF:-1  group-title="Full.109.10" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/py.5-dias.h.png" ,1763 - 5 Dias ᴴᴰ  (Paraguay) - Full.109.10
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
 #EXTINF:-1  group-title="Full.109.10" tvg-id="" tvg-name="",1764 - TV Camara  (Paraguay) - Full.109.10
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8
