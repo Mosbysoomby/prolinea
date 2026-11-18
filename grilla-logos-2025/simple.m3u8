@@ -2,6 +2,8 @@
 
 
 
+
+
 #EXTINF:-1  group-title="Propio" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-argentina.blanco.h.250.png" ,1 - Cadena 3   - Propio
 https://liveradio.mediainbox.net/radio3.mp3
 #EXTINF:-1  group-title="Propio" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-argentina.blanco.h.250.png" ,2 - Cadena 3   - Propio
@@ -46,16 +48,16 @@ https://streaming.radiosenlinea.com.ar:10763/live
 #EXTINF:-1  group-title="Radioarg.net" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.pobre-johnny-88.9.color.c.250.png" ,18 - Pobre Jhonny - FM 88.9   (Cordoba) - Radioarg.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://stream4.suenas.net/pobrejohnny
-#EXTINF:-1  group-title="radios-argentinas.org" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://radiomaxima893.com.ar/img/logo.png" ,19 - Radio Maxima 89.3   (Cordoba) - radios-argentinas.org
+#EXTINF:-1  group-title="radios-argentinas.org" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.maxima-fm-98.3.color.c.250.png" ,19 - Radio Maxima 89.3   (Cordoba) - radios-argentinas.org
 https://streaming01.shockmedia.com.ar:10743/;stream.mp3
 #EXTINF:-1  group-title="Radioarg.net" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://1.bp.blogspot.com/-p2lzij_1IUg/YFsDsQGsscI/AAAAAAAKtU0/kbp2RhQ7iPUqfttni2H3K5j2SvOkm8mCgCLcBGAsYHQ/w1200-h630-p-k-no-nu/logo.png" ,20 - Radio Sucesos 104.7   (Cordoba) - Radioarg.net
 #EXTVLCOPT:http-referrer=https://radioarg.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://vofile.ru/Argentina/susenos/icecast.audio
-#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.radio-suquia.BL.H.250.png" ,21 - Radio Suquia 96.5   (Cordoba) - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.radio-suquia.blanco.h.250.png" ,21 - Radio Suquia 96.5   (Cordoba) - Propio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://streaming01.shockmedia.com.ar:10945/;
-#EXTINF:-1  group-title="Radioarg.net" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.radio-suquia-plus.BL.H.250.png" ,22 - Radio Suquia Plus 98.9   (Cordoba) - Radioarg.net
+#EXTINF:-1  group-title="Radioarg.net" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.radio-suquia-plus.blanco.h.250.png" ,22 - Radio Suquia Plus 98.9   (Cordoba) - Radioarg.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://streaming01.shockmedia.com.ar/9910/;
 #EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://rockandpopcba.com.ar/wp-content/uploads/2022/04/2022-04-logo-RockPop.png" ,23 - Rock&Pop 87.9   (Cordoba) - Propio
@@ -64,7 +66,7 @@ https://streaming01.shockmedia.com.ar/9910/;
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOPAAC_SC
 #EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://rockandpopcba.com.ar/wp-content/uploads/2022/04/2022-04-logo-RockPop.png" ,24 - Rock&Pop 87.9   (Cordoba) - Propio
 https://streaming.gostreaming.com.ar:10985/stream
-#EXTINF:-1  group-title="Radio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.580-srt.BL.H.250.png" ,25 - Universidad 580   (Cordoba) - Radio
+#EXTINF:-1  group-title="Radio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.580-srt.color.h.250.png" ,25 - Universidad 580   (Cordoba) - Radio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://radios.solumedia.com:10976/stream
 #EXTINF:-1  group-title="radios-argentinas.org" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_AM870_b.png" ,26 - Nacional AM 870   (Bs. As.) - radios-argentinas.org
@@ -77,17 +79,17 @@ https://sa.mp3.icecast.magma.edge-access.net/sc_rad35
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad38
 #EXTINF:-1  group-title="radios-argentinas.org" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_Rock.png" ,30 - Nacional Rock   (Bs. As.) - radios-argentinas.org
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
-#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.bsas.dsports-radio.CL.H.250.png" ,31 - Dsports Radio - FM103.1   (Bs. As.) - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.bsas.dsports-radio.color.h.250.png" ,31 - Dsports Radio - FM103.1   (Bs. As.) - Propio
 https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIOAAC.aac
 #EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijazmHacs13HUurNi_JazBSKkW3bNLpECWRNqPBThHU_yZ5YMavRKSZOFOggbFm6Xhqktk05z6bB0pCudCOE8oPUz1wbhqwl-nfYSmrp4qglY1i8uYx765j16mJ04b9qWXmemozPEjs1ltwI9HiM8daZg4FnQLVe9xRpTifKfJxYF12knUmoOIzqH_FEs/w1200-h630-p-k-no-nu/am1070-eldestape-mundo.png" ,32 - El Destape - AM 1070   (Bs. As.) - Propio
 https://live-ar1.cdnrad.com/hls/radio-2123/live.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="RadioLa100.ar" tvg-name="RadioLa100.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.bsas.la-cien-fm.CL.H.250.png" ,33-404 - La Cien FM 99.9   (Bs. As.) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="RadioLa100.ar" tvg-name="RadioLa100.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.bsas.la-cien-fm.blanco.h.250.png" ,33-404 - La Cien FM 99.9   (Bs. As.) - 229.33
 http://45.188.229.33:8000/play/a1du/index.m3u8
-#EXTINF:-1  group-title="Radioarg.net" tvg-id="RadioLa100.ar" tvg-name="RadioLa100.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.bsas.la-cien-fm.CL.H.250.png" ,34 - La Cien FM 99.9   (Bs. As.) - Radioarg.net
+#EXTINF:-1  group-title="Radioarg.net" tvg-id="RadioLa100.ar" tvg-name="RadioLa100.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.bsas.la-cien-fm.blanco.h.250.png" ,34 - La Cien FM 99.9   (Bs. As.) - Radioarg.net
 #EXTVLCOPT:http-referrer=https://radioarg.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://vofile.ru/Argentina/la-100/icecast.audio
-#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://www.lared.am/css-custom/316/images/logo-lared-nuevo.svg" ,35 - La Red - AM 910   (Bs. As.) - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.radio-la-red.blanco.c.250.png" ,35 - La Red - AM 910   (Bs. As.) - Propio
 https://26653.live.streamtheworld.com/LA_RED_AM910AAC.aac
 #EXTINF:-1  group-title="radios-argentinas.org" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://masmusica.lanacion.com.ar/assets/img/logo-masmusica.png" ,36 - LN+ musica - FM 104.9   (Bs. As.) - radios-argentinas.org
 https://api-distribucion-ln.lnapps.com.ar/audiofm1049
@@ -95,18 +97,18 @@ https://api-distribucion-ln.lnapps.com.ar/audiofm1049
 #EXTVLCOPT:http-referrer=https://radioarg.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://edge03.radiohdvivo.com/los40
-#EXTINF:-1  group-title="229.33" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.bsas.radio-mitre.CL.H.250.png" ,38 - Mitre - AM 790   (Bs. As.) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.bsas.radio-mitre.color.h.250.png" ,38 - Mitre - AM 790   (Bs. As.) - 229.33
 http://45.188.229.33:8000/play/a1dt/index.m3u8
 #EXTINF:-1  group-title="radios-argentinas.org" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://media.radio10.com.ar/adjuntos/220/imagenes/043/550/0043550469.png" ,39 - Radio 10   (Bs. As.) - radios-argentinas.org
 https://radio10.stweb.tv/radio10/live/playlist.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="RadioContinental.ar" tvg-name="RadioContinental.ar"  radio="true"  tvg-logo="https://www.continental.com.ar/adjuntos/350/continental/logopng.png" ,40-404 - Radio Continental AM 590   (Bs. As.) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="RadioContinental.ar" tvg-name="RadioContinental.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.radio-continental-am590.gris.v.250.png" ,40-404 - Radio Continental AM 590   (Bs. As.) - 229.33
 http://45.188.229.33:8000/play/a1dv/index.m3u8
-#EXTINF:-1  group-title="radios-argentinas.org" tvg-id="RadioContinental.ar" tvg-name="RadioContinental.ar"  radio="true"  tvg-logo="https://www.continental.com.ar/adjuntos/350/continental/logopng.png" ,41-403 - Radio Continental AM 590   (Bs. As.) - radios-argentinas.org
+#EXTINF:-1  group-title="radios-argentinas.org" tvg-id="RadioContinental.ar" tvg-name="RadioContinental.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.radio-continental-am590.gris.v.250.png" ,41-403 - Radio Continental AM 590   (Bs. As.) - radios-argentinas.org
 https://edge02.radiohdvivo.com/continental
-#EXTINF:-1  group-title="Propio" tvg-id="RadioContinental.ar" tvg-name="RadioContinental.ar"  radio="true"  tvg-logo="https://www.continental.com.ar/adjuntos/350/continental/logopng.png" ,42-403 - Radio Continental AM 590   (Bs. As.) - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="RadioContinental.ar" tvg-name="RadioContinental.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.radio-continental-am590.gris.v.250.png" ,42-403 - Radio Continental AM 590   (Bs. As.) - Propio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://frontend.radiohdvivo.com/continental/live
-#EXTINF:-1  group-title="radios-argentinas.org" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/448/radio-rivadavia-630-am.ab450f7d.jpg" ,43 - Radio Rivadavia 630 AM   (Bs. As.) - radios-argentinas.org
+#EXTINF:-1  group-title="radios-argentinas.org" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.rivadavia-am630.blanco.v4.v.svg" ,43 - Radio Rivadavia 630 AM   (Bs. As.) - radios-argentinas.org
 https://27403.live.streamtheworld.com/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets
 #EXTINF:-1  group-title="Sensa" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar" tvg-logo="https://www.cadena3.com/img2024/logo-cadena-3.png" ,44 - Cadena 3 ᴴᴰ  (Cordoba) - Sensa
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar
@@ -150,11 +152,11 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 #EXTVLCOPT:http-origin=https://vmf.edge-apps.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://g3.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
-#EXTINF:-1  group-title="Full.141.161" tvg-id="" tvg-name="",52 - Evemtos | DAZN 1  - Full.141.161
+#EXTINF:-1  group-title="Full.141.161" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DAZN1.blanco.svg" ,52 - Evemtos | DAZN 1  - Full.141.161
 http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 #EXTINF:-1  group-title="227.20" tvg-id="" tvg-name="",53-/1/ - Eventos | Albirroja TV  - 227.20
 http://138.59.227.20:8000/play/a0dx/index.m3u8
-#EXTINF:-1  group-title="DTV" tvg-id="" tvg-name="" tvg-logo="https://logospng.org/download/cazetv/caze-tv-512.png" ,54 - Eventos | Cazé TV  - DTV
+#EXTINF:-1  group-title="DTV" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/caze-tv.color2.png" ,54 - Eventos | Cazé TV  - DTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
