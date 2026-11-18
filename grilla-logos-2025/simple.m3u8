@@ -1,9 +1,6 @@
 #EXTM3U
 
 
-
-
-
 #EXTINF:-1  group-title="Propio" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-argentina.blanco.h.250.png" ,1 - Cadena 3   - Propio
 https://liveradio.mediainbox.net/radio3.mp3
 #EXTINF:-1  group-title="Propio" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-argentina.blanco.h.250.png" ,2 - Cadena 3   - Propio
@@ -22,7 +19,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/c3rosario.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/cadenaheat.mp3
 #EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena-heat.color.h.250.png" ,8 - Cadena Heat   (Cordoba) - Propio
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENAHEAT_SC
-#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cosquin-rock-radio.blanco.h.250.png" ,9 - Cosquin Rock Radio   (Cordoba) - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cosquin-rock-radio.blanco.h.1080.svg" ,9 - Cosquin Rock Radio   (Cordoba) - Propio
 https://playerservices.streamtheworld.com/api/livestream-redirect/cosquinrock.mp3
 #EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.102-3-FM.blanco.h.250.png" ,10 - FM 102.3   (Cordoba) - Propio
 https://radios.solumedia.com:6276/stream
@@ -110,12 +107,12 @@ https://edge02.radiohdvivo.com/continental
 https://frontend.radiohdvivo.com/continental/live
 #EXTINF:-1  group-title="radios-argentinas.org" tvg-id="Canal20.ar" tvg-name="Canal20.ar"  radio="true"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.rivadavia-am630.blanco.v4.v.svg" ,43 - Radio Rivadavia 630 AM   (Bs. As.) - radios-argentinas.org
 https://27403.live.streamtheworld.com/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets
-#EXTINF:-1  group-title="Sensa" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar" tvg-logo="https://www.cadena3.com/img2024/logo-cadena-3.png" ,44 - Cadena 3 ᴴᴰ  (Cordoba) - Sensa
+#EXTINF:-1  group-title="Sensa" tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-argentina.color.h.500.svg" ,44 - Cadena 3 ᴴᴰ  (Cordoba) - Sensa
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://smt-usr-edge01.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
-#EXTINF:-1  group-title="Sensa" tvg-id="Canal20.ar" tvg-name="Canal20.ar" tvg-logo="https://comercial.cadena3.com/img/logo2-cosquin-rock-radio.png" ,45 - Cosquin Rock Radio ᴴᴰ  (Cordoba) - Sensa
+#EXTINF:-1  group-title="Sensa" tvg-id="Canal20.ar" tvg-name="Canal20.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cosquin-rock-radio.blanco.h.1080.svg" ,45 - Cosquin Rock Radio ᴴᴰ  (Cordoba) - Sensa
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
@@ -154,7 +151,7 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 https://g3.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
 #EXTINF:-1  group-title="Full.141.161" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DAZN1.blanco.svg" ,52 - Evemtos | DAZN 1  - Full.141.161
 http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
-#EXTINF:-1  group-title="227.20" tvg-id="" tvg-name="",53-/1/ - Eventos | Albirroja TV  - 227.20
+#EXTINF:-1  group-title="227.20" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/eventos-paraguay.blanco.svg" ,53-/1/ - Eventos | Albirroja TV  - 227.20
 http://138.59.227.20:8000/play/a0dx/index.m3u8
 #EXTINF:-1  group-title="DTV" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/caze-tv.color2.png" ,54 - Eventos | Cazé TV  - DTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -162,7 +159,7 @@ http://138.59.227.20:8000/play/a0dx/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1  group-title="nico" tvg-id="" tvg-name="",55 - Eventos | DSports  - nico
+#EXTINF:-1  group-title="nico" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/eventos-directv.color.v1.svg" ,55 - Eventos | DSports  - nico
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=054e17b9b99e3e0aa1e022d238635d35:4cc211af8468e321973787bb61f55db4
@@ -170,19 +167,19 @@ https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/o
 #EXTVLCOPT:http-origin=https://android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0%20(Android;%20Android%207.1.2;%20Asus;%20ASUS_Z01QD)%20ExoPlayer/2.19.1
 https://46925e69ccf445e09667cb17c8bb4f2c.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1065/1065_DIRECTV_SPORTS_OCC_2_DASH/manifest.mpd
-#EXTINF:-1  group-title="229.33" tvg-id="" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/600/400/dEOhDb7vsbbZcm6GlzVAHQ?tags=CH_LOGO" ,56 - Eventos | Flow Sporst ᴴᴰ  - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/eventos-flow.color.v1.svg" ,56 - Eventos | Flow Sporst ᴴᴰ  - 229.33
 http://45.188.229.33:8000/play/a1dc/index.m3u8
-#EXTINF:-1  group-title="227.20" tvg-id="" tvg-name="",57-404 - Eventos | Py  - 227.20
+#EXTINF:-1  group-title="227.20" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/eventos-paraguay.blanco.svg" ,57-404 - Eventos | Py  - 227.20
 http://138.59.227.20:8000/play/a0g4/index.m3u8
-#EXTINF:-1  group-title="227.20" tvg-id="" tvg-name="",58-/1/ - Eventos | Py Extra  - 227.20
+#EXTINF:-1  group-title="227.20" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/eventos-paraguay.blanco.svg" ,58-/1/ - Eventos | Py Extra  - 227.20
 http://138.59.227.20:8000/play/a0g9/index.m3u8
-#EXTINF:-1  group-title="Telegram" tvg-id="" tvg-name="" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/06/TNT-Sports-Logo.png" ,59 - Eventos | TNT Sports  - Telegram
+#EXTINF:-1  group-title="Telegram" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/eventos-tnt-hbomax.blanco.v1.svg" ,59 - Eventos | TNT Sports  - Telegram
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 https://absucn2yeiuaaaaya6gwkqye6jcza.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd
-#EXTINF:-1  group-title="229.33" tvg-id="" tvg-name="",60-404 - Eventos 2  - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/eventos-deportes.color.v1.svg" ,60-404 - Eventos 2  - 229.33
 http://45.188.229.33:8000/play/a1dd/index.m3u8
 #EXTINF:-1  group-title="Sensa" tvg-id="Canal10.ar" tvg-name="Canal10.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/grilla-logos-2025/arg.cba.canal10.png" ,61 - Canal 10 ᴴᴰ  (Cordoba) - Sensa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -238,13 +235,13 @@ http://45.188.229.33:8000/play/a1au/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
-#EXTINF:-1  group-title="227.20" tvg-id="TVPublica.ar" tvg-name="TVPublica.ar" tvg-logo="https://www.tvpublica.com.ar/static/img/branding/Canal7_Logo_Principal_Blanco.svg" ,70-404 - Canal 7  - 227.20
+#EXTINF:-1  group-title="227.20" tvg-id="TVPublica.ar" tvg-name="TVPublica.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.canal-siete.2026.color.v2.v.svg" ,70-404 - Canal 7  - 227.20
 http://138.59.227.20:8000/play/a095/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="TVPublica.ar" tvg-name="TVPublica.ar" tvg-logo="https://www.tvpublica.com.ar/static/img/branding/Canal7_Logo_Principal_Blanco.svg" ,71-404 - Canal 7 ᴴᴰ  - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="TVPublica.ar" tvg-name="TVPublica.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.canal-siete.2026.color.v2.v.svg" ,71-404 - Canal 7 ᴴᴰ  - 229.33
 http://45.188.229.33:8000/play/a1a2/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="TVPublica.ar" tvg-name="TVPublica.ar" tvg-logo="https://www.tvpublica.com.ar/static/img/branding/Canal7_Logo_Principal_Blanco.svg" ,72-404 - Canal 7 ᴴᴰ  - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="TVPublica.ar" tvg-name="TVPublica.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.canal-siete.2026.color.v2.v.svg" ,72-404 - Canal 7 ᴴᴰ  - 229.33
 http://45.188.229.33:8000/play/a1av/index.m3u8
-#EXTINF:-1  group-title="Sensa" tvg-id="TVPublica.ar" tvg-name="TVPublica.ar" tvg-logo="https://www.tvpublica.com.ar/static/img/branding/Canal7_Logo_Principal_Blanco.svg" ,73 - Canal 7 ᴴᴰ  - Sensa
+#EXTINF:-1  group-title="Sensa" tvg-id="TVPublica.ar" tvg-name="TVPublica.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.canal-siete.2026.color.v2.v.svg" ,73 - Canal 7 ᴴᴰ  - Sensa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
@@ -252,7 +249,7 @@ http://45.188.229.33:8000/play/a1av/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
-#EXTINF:-1  group-title="Propio" tvg-id="TVPublica.ar" tvg-name="TVPublica.ar" tvg-logo="https://www.tvpublica.com.ar/static/img/branding/Canal7_Logo_Principal_Blanco.svg" ,74 - Canal 7 ᴴᴰ  - Propio
+#EXTINF:-1  group-title="Propio" tvg-id="TVPublica.ar" tvg-name="TVPublica.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.canal-siete.2026.color.v2.v.svg" ,74 - Canal 7 ᴴᴰ  - Propio
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
 #EXTVLCOPT:http-origin=https://vmf.edge-apps.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
