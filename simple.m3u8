@@ -7,7 +7,6 @@
 
 
 
-
 #EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.corrientes.13max.svg" ,1 - 13 MAX ᴴᴰ  (Corrientes - Ciudad) - Propio
 #EXTVLCOPT:http-referrer=https://www.13maxtv.com/
 #EXTVLCOPT:http-origin=https://www.13maxtv.com/
@@ -1740,13 +1739,13 @@ https://cdn.sensa.com.ar/live/sta01/Dnews/live_dash_cld/Dnews.mpd
 http://181.78.14.26:4000/play/a047/index.m3u8
 #EXTINF:-1  group-title="Full.141.161" tvg-id="" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/600/400/6l_DEbSF66b1Bt6_TpqjhQ?tags=CH_LOGO" ,576 - Dreamworks Channel  - Full.141.161
 http://45.134.141.161:2200/ARG/Dreamworks_HD/index.m3u8
-#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DSports.arg.v1.blanco.v1.svg" ,577 - Dsports ᴴᴰ  - Nitro CDN
+#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DSports.arg.v1.blanco.v1.svg" ,577 - Dsports  - Nitro CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","45bbd582f220f438f896450d8306a3f2":"582c6ba7f64bbc0f2d91c6b0c265760c"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy",578 - DSports ᴴᴰ  (Chile) - Nitro CDN
+#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DSports.chile.v1.blanco.v1.svg" ,578 - DSports ᴴᴰ  (Chile) - Nitro CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=415eb477052aa42d010768d57cc9535a&keyid=62f9e095e872d430b931b6ad35be2168
@@ -1754,16 +1753,16 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf
 #EXTVLCOPT:http-origin=https://www.paramountplus.com/
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cardt9ai8g/out/v1/a85c58beee18435e82a57a0fb9d2f681/cenc.mpd
-#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy",579 - DSports ᴴᴰ  (Colombia) - Nitro CDN
+#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DSports.colombia.v1.blanco.v1.svg" ,579 - DSports ᴴᴰ  (Colombia) - Nitro CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c432184d1ab00475aded5731162d99b7:5f361ae2b35dcb415fe612ea7e85ed9d
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/out/v1/4ef0db80aa3341e2babb58314541f1e0/cenc.mpd|User-Agent=AivAndroidPlayer/1.0 (AndroidDevice)&Referer=https://www.primevideo.com/
-#EXTINF:-1  group-title="229.33" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy",580 - Dsports  (Sur) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DSports.sur.v1.blanco.v1.svg" ,580 - Dsports ᴴᴰ  (Sur) - 229.33
 http://45.188.229.33:8000/play/a1iw/index.m3u8
-#EXTINF:-1  group-title="AMZ CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy",581 - DSports  (Sur) - AMZ CDN
+#EXTINF:-1  group-title="AMZ CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DSports.sur.v1.blanco.v1.svg" ,581 - DSports ᴴᴰ  (Sur) - AMZ CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13129171e9303da3a31dd7b583f7f41c:dc4844c309c47baf996f267cda324d61
@@ -1771,7 +1770,7 @@ http://45.188.229.33:8000/play/a1iw/index.m3u8
 #EXTVLCOPT:http-origin=https://android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0%20(Android;%20Android%207.1.2;%20Asus;%20ASUS_Z01QD)%20ExoPlayer/2.19.1
 https://1cf44b5bdec84b56bd4ec71e0cbf33de.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1057/1057_DIRECTV_SPORTS_ARG_DASH/manifest.mpd
-#EXTINF:-1  group-title="AMZ CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy",582 - Dsports  (Uruguay) - AMZ CDN
+#EXTINF:-1  group-title="AMZ CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DSports.uruguay.v1.blanco.v1.svg" ,582 - Dsports ᴴᴰ  (Uruguay) - AMZ CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mundodeportes.online/pandatv/flow/keys.php?key=5d75d58fac3ba91e20a024b268ac964f&keyid=d07dd2d8456e3b59acf9ae00379b8bfa
@@ -1779,7 +1778,7 @@ https://1cf44b5bdec84b56bd4ec71e0cbf33de.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:http-origin=https://android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0%20(Android;%20Android%207.1.2;%20Asus;%20ASUS_Z01QD)%20ExoPlayer/2.19.1
 https://099ed2f3014c41e78f3c7bc29b21bc11.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1062/1062_DIRECTV_SPORTS_URU_DASH/manifest.mpd
-#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy",583 - Dsports ᴴᴰ  (Venezuela) - Nitro CDN
+#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DSports.ven.v1.blanco.v1.svg" ,583 - Dsports ᴴᴰ  (Venezuela) - Nitro CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=afad49d20eb39670e93e371c1d669921&keyid=f8b207c10f3f76aeba32a360ec52b9e4
@@ -1787,14 +1786,14 @@ https://099ed2f3014c41e78f3c7bc29b21bc11.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:http-origin=https://www.paramountplus.com/
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd|User-Agent=AivAndroidPlayer/1.0 (AndroidDevice)&Referer=https://www.primevideo.com/
-#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsPlus.uy" tvg-name="DSportsPlus.uy",584 - Dsports + ᴴᴰ  - Nitro CDN
+#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsPlus.uy" tvg-name="DSportsPlus.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DSports_plus.arg.v1.blanco.v1.svg" ,584 - Dsports + ᴴᴰ  - Nitro CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=3f8d519997196db76631dd4b427f53f6&keyid=da81f7165f73c884fc1dcf0bf3bd4bb5
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd|User-Agent=AivAndroidPlayer/1.0 (AndroidDevice)&Referer=https://www.primevideo.com/
-#EXTINF:-1  group-title="Param+" tvg-id="DSportsPlus.uy" tvg-name="DSportsPlus.uy",585 - Dsports +  - Param+
+#EXTINF:-1  group-title="Param+" tvg-id="DSportsPlus.uy" tvg-name="DSportsPlus.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DSports_plus.arg.v1.blanco.v1.svg" ,585 - Dsports + ᴴᴰ  - Param+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
@@ -1802,7 +1801,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hoo4ddqavw/
 #EXTVLCOPT:http-origin=https://www.paramountplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
-#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsPlus.uy" tvg-name="DSportsPlus.uy",586 - Dsports + ᴴᴰ  (Chile) - Nitro CDN
+#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsPlus.uy" tvg-name="DSportsPlus.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DSports_plus.chile.v1.blanco.v1.svg" ,586 - Dsports + ᴴᴰ  (Chile) - Nitro CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ddfd7ca653d6f35543d8edb3c688e20f&keyid%5B%5D=83f81c4cc1443991543de4e22eea7586
@@ -1810,7 +1809,7 @@ https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37
 #EXTVLCOPT:http-origin=https://www.paramountplus.com/
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|Referer=https://www.primevideo.com/&User-Agent=AivAndroidPlayer/1.0 (AndroidDevice)
-#EXTINF:-1  group-title="AMZ CDN" tvg-id="DSportsPlus.uy" tvg-name="DSportsPlus.uy",587-DRM ERROR - DSports +  (Sur) - AMZ CDN
+#EXTINF:-1  group-title="AMZ CDN" tvg-id="DSportsPlus.uy" tvg-name="DSportsPlus.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DSports_plus.sur.v1.blanco.v1.svg" ,587-DRM ERROR - DSports +  (Sur) - AMZ CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7dbd6af5e0e530919642f53f4b9af775:48d7040d3c5edf52115fd0b2ede3bdb0
@@ -1818,9 +1817,9 @@ http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/26
 #EXTVLCOPT:http-origin=https://android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0%20(Android;%20Android%207.1.2;%20Asus;%20ASUS_Z01QD)%20ExoPlayer/2.19.1
 https://b5cce558f58c4843a8264d282ebce3ec.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1071/1071_DIRECTV_SPORTS_HD_DASH/manifest.mpd
-#EXTINF:-1  group-title="229.33" tvg-id="DSports2.uy" tvg-name="DSports2.uy",588 - Dsports 2  - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="DSports2.uy" tvg-name="DSports2.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DSports_2.arg.v1.blanco.v1.svg" ,588 - Dsports 2 ᴴᴰ  - 229.33
 http://45.188.229.33:8000/play/a1ix/index.m3u8
-#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSports2.uy" tvg-name="DSports2.uy",589 - Dsports 2 ᴴᴰ  - Nitro CDN
+#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSports2.uy" tvg-name="DSports2.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DSports_2.arg.v1.blanco.v1.svg" ,589 - Dsports 2 ᴴᴰ  - Nitro CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=c664b811a97edc555da47c1d22482542&keyid=0db71325e4256f5f16b348b3b1b7832a
@@ -1828,7 +1827,7 @@ http://45.188.229.33:8000/play/a1ix/index.m3u8
 #EXTVLCOPT:http-origin=https://android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd|User-Agent=AivAndroidPlayer/1.0 (AndroidDevice)&Referer=https://www.primevideo.com/
-#EXTINF:-1  group-title="Param+" tvg-id="DSports2.uy" tvg-name="DSports2.uy",590 - Dsports 2  - Param+
+#EXTINF:-1  group-title="Param+" tvg-id="DSports2.uy" tvg-name="DSports2.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DSports_2.arg.v1.blanco.v1.svg" ,590 - Dsports 2 ᴴᴰ  - Param+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=010b4fa338184f52a712121ad62ae9b4:e310bad2a570b60f7799e2aa0fb33a71
@@ -1836,7 +1835,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nzl2d4ffbw/
 #EXTVLCOPT:http-origin=https://www.paramountplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a463f9d5/manifest.mpd
-#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSports2.uy" tvg-name="DSports2.uy",591 - Dsports 2 ᴴᴰ  (Chile) - Nitro CDN
+#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSports2.uy" tvg-name="DSports2.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DSports_2.chile.v1.blanco.v1.svg" ,591 - Dsports 2 ᴴᴰ  (Chile) - Nitro CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ea07b87acdf2e45be824cde4a1cf3504&keyid%5B%5D=03f12d6a3dbfd3a6fa7dd7f6417e0c11
