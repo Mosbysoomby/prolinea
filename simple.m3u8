@@ -6,7 +6,8 @@
 
 
 
-#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/grilla-logos-2025/arg.corrientes.13max.bl.250.png" ,1 - 13 MAX ᴴᴰ  (Corrientes - Ciudad) - Propio
+
+#EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.corrientes.13max.svg" ,1 - 13 MAX ᴴᴰ  (Corrientes - Ciudad) - Propio
 #EXTVLCOPT:http-referrer=https://www.13maxtv.com/
 #EXTVLCOPT:http-origin=https://www.13maxtv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
@@ -2133,13 +2134,13 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
 http://181.119.177.253:8000/play/a03j/index.m3u8
 #EXTINF:-1  group-title="229.33" tvg-id="" tvg-name="" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1155/1155_t-290x163.png" ,679 - Esne  - 229.33
 http://45.188.229.33:8000/play/a0we/index.m3u8
-#EXTINF:-1  group-title="227.20" tvg-id="Espn.ar" tvg-name="Espn.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_arg.blanco.svg" ,680 - ESPN ᴴᴰ  - 227.20
+#EXTINF:-1  group-title="227.20" tvg-id="Espn.ar" tvg-name="Espn.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_arg.blanco.svg" ,680-/5/ - ESPN ᴴᴰ  - 227.20
 http://138.59.227.20:8000/play/a099/index.m3u8
 #EXTINF:-1  group-title="229.33" tvg-id="Espn.ar" tvg-name="Espn.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_arg.blanco.svg" ,681-404 - ESPN  - 229.33
 http://45.188.229.33:8000/play/a1ac/index.m3u8
 #EXTINF:-1  group-title="229.33" tvg-id="Espn.ar" tvg-name="Espn.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_arg.blanco.svg" ,682-404 - ESPN  - 229.33
 http://45.188.229.33:8000/play/a1az/index.m3u8
-#EXTINF:-1  group-title="Full.141.161" tvg-id="Espn.ar" tvg-name="Espn.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_arg.blanco.svg" ,683 - ESPN ᴴᴰ  - Full.141.161
+#EXTINF:-1  group-title="Full.141.161" tvg-id="Espn.ar" tvg-name="Espn.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_chile.blanco.svg" ,683 - ESPN ᴴᴰ  (Chile) - Full.141.161
 http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/index.m3u8
 #EXTINF:-1  group-title="Sensa" tvg-id="Espn.ar" tvg-name="Espn.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_arg.blanco.svg" ,684 - ESPN ᴴᴰ  - Sensa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2155,7 +2156,7 @@ http://streaming.sattvgo.com.br/ESPN_HD/index.m3u8
 http://streaming.sattvgo.com.br/ESPN1/index.m3u8
 #EXTINF:-1  group-title="177.253" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_caribe.blanco.svg" ,687 - ESPN ᴴᴰ  (Caribe) - 177.253
 http://181.119.177.253:8000/play/a0ck/index.m3u8
-#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_arg.blanco.svg" ,688 - ESPN ᴴᴰ  (Chile) - F.109.10
+#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_chile.blanco.svg" ,688 - ESPN ᴴᴰ  (Chile) - F.109.10
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
 #EXTINF:-1  group-title="108.65" tvg-id="ESPN HD.cl" tvg-name="ESPN HD.cl" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_chile.blanco.svg" ,689 - ESPN  (Chile) - 108.65
 #EXTVLCOPT:http-user-agent=VLC
@@ -2182,17 +2183,17 @@ http://45.188.229.33:8000/play/a1jj/index.m3u8
 http://190.60.37.115:8001/play/a0gf/index.m3u8
 #EXTINF:-1  group-title="14.26" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_colombia.blanco.svg" ,699-/4/ - ESPN ᴴᴰ  (Colombia) - 14.26
 http://181.78.14.26:4000/play/a009/index.m3u8
-#EXTINF:-1  group-title="14.26" tvg-id="" tvg-name="" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/pKel4txgUUES1wvAVQK9DQ?tags=CH_LOGO" ,700-404 - ESPN 2  (?) - 14.26
+#EXTINF:-1  group-title="14.26" tvg-id="" tvg-name="",700-404 - ESPN 2  (?) - 14.26
 http://181.78.14.26:4000/play/a02p/index.m3u8
-#EXTINF:-1  group-title="227.20" tvg-id="Espn2.ar" tvg-name="Espn2.ar",701-404 - ESPN 2  - 227.20
+#EXTINF:-1  group-title="227.20" tvg-id="Espn2.ar" tvg-name="Espn2.ar",701-404 - ESPN 2  (?) - 227.20
 http://138.59.227.20:8000/play/a098/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="Espn2.ar" tvg-name="Espn2.ar",702 - ESPN 2 ᴴᴰ  - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="Espn2.ar" tvg-name="Espn2.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_arg.blanco.svg" ,702 - ESPN 2 ᴴᴰ  - 229.33
 http://45.188.229.33:8000/play/a1ab/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="Espn2.ar" tvg-name="Espn2.ar",703 - ESPN 2 ᴴᴰ  - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="Espn2.ar" tvg-name="Espn2.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_arg.blanco.svg" ,703 - ESPN 2 ᴴᴰ  - 229.33
 http://45.188.229.33:8000/play/a1ay/index.m3u8
-#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="",704 - ESPN 2 ᴴᴰ  - F.109.10
+#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_arg.blanco.svg" ,704 - ESPN 2 ᴴᴰ  - F.109.10
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/88.m3u8
-#EXTINF:-1  group-title="Sensa" tvg-id="Espn2.ar" tvg-name="Espn2.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/pKel4txgUUES1wvAVQK9DQ?tags=CH_LOGO" ,705-Error - ESPN 2 ᴴᴰ  - Sensa
+#EXTINF:-1  group-title="Sensa" tvg-id="Espn2.ar" tvg-name="Espn2.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_arg.blanco.svg" ,705-Error - ESPN 2 ᴴᴰ  - Sensa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
@@ -2200,42 +2201,42 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/88.m3u8
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
-#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="",706 - ESPN 2 ᴴᴰ  (Brasil) - SatGo
+#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_brasil.blanco.svg" ,706 - ESPN 2 ᴴᴰ  (Brasil) - SatGo
 http://streaming.sattvgo.com.br/ESPN2/index.m3u8
-#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="",707 - ESPN 2 ᴴᴰ  (Brasil) - SatGo
+#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_brasil.blanco.svg" ,707 - ESPN 2 ᴴᴰ  (Brasil) - SatGo
 http://streaming.sattvgo.com.br/ESPN2_HD/index.m3u8
-#EXTINF:-1  group-title="177.253" tvg-id="" tvg-name="" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/pKel4txgUUES1wvAVQK9DQ?tags=CH_LOGO" ,708 - ESPN 2 ᴴᴰ  (Caribe) - 177.253
+#EXTINF:-1  group-title="177.253" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_caribe.blanco.svg" ,708 - ESPN 2 ᴴᴰ  (Caribe) - 177.253
 http://181.119.177.253:8000/play/a0cl/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="Espn2.ar" tvg-name="Espn2.ar",709 - ESPN 2 ᴴᴰ  (Chile) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="Espn2.ar" tvg-name="Espn2.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_chile.blanco.svg" ,709 - ESPN 2 ᴴᴰ  (Chile) - 229.33
 http://45.188.229.33:8000/play/a1jq/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="Espn2.ar" tvg-name="Espn2.ar",710 - ESPN 2  (Chile) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="Espn2.ar" tvg-name="Espn2.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_chile.blanco.svg" ,710 - ESPN 2  (Chile) - 229.33
 http://45.188.229.33:8000/play/a1ko/index.m3u8
-#EXTINF:-1  group-title="108.65" tvg-id="ESPN 2 HD.cl" tvg-name="ESPN 2 HD.cl" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/pKel4txgUUES1wvAVQK9DQ?tags=CH_LOGO" ,711 - ESPN 2  (Chile) - 108.65
+#EXTINF:-1  group-title="108.65" tvg-id="ESPN 2 HD.cl" tvg-name="ESPN 2 HD.cl" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_chile.blanco.svg" ,711 - ESPN 2  (Chile) - 108.65
 #EXTVLCOPT:http-user-agent=VLC
 http://209.14.108.65:8000/play/a012/index.m3u8
-#EXTINF:-1  group-title="37.115" tvg-id="ESPN 2.co" tvg-name="ESPN 2.co" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/pKel4txgUUES1wvAVQK9DQ?tags=CH_LOGO" ,712 - ESPN 2 ᴴᴰ  (Chile) - 37.115
+#EXTINF:-1  group-title="37.115" tvg-id="ESPN 2.co" tvg-name="ESPN 2.co" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_chile.blanco.svg" ,712 - ESPN 2 ᴴᴰ  (Chile) - 37.115
 http://190.60.37.115:8001/play/a0i1/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="Espn2.ar" tvg-name="Espn2.ar",713 - ESPN 2  (Colombia) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="Espn2.ar" tvg-name="Espn2.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_colombia.blanco.svg" ,713 - ESPN 2  (Colombia) - 229.33
 http://45.188.229.33:8000/play/a1ke/index.m3u8
-#EXTINF:-1  group-title="Full.141.161" tvg-id="Espn2.ar" tvg-name="Espn2.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/pKel4txgUUES1wvAVQK9DQ?tags=CH_LOGO" ,714 - ESPN 2 ᴴᴰ  (Colombia) - Full.141.161
+#EXTINF:-1  group-title="Full.141.161" tvg-id="Espn2.ar" tvg-name="Espn2.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_colombia.blanco.svg" ,714 - ESPN 2 ᴴᴰ  (Colombia) - Full.141.161
 http://45.134.141.161:2200/ARG/ESPN_ARG_2_HD/index.m3u8
-#EXTINF:-1  group-title="108.65" tvg-id="ESPN 2.co" tvg-name="ESPN 2.co" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/pKel4txgUUES1wvAVQK9DQ?tags=CH_LOGO" ,715 - ESPN 2  (Colombia) - 108.65
+#EXTINF:-1  group-title="108.65" tvg-id="ESPN 2.co" tvg-name="ESPN 2.co" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_colombia.blanco.svg" ,715 - ESPN 2  (Colombia) - 108.65
 #EXTVLCOPT:http-user-agent=VLC
 http://209.14.108.65:8000/play/a019/index.m3u8
-#EXTINF:-1  group-title="195.44" tvg-id="ESPN 2.co" tvg-name="ESPN 2.co" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/pKel4txgUUES1wvAVQK9DQ?tags=CH_LOGO" ,716 - ESPN 2 ᴴᴰ  (Colombia) - 195.44
+#EXTINF:-1  group-title="195.44" tvg-id="ESPN 2.co" tvg-name="ESPN 2.co" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_colombia.blanco.svg" ,716 - ESPN 2 ᴴᴰ  (Colombia) - 195.44
 #EXTVLCOPT:http-user-agent=VLC
 http://38.7.195.44:8000/play/a01l
-#EXTINF:-1  group-title="229.33" tvg-id="" tvg-name="" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/pKel4txgUUES1wvAVQK9DQ?tags=CH_LOGO" ,717 - ESPN 2 ᴴᴰ  (Sur) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_sur.blanco.svg" ,717 - ESPN 2 ᴴᴰ  (Sur) - 229.33
 http://45.188.229.33:8000/play/a138/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="" tvg-name="" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/pKel4txgUUES1wvAVQK9DQ?tags=CH_LOGO" ,718 - ESPN 2  (Sur) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_sur.blanco.svg" ,718 - ESPN 2  (Sur) - 229.33
 http://45.188.229.33:8000/play/a18r/index.m3u8
-#EXTINF:-1  group-title="227.20" tvg-id="Espn3.ar" tvg-name="Espn3.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO" ,719 - ESPN 3 ᴴᴰ  - 227.20
+#EXTINF:-1  group-title="227.20" tvg-id="Espn3.ar" tvg-name="Espn3.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_3.arg.blanco.svg" ,719 - ESPN 3 ᴴᴰ  - 227.20
 http://138.59.227.20:8000/play/a09a/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="Espn3.ar" tvg-name="Espn3.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO" ,720-404 - ESPN 3  - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="Espn3.ar" tvg-name="Espn3.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_3.arg.blanco.svg" ,720-404 - ESPN 3  - 229.33
 http://45.188.229.33:8000/play/a1ad/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="Espn3.ar" tvg-name="Espn3.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO" ,721 - ESPN 3 ᴴᴰ  - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="Espn3.ar" tvg-name="Espn3.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_3.arg.blanco.svg" ,721 - ESPN 3 ᴴᴰ  - 229.33
 http://45.188.229.33:8000/play/a1b0/index.m3u8
-#EXTINF:-1  group-title="Sensa" tvg-id="Espn3.ar" tvg-name="Espn3.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO" ,722-Error - ESPN 3 ᴴᴰ  - Sensa
+#EXTINF:-1  group-title="Sensa" tvg-id="Espn3.ar" tvg-name="Espn3.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_3.arg.blanco.svg" ,722-Error - ESPN 3 ᴴᴰ  - Sensa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
@@ -2243,50 +2244,50 @@ http://45.188.229.33:8000/play/a1b0/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
-#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="",723 - ESPN 3 ᴴᴰ  (Brasil) - SatGo
+#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_3.brasil.blanco.svg" ,723 - ESPN 3 ᴴᴰ  (Brasil) - SatGo
 http://streaming.sattvgo.com.br/ESPN3/index.m3u8
-#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="",724 - ESPN 3 ᴴᴰ  (Brasil) - SatGo
+#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_3.brasil.blanco.svg" ,724 - ESPN 3 ᴴᴰ  (Brasil) - SatGo
 http://streaming.sattvgo.com.br/ESPN3_HD/index.m3u8
-#EXTINF:-1  group-title="177.253" tvg-id="" tvg-name="" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO" ,725 - ESPN 3 ᴴᴰ  (Caribe) - 177.253
+#EXTINF:-1  group-title="177.253" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_3.caribe.blanco.svg" ,725 - ESPN 3 ᴴᴰ  (Caribe) - 177.253
 http://181.119.177.253:8000/play/a0cm/index.m3u8
-#EXTINF:-1  group-title="14.26" tvg-id="" tvg-name="" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO" ,726-/4/ - ESPN 3 ᴴᴰ  (Sur) - 14.26
+#EXTINF:-1  group-title="14.26" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_3.sur.blanco.svg" ,726-/4/ - ESPN 3 ᴴᴰ  (Sur) - 14.26
 http://181.78.14.26:4000/play/a02q/index.m3u8
-#EXTINF:-1  group-title="Full.141.161" tvg-id="Espn3.ar" tvg-name="Espn3.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO" ,727 - ESPN 3 ᴴᴰ  (Sur) - Full.141.161
+#EXTINF:-1  group-title="Full.141.161" tvg-id="Espn3.ar" tvg-name="Espn3.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_3.sur.blanco.svg" ,727 - ESPN 3 ᴴᴰ  (Sur) - Full.141.161
 http://45.134.141.161:2200/ARG/ESPN_ARG_3_HD/index.m3u8
-#EXTINF:-1  group-title="108.65" tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3 HD.uy" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO" ,728 - ESPN 3  (Sur) - 108.65
+#EXTINF:-1  group-title="108.65" tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_3.sur.blanco.svg" ,728 - ESPN 3  (Sur) - 108.65
 #EXTVLCOPT:http-user-agent=VLC
 http://209.14.108.65:8000/play/a03v/index.m3u8
-#EXTINF:-1  group-title="195.44" tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3 HD.uy" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO" ,729 - ESPN 3 ᴴᴰ  (Sur) - 195.44
+#EXTINF:-1  group-title="195.44" tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_3.sur.blanco.svg" ,729 - ESPN 3 ᴴᴰ  (Sur) - 195.44
 #EXTVLCOPT:http-user-agent=VLC
 http://38.7.195.44:8000/play/a029
-#EXTINF:-1  group-title="229.33" tvg-id="Espn3.ar" tvg-name="Espn3.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO" ,730 - ESPN 3  (Sur) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="Espn3.ar" tvg-name="Espn3.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_3.sur.blanco.svg" ,730 - ESPN 3  (Sur) - 229.33
 http://45.188.229.33:8000/play/a0wf/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="Espn3.ar" tvg-name="Espn3.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO" ,731 - ESPN 3 ᴴᴰ  (Sur) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="Espn3.ar" tvg-name="Espn3.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_3.sur.blanco.svg" ,731 - ESPN 3 ᴴᴰ  (Sur) - 229.33
 http://45.188.229.33:8000/play/a12v/index.m3u8
-#EXTINF:-1  group-title="37.115" tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3 HD.uy" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO" ,732 - ESPN 3 ᴴᴰ  (Sur) - 37.115
+#EXTINF:-1  group-title="37.115" tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_3.sur.blanco.svg" ,732 - ESPN 3 ᴴᴰ  (Sur) - 37.115
 http://190.60.37.115:8001/play/a0i5/index.m3u8
-#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="",733 - ESPN 4 ᴴᴰ  (Brasil) - SatGo
+#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_4.brasil.blanco.svg" ,733 - ESPN 4 ᴴᴰ  (Brasil) - SatGo
 http://streaming.sattvgo.com.br/ESPN4/index.m3u8
-#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="",734 - ESPN 4 ᴴᴰ  (Brasil) - SatGo
+#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_4.brasil.blanco.svg" ,734 - ESPN 4 ᴴᴰ  (Brasil) - SatGo
 http://streaming.sattvgo.com.br/ESPN4_HD/index.m3u8
-#EXTINF:-1  group-title="177.253" tvg-id="" tvg-name="" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/brasil/espn5.png" ,735 - ESPN 4 ᴴᴰ  (Caribe) - 177.253
+#EXTINF:-1  group-title="177.253" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_4.caribe.blanco.svg" ,735 - ESPN 4 ᴴᴰ  (Caribe) - 177.253
 http://181.119.177.253:8000/play/a022/index.m3u8
-#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="",736 - ESPN 4 ᴴᴰ  (Sur) - F.109.10
+#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_4.sur.blanco.svg" ,736 - ESPN 4 ᴴᴰ  (Sur) - F.109.10
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
-#EXTINF:-1  group-title="14.26" tvg-id="Espn4.ar" tvg-name="Espn4.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/jGyt-p8MW55TcZMkzRBHLw?tags=CH_LOGO" ,737-404 - ESPN 4 ᴴᴰ  (Sur) - 14.26
+#EXTINF:-1  group-title="14.26" tvg-id="Espn4.ar" tvg-name="Espn4.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_4.sur.blanco.svg" ,737 - ESPN 4 ᴴᴰ  (Sur) - 14.26
 http://181.78.14.26:4000/play/a0d2/index.m3u8
-#EXTINF:-1  group-title="195.44" tvg-id="Espn4.ar" tvg-name="Espn4.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/jGyt-p8MW55TcZMkzRBHLw?tags=CH_LOGO" ,738 - ESPN 4 ᴴᴰ  (Sur) - 195.44
+#EXTINF:-1  group-title="195.44" tvg-id="Espn4.ar" tvg-name="Espn4.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_4.sur.blanco.svg" ,738 - ESPN 4 ᴴᴰ  (Sur) - 195.44
 #EXTVLCOPT:http-user-agent=VLC
 http://38.7.195.44:8000/play/a06n
-#EXTINF:-1  group-title="227.20" tvg-id="Espn4.ar" tvg-name="Espn4.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/jGyt-p8MW55TcZMkzRBHLw?tags=CH_LOGO" ,739-404 - ESPN 4  (Sur) - 227.20
+#EXTINF:-1  group-title="227.20" tvg-id="Espn4.ar" tvg-name="Espn4.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_4.sur.blanco.svg" ,739-404 - ESPN 4  (Sur) - 227.20
 http://138.59.227.20:8000/play/a084/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="Espn4.ar" tvg-name="Espn4.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/jGyt-p8MW55TcZMkzRBHLw?tags=CH_LOGO" ,740 - ESPN 4 ᴴᴰ  (Sur) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="Espn4.ar" tvg-name="Espn4.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_4.sur.blanco.svg" ,740 - ESPN 4 ᴴᴰ  (Sur) - 229.33
 http://45.188.229.33:8000/play/a10g/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="Espn4.ar" tvg-name="Espn4.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/jGyt-p8MW55TcZMkzRBHLw?tags=CH_LOGO" ,741 - ESPN 4  (Sur) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="Espn4.ar" tvg-name="Espn4.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_4.sur.blanco.svg" ,741 - ESPN 4  (Sur) - 229.33
 http://45.188.229.33:8000/play/a1dg/index.m3u8
-#EXTINF:-1  group-title="37.115" tvg-id="Espn4.ar" tvg-name="Espn4.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/jGyt-p8MW55TcZMkzRBHLw?tags=CH_LOGO" ,742 - ESPN 4 ᴴᴰ  (Sur) - 37.115
+#EXTINF:-1  group-title="37.115" tvg-id="Espn4.ar" tvg-name="Espn4.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_4.sur.blanco.svg" ,742 - ESPN 4 ᴴᴰ  (Sur) - 37.115
 http://190.60.37.115:8001/play/a0le/index.m3u8
-#EXTINF:-1  group-title="Sensa" tvg-id="Espn4.ar" tvg-name="Espn4.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/jGyt-p8MW55TcZMkzRBHLw?tags=CH_LOGO" ,743 - ESPN 4 ᴴᴰ  (Sur) - Sensa
+#EXTINF:-1  group-title="Sensa" tvg-id="Espn4.ar" tvg-name="Espn4.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_4.sur.blanco.svg" ,743 - ESPN 4 ᴴᴰ  (Sur) - Sensa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
@@ -2294,86 +2295,86 @@ http://190.60.37.115:8001/play/a0le/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd
-#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="",744 - ESPN 5 ᴴᴰ  (Brasil) - SatGo
+#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.brasil.blanco.svg" ,744 - ESPN 5 ᴴᴰ  (Brasil) - SatGo
 http://streaming.sattvgo.com.br/ESPN5/index.m3u8
-#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="",745-404 - ESPN 5  (Brasil) - SatGo
+#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.brasil.blanco.svg" ,745-404 - ESPN 5  (Brasil) - SatGo
 http://streaming.sattvgo.com.br/ESPN5_HD/index.m3u8
-#EXTINF:-1  group-title="177.253" tvg-id="" tvg-name="" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/brasil/espn5.png" ,746 - ESPN 5 ᴴᴰ  (Caribe) - 177.253
+#EXTINF:-1  group-title="177.253" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.caribe.blanco.svg" ,746 - ESPN 5 ᴴᴰ  (Caribe) - 177.253
 http://181.119.177.253:8000/play/a04y/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/brasil/espn5.png" ,747 - ESPN 5  (Chile) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.chile.blanco.svg" ,747 - ESPN 5  (Chile) - 229.33
 http://45.188.229.33:8000/play/a1jy/index.m3u8
-#EXTINF:-1  group-title="108.65" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/brasil/espn5.png" ,748 - ESPN 5  (Sur) - 108.65
+#EXTINF:-1  group-title="108.65" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.sur.blanco.svg" ,748 - ESPN 5  (Sur) - 108.65
 #EXTVLCOPT:http-user-agent=VLC
 http://209.14.108.65:8000/play/a01u/index.m3u8
-#EXTINF:-1  group-title="14.26" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/brasil/espn5.png" ,749 - ESPN 5 ᴴᴰ  (Sur) - 14.26
+#EXTINF:-1  group-title="14.26" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.sur.blanco.svg" ,749 - ESPN 5 ᴴᴰ  (Sur) - 14.26
 http://181.78.14.26:4000/play/a03x/index.m3u8
-#EXTINF:-1  group-title="195.44" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/brasil/espn5.png" ,750 - ESPN 5 ᴴᴰ  (Sur) - 195.44
+#EXTINF:-1  group-title="195.44" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.sur.blanco.svg" ,750 - ESPN 5 ᴴᴰ  (Sur) - 195.44
 #EXTVLCOPT:http-user-agent=VLC
 http://38.7.195.44:8000/play/a024
-#EXTINF:-1  group-title="229.33" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/brasil/espn5.png" ,751 - ESPN 5 ᴴᴰ  (Sur) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.sur.blanco.svg" ,751 - ESPN 5 ᴴᴰ  (Sur) - 229.33
 http://45.188.229.33:8000/play/a12n/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/brasil/espn5.png" ,752 - ESPN 5  (Sur) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.sur.blanco.svg" ,752 - ESPN 5  (Sur) - 229.33
 http://45.188.229.33:8000/play/a1k9/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/brasil/espn5.png" ,753 - ESPN 5  (Sur) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.sur.blanco.svg" ,753 - ESPN 5  (Sur) - 229.33
 http://45.188.229.33:8000/play/a1kz/index.m3u8
-#EXTINF:-1  group-title="37.115" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/brasil/espn5.png" ,754 - ESPN 5  (Sur) - 37.115
+#EXTINF:-1  group-title="37.115" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.sur.blanco.svg" ,754 - ESPN 5  (Sur) - 37.115
 http://190.60.37.115:8001/play/a0i2/index.m3u8
-#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="",755 - ESPN 5 ᴴᴰ  (Sur) - F.109.10
+#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.sur.blanco.svg" ,755 - ESPN 5 ᴴᴰ  (Sur) - F.109.10
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8
-#EXTINF:-1  group-title="Full.141.161" tvg-id="" tvg-name="",756 - ESPN 5  (Sur) - Full.141.161
+#EXTINF:-1  group-title="Full.141.161" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.sur.blanco.svg" ,756 - ESPN 5  (Sur) - Full.141.161
 http://45.134.141.161:2200/ARG/ESPN_5_HD/index.m3u8
-#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="",757 - ESPN 6  (Brasil) - SatGo
+#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.brasil.blanco.svg" ,757 - ESPN 6  (Brasil) - SatGo
 http://streaming.sattvgo.com.br/ESPN6/index.m3u8
-#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="",758-404 - ESPN 6  (Brasil) - SatGo
+#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.brasil.blanco.svg" ,758-404 - ESPN 6  (Brasil) - SatGo
 http://streaming.sattvgo.com.br/ESPN6_HD/index.m3u8
-#EXTINF:-1  group-title="177.253" tvg-id="" tvg-name="" tvg-logo="https://americatvguide.com/img/cl/logo/espn-6.webp" ,759 - ESPN 6  (Caribe) - 177.253
+#EXTINF:-1  group-title="177.253" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.caribe.blanco.svg" ,759 - ESPN 6  (Caribe) - 177.253
 http://181.119.177.253:8000/play/a0cn/index.m3u8
-#EXTINF:-1  group-title="108.65" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://americatvguide.com/img/cl/logo/espn-6.webp" ,760 - ESPN 6  (Sur) - 108.65
+#EXTINF:-1  group-title="108.65" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,760 - ESPN 6  (Sur) - 108.65
 #EXTVLCOPT:http-user-agent=VLC
 http://209.14.108.65:8000/play/a01i/index.m3u8
-#EXTINF:-1  group-title="14.26" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://americatvguide.com/img/cl/logo/espn-6.webp" ,761 - ESPN 6  (Sur) - 14.26
+#EXTINF:-1  group-title="14.26" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,761 - ESPN 6  (Sur) - 14.26
 http://181.78.14.26:4000/play/a03y/index.m3u8
-#EXTINF:-1  group-title="195.44" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://americatvguide.com/img/cl/logo/espn-6.webp" ,762 - ESPN 6  (Sur) - 195.44
+#EXTINF:-1  group-title="195.44" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,762 - ESPN 6  (Sur) - 195.44
 #EXTVLCOPT:http-user-agent=VLC
 http://38.7.195.44:8000/play/a01z
-#EXTINF:-1  group-title="195.44" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://americatvguide.com/img/cl/logo/espn-6.webp" ,763 - ESPN 6  (Sur) - 195.44
+#EXTINF:-1  group-title="195.44" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,763 - ESPN 6  (Sur) - 195.44
 #EXTVLCOPT:http-user-agent=VLC
 http://38.7.195.44:8000/play/a0ad
-#EXTINF:-1  group-title="229.33" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://americatvguide.com/img/cl/logo/espn-6.webp" ,764 - ESPN 6  (Sur) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,764 - ESPN 6  (Sur) - 229.33
 http://45.188.229.33:8000/play/a12h/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://americatvguide.com/img/cl/logo/espn-6.webp" ,765 - ESPN 6  (Sur) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,765 - ESPN 6  (Sur) - 229.33
 http://45.188.229.33:8000/play/a191/index.m3u8
-#EXTINF:-1  group-title="37.115" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://americatvguide.com/img/cl/logo/espn-6.webp" ,766 - ESPN 6  (Sur) - 37.115
+#EXTINF:-1  group-title="37.115" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,766 - ESPN 6  (Sur) - 37.115
 http://190.60.37.115:8001/play/a0i0/index.m3u8
-#EXTINF:-1  group-title="Full.141.161" tvg-id="" tvg-name="",767 - ESPN 6  (Sur) - Full.141.161
+#EXTINF:-1  group-title="Full.141.161" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,767 - ESPN 6  (Sur) - Full.141.161
 http://45.134.141.161:2200/ARG/ESPN_6_HD/index.m3u8
-#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="",768 - ESPN 6 ᴴᴰ  () - F.109.10
+#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,768 - ESPN 6 ᴴᴰ  () - F.109.10
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
-#EXTINF:-1  group-title="108.65" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://americatvguide.com/img/cl/logo/espn-7.webp" ,769 - ESPN 7  (Sur) - 108.65
+#EXTINF:-1  group-title="108.65" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,769 - ESPN 7  (Sur) - 108.65
 #EXTVLCOPT:http-user-agent=VLC
 http://209.14.108.65:8000/play/a01h/index.m3u8
-#EXTINF:-1  group-title="14.26" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://americatvguide.com/img/cl/logo/espn-7.webp" ,770 - ESPN 7  (Sur) - 14.26
+#EXTINF:-1  group-title="14.26" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,770 - ESPN 7  (Sur) - 14.26
 http://181.78.14.26:4000/play/a042/index.m3u8
-#EXTINF:-1  group-title="195.44" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://americatvguide.com/img/cl/logo/espn-7.webp" ,771 - ESPN 7  (Sur) - 195.44
+#EXTINF:-1  group-title="195.44" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,771 - ESPN 7  (Sur) - 195.44
 #EXTVLCOPT:http-user-agent=VLC
 http://38.7.195.44:8000/play/a014
-#EXTINF:-1  group-title="229.33" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://americatvguide.com/img/cl/logo/espn-7.webp" ,772 - ESPN 7  (Sur) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,772 - ESPN 7  (Sur) - 229.33
 http://45.188.229.33:8000/play/a190/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://americatvguide.com/img/cl/logo/espn-7.webp" ,773 - ESPN 7  (Sur) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,773 - ESPN 7  (Sur) - 229.33
 http://45.188.229.33:8000/play/a1ey/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://americatvguide.com/img/cl/logo/espn-7.webp" ,774 - ESPN 7  (Sur) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,774 - ESPN 7  (Sur) - 229.33
 http://45.188.229.33:8000/play/a1j0/index.m3u8
-#EXTINF:-1  group-title="37.115" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://americatvguide.com/img/cl/logo/espn-7.webp" ,775 - ESPN 7  (Sur) - 37.115
+#EXTINF:-1  group-title="37.115" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,775 - ESPN 7  (Sur) - 37.115
 http://190.60.37.115:8001/play/a0l7/index.m3u8
-#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="",776 - ESPN 7 ᴴᴰ  () - F.109.10
+#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,776 - ESPN 7 ᴴᴰ  () - F.109.10
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
-#EXTINF:-1  group-title="227.20" tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,777 - ESPN Premium  - 227.20
+#EXTINF:-1  group-title="227.20" tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.arg.blanco.svg" ,777 - ESPN Premium  - 227.20
 http://138.59.227.20:8000/play/a086/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,778 - ESPN Premium  - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.arg.blanco.svg" ,778 - ESPN Premium  - 229.33
 http://45.188.229.33:8000/play/a1di/index.m3u8
-#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="",779 - ESPN Premium ᴴᴰ  - F.109.10
+#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.arg.blanco.svg" ,779 - ESPN Premium ᴴᴰ  - F.109.10
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
-#EXTINF:-1  group-title="Sensa" tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,780 - ESPN Premium ᴴᴰ  - Sensa
+#EXTINF:-1  group-title="Sensa" tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.arg.blanco.svg" ,780 - ESPN Premium ᴴᴰ  - Sensa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
@@ -2381,7 +2382,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
-#EXTINF:-1  group-title="Sensa" tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,781 - ESPN Premium ᴴᴰ  - Sensa
+#EXTINF:-1  group-title="Sensa" tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.arg.blanco.svg" ,781 - ESPN Premium ᴴᴰ  - Sensa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
@@ -2389,18 +2390,18 @@ https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd
-#EXTINF:-1  group-title="108.65" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,782 - ESPN Premium  (Chile) - 108.65
+#EXTINF:-1  group-title="108.65" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.chile.blanco.svg" ,782 - ESPN Premium  (Chile) - 108.65
 http://209.14.108.65:8000/play/a09f/index.m3u8
-#EXTINF:-1  group-title="195.44" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,783 - ESPN Premium  (Chile) - 195.44
+#EXTINF:-1  group-title="195.44" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.chile.blanco.svg" ,783 - ESPN Premium  (Chile) - 195.44
 #EXTVLCOPT:http-user-agent=VLC
 http://38.7.195.44:8000/play/a04g
-#EXTINF:-1  group-title="229.33" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,784 - ESPN Premium  (Chile) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.chile.blanco.svg" ,784 - ESPN Premium  (Chile) - 229.33
 http://45.188.229.33:8000/play/a0tv/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,785 - ESPN Premium  (Chile) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.chile.blanco.svg" ,785 - ESPN Premium  (Chile) - 229.33
 http://45.188.229.33:8000/play/a13l/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,786 - ESPN Premium  (Chile) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.chile.blanco.svg" ,786 - ESPN Premium  (Chile) - 229.33
 http://45.188.229.33:8000/play/a1l4/index.m3u8
-#EXTINF:-1  group-title="37.115" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951_t-290x163.png" ,787 - ESPN Premium  (Chile) - 37.115
+#EXTINF:-1  group-title="37.115" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.chile.blanco.svg" ,787 - ESPN Premium  (Chile) - 37.115
 http://190.60.37.115:8001/play/a0ia/index.m3u8
 #EXTINF:-1  group-title="OttEra" tvg-id="" tvg-name="" tvg-logo="https://static.wixstatic.com/media/0d7284_fcb7cccb80b142af82255090976b8ada~mv2.png/v1/fill/w_531,h_206,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/MC_Relax_Main.png" ,788 - ESSENTIAL RELAX 1 ᴴᴰ  - OttEra
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15788
