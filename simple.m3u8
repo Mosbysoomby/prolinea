@@ -7,6 +7,7 @@
 
 
 
+
 #EXTINF:-1  group-title="Propio" tvg-id="Canal20.ar" tvg-name="Canal20.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.corrientes.13max.svg" ,1 - 13 MAX ᴴᴰ  (Corrientes - Ciudad) - Propio
 #EXTVLCOPT:http-referrer=https://www.13maxtv.com/
 #EXTVLCOPT:http-origin=https://www.13maxtv.com/
@@ -1739,13 +1740,13 @@ https://cdn.sensa.com.ar/live/sta01/Dnews/live_dash_cld/Dnews.mpd
 http://181.78.14.26:4000/play/a047/index.m3u8
 #EXTINF:-1  group-title="Full.141.161" tvg-id="" tvg-name="" tvg-logo="https://staticm11.app.flow.com.ar/images/content/600/400/6l_DEbSF66b1Bt6_TpqjhQ?tags=CH_LOGO" ,576 - Dreamworks Channel  - Full.141.161
 http://45.134.141.161:2200/ARG/Dreamworks_HD/index.m3u8
-#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/l/o/logo-directv-sports_4x3_final.png" ,577 - Dsports ᴴᴰ  - Nitro CDN
+#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DSports.arg.v1.blanco.v1.svg" ,577 - Dsports ᴴᴰ  - Nitro CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","45bbd582f220f438f896450d8306a3f2":"582c6ba7f64bbc0f2d91c6b0c265760c"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/l/o/logo-directv-sports_4x3_final.png" ,578 - DSports ᴴᴰ  (Chile) - Nitro CDN
+#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy",578 - DSports ᴴᴰ  (Chile) - Nitro CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=415eb477052aa42d010768d57cc9535a&keyid=62f9e095e872d430b931b6ad35be2168
@@ -1753,16 +1754,16 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf
 #EXTVLCOPT:http-origin=https://www.paramountplus.com/
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cardt9ai8g/out/v1/a85c58beee18435e82a57a0fb9d2f681/cenc.mpd
-#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/l/o/logo-directv-sports_4x3_final.png" ,579 - DSports ᴴᴰ  (Colombia) - Nitro CDN
+#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy",579 - DSports ᴴᴰ  (Colombia) - Nitro CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c432184d1ab00475aded5731162d99b7:5f361ae2b35dcb415fe612ea7e85ed9d
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/out/v1/4ef0db80aa3341e2babb58314541f1e0/cenc.mpd|User-Agent=AivAndroidPlayer/1.0 (AndroidDevice)&Referer=https://www.primevideo.com/
-#EXTINF:-1  group-title="229.33" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/l/o/logo-directv-sports_4x3_final.png" ,580 - Dsports  (Sur) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy",580 - Dsports  (Sur) - 229.33
 http://45.188.229.33:8000/play/a1iw/index.m3u8
-#EXTINF:-1  group-title="AMZ CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/l/o/logo-directv-sports_4x3_final.png" ,581 - DSports  (Sur) - AMZ CDN
+#EXTINF:-1  group-title="AMZ CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy",581 - DSports  (Sur) - AMZ CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13129171e9303da3a31dd7b583f7f41c:dc4844c309c47baf996f267cda324d61
@@ -1770,7 +1771,7 @@ http://45.188.229.33:8000/play/a1iw/index.m3u8
 #EXTVLCOPT:http-origin=https://android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0%20(Android;%20Android%207.1.2;%20Asus;%20ASUS_Z01QD)%20ExoPlayer/2.19.1
 https://1cf44b5bdec84b56bd4ec71e0cbf33de.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1057/1057_DIRECTV_SPORTS_ARG_DASH/manifest.mpd
-#EXTINF:-1  group-title="AMZ CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/l/o/logo-directv-sports_4x3_final.png" ,582 - Dsports  (Uruguay) - AMZ CDN
+#EXTINF:-1  group-title="AMZ CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy",582 - Dsports  (Uruguay) - AMZ CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mundodeportes.online/pandatv/flow/keys.php?key=5d75d58fac3ba91e20a024b268ac964f&keyid=d07dd2d8456e3b59acf9ae00379b8bfa
@@ -1778,7 +1779,7 @@ https://1cf44b5bdec84b56bd4ec71e0cbf33de.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:http-origin=https://android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0%20(Android;%20Android%207.1.2;%20Asus;%20ASUS_Z01QD)%20ExoPlayer/2.19.1
 https://099ed2f3014c41e78f3c7bc29b21bc11.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1062/1062_DIRECTV_SPORTS_URU_DASH/manifest.mpd
-#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/l/o/logo-directv-sports_4x3_final.png" ,583 - Dsports ᴴᴰ  (Venezuela) - Nitro CDN
+#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy",583 - Dsports ᴴᴰ  (Venezuela) - Nitro CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=afad49d20eb39670e93e371c1d669921&keyid=f8b207c10f3f76aeba32a360ec52b9e4
@@ -1786,14 +1787,14 @@ https://099ed2f3014c41e78f3c7bc29b21bc11.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:http-origin=https://www.paramountplus.com/
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd|User-Agent=AivAndroidPlayer/1.0 (AndroidDevice)&Referer=https://www.primevideo.com/
-#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsPlus.uy" tvg-name="DSportsPlus.uy" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/6/1/613_blanco2.png" ,584 - Dsports + ᴴᴰ  - Nitro CDN
+#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsPlus.uy" tvg-name="DSportsPlus.uy",584 - Dsports + ᴴᴰ  - Nitro CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=3f8d519997196db76631dd4b427f53f6&keyid=da81f7165f73c884fc1dcf0bf3bd4bb5
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd|User-Agent=AivAndroidPlayer/1.0 (AndroidDevice)&Referer=https://www.primevideo.com/
-#EXTINF:-1  group-title="Param+" tvg-id="DSportsPlus.uy" tvg-name="DSportsPlus.uy" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/6/1/613_blanco2.png" ,585 - Dsports +  - Param+
+#EXTINF:-1  group-title="Param+" tvg-id="DSportsPlus.uy" tvg-name="DSportsPlus.uy",585 - Dsports +  - Param+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
@@ -1801,7 +1802,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hoo4ddqavw/
 #EXTVLCOPT:http-origin=https://www.paramountplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
-#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsPlus.uy" tvg-name="DSportsPlus.uy" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/6/1/613_blanco2.png" ,586 - Dsports + ᴴᴰ  (Chile) - Nitro CDN
+#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsPlus.uy" tvg-name="DSportsPlus.uy",586 - Dsports + ᴴᴰ  (Chile) - Nitro CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ddfd7ca653d6f35543d8edb3c688e20f&keyid%5B%5D=83f81c4cc1443991543de4e22eea7586
@@ -1809,7 +1810,7 @@ https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37
 #EXTVLCOPT:http-origin=https://www.paramountplus.com/
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|Referer=https://www.primevideo.com/&User-Agent=AivAndroidPlayer/1.0 (AndroidDevice)
-#EXTINF:-1  group-title="AMZ CDN" tvg-id="DSportsPlus.uy" tvg-name="DSportsPlus.uy" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/6/1/613_blanco2.png" ,587-DRM ERROR - DSports +  (Sur) - AMZ CDN
+#EXTINF:-1  group-title="AMZ CDN" tvg-id="DSportsPlus.uy" tvg-name="DSportsPlus.uy",587-DRM ERROR - DSports +  (Sur) - AMZ CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7dbd6af5e0e530919642f53f4b9af775:48d7040d3c5edf52115fd0b2ede3bdb0
@@ -1817,9 +1818,9 @@ http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/26
 #EXTVLCOPT:http-origin=https://android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0%20(Android;%20Android%207.1.2;%20Asus;%20ASUS_Z01QD)%20ExoPlayer/2.19.1
 https://b5cce558f58c4843a8264d282ebce3ec.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1071/1071_DIRECTV_SPORTS_HD_DASH/manifest.mpd
-#EXTINF:-1  group-title="229.33" tvg-id="DSports2.uy" tvg-name="DSports2.uy" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/d/i/directv_sports2.png" ,588 - Dsports 2  - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="DSports2.uy" tvg-name="DSports2.uy",588 - Dsports 2  - 229.33
 http://45.188.229.33:8000/play/a1ix/index.m3u8
-#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSports2.uy" tvg-name="DSports2.uy" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/d/i/directv_sports2.png" ,589 - Dsports 2 ᴴᴰ  - Nitro CDN
+#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSports2.uy" tvg-name="DSports2.uy",589 - Dsports 2 ᴴᴰ  - Nitro CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=c664b811a97edc555da47c1d22482542&keyid=0db71325e4256f5f16b348b3b1b7832a
@@ -1827,7 +1828,7 @@ http://45.188.229.33:8000/play/a1ix/index.m3u8
 #EXTVLCOPT:http-origin=https://android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd|User-Agent=AivAndroidPlayer/1.0 (AndroidDevice)&Referer=https://www.primevideo.com/
-#EXTINF:-1  group-title="Param+" tvg-id="DSports2.uy" tvg-name="DSports2.uy" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/d/i/directv_sports2.png" ,590 - Dsports 2  - Param+
+#EXTINF:-1  group-title="Param+" tvg-id="DSports2.uy" tvg-name="DSports2.uy",590 - Dsports 2  - Param+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=010b4fa338184f52a712121ad62ae9b4:e310bad2a570b60f7799e2aa0fb33a71
@@ -1835,7 +1836,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nzl2d4ffbw/
 #EXTVLCOPT:http-origin=https://www.paramountplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a463f9d5/manifest.mpd
-#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSports2.uy" tvg-name="DSports2.uy" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/d/i/directv_sports2.png" ,591 - Dsports 2 ᴴᴰ  (Chile) - Nitro CDN
+#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSports2.uy" tvg-name="DSports2.uy",591 - Dsports 2 ᴴᴰ  (Chile) - Nitro CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=ea07b87acdf2e45be824cde4a1cf3504&keyid%5B%5D=03f12d6a3dbfd3a6fa7dd7f6417e0c11
@@ -1843,7 +1844,7 @@ https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a
 #EXTVLCOPT:http-origin=https://www.paramountplus.com/
 #EXTVLCOPT:http-user-agent=AivAndroidPlayer/1.0 (AndroidDevice)
 http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|Referer=https://www.primevideo.com/&User-Agent=AivAndroidPlayer/1.0 (AndroidDevice)
-#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/l/o/logo-directv-sports_4x3_final.png" ,592 - DSports HD ᴴᴰ  - Nitro CDN
+#EXTINF:-1  group-title="Nitro CDN" tvg-id="DSportsArgentina.uy" tvg-name="DSportsArgentina.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DSports.arg.v2.blanco.v1.svg" ,592 - DSports ᴴᴰ  - Nitro CDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/selvanegra/results.php?key=278128004fe8c6ffb2cd2a0c154a241a&keyid=4f4c3a9912ea752e88f4497864a1bc8b
@@ -2140,9 +2141,7 @@ http://138.59.227.20:8000/play/a099/index.m3u8
 http://45.188.229.33:8000/play/a1ac/index.m3u8
 #EXTINF:-1  group-title="229.33" tvg-id="Espn.ar" tvg-name="Espn.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_arg.blanco.svg" ,682-404 - ESPN  - 229.33
 http://45.188.229.33:8000/play/a1az/index.m3u8
-#EXTINF:-1  group-title="Full.141.161" tvg-id="Espn.ar" tvg-name="Espn.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_chile.blanco.svg" ,683 - ESPN ᴴᴰ  (Chile) - Full.141.161
-http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/index.m3u8
-#EXTINF:-1  group-title="Sensa" tvg-id="Espn.ar" tvg-name="Espn.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_arg.blanco.svg" ,684 - ESPN ᴴᴰ  - Sensa
+#EXTINF:-1  group-title="Sensa" tvg-id="Espn.ar" tvg-name="Espn.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_arg.blanco.svg" ,683 - ESPN ᴴᴰ  - Sensa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
@@ -2150,12 +2149,14 @@ http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
-#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_brasil.blanco.svg" ,685 - ESPN ᴴᴰ  (Brasil) - SatGo
+#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_brasil.blanco.svg" ,684 - ESPN ᴴᴰ  (Brasil) - SatGo
 http://streaming.sattvgo.com.br/ESPN_HD/index.m3u8
-#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_brasil.blanco.svg" ,686 - ESPN ᴴᴰ  (Brasil) - SatGo
+#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_brasil.blanco.svg" ,685 - ESPN ᴴᴰ  (Brasil) - SatGo
 http://streaming.sattvgo.com.br/ESPN1/index.m3u8
-#EXTINF:-1  group-title="177.253" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_caribe.blanco.svg" ,687 - ESPN ᴴᴰ  (Caribe) - 177.253
+#EXTINF:-1  group-title="177.253" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_caribe.blanco.svg" ,686 - ESPN ᴴᴰ  (Caribe) - 177.253
 http://181.119.177.253:8000/play/a0ck/index.m3u8
+#EXTINF:-1  group-title="Full.141.161" tvg-id="Espn.ar" tvg-name="Espn.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_chile.blanco.svg" ,687 - ESPN ᴴᴰ  (Chile) - Full.141.161
+http://45.134.141.161:2200/ARG/ESPN_ARG_1_HD/index.m3u8
 #EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_chile.blanco.svg" ,688 - ESPN ᴴᴰ  (Chile) - F.109.10
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
 #EXTINF:-1  group-title="108.65" tvg-id="ESPN HD.cl" tvg-name="ESPN HD.cl" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_1_chile.blanco.svg" ,689 - ESPN  (Chile) - 108.65
@@ -2185,7 +2186,7 @@ http://190.60.37.115:8001/play/a0gf/index.m3u8
 http://181.78.14.26:4000/play/a009/index.m3u8
 #EXTINF:-1  group-title="14.26" tvg-id="" tvg-name="",700-404 - ESPN 2  (?) - 14.26
 http://181.78.14.26:4000/play/a02p/index.m3u8
-#EXTINF:-1  group-title="227.20" tvg-id="Espn2.ar" tvg-name="Espn2.ar",701-404 - ESPN 2  (?) - 227.20
+#EXTINF:-1  group-title="227.20" tvg-id="Espn2.ar" tvg-name="Espn2.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_arg.blanco.svg" ,701 - ESPN 2 ᴴᴰ  - 227.20
 http://138.59.227.20:8000/play/a098/index.m3u8
 #EXTINF:-1  group-title="229.33" tvg-id="Espn2.ar" tvg-name="Espn2.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_2_arg.blanco.svg" ,702 - ESPN 2 ᴴᴰ  - 229.33
 http://45.188.229.33:8000/play/a1ab/index.m3u8
@@ -2287,7 +2288,7 @@ http://45.188.229.33:8000/play/a10g/index.m3u8
 http://45.188.229.33:8000/play/a1dg/index.m3u8
 #EXTINF:-1  group-title="37.115" tvg-id="Espn4.ar" tvg-name="Espn4.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_4.sur.blanco.svg" ,742 - ESPN 4 ᴴᴰ  (Sur) - 37.115
 http://190.60.37.115:8001/play/a0le/index.m3u8
-#EXTINF:-1  group-title="Sensa" tvg-id="Espn4.ar" tvg-name="Espn4.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_4.sur.blanco.svg" ,743 - ESPN 4 ᴴᴰ  (Sur) - Sensa
+#EXTINF:-1  group-title="Sensa" tvg-id="Espn4.ar" tvg-name="Espn4.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_4.sur.blanco.svg" ,743 - ESPN 4 ᴴᴰ  - Sensa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
@@ -2317,64 +2318,62 @@ http://45.188.229.33:8000/play/a12n/index.m3u8
 http://45.188.229.33:8000/play/a1k9/index.m3u8
 #EXTINF:-1  group-title="229.33" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.sur.blanco.svg" ,753 - ESPN 5  (Sur) - 229.33
 http://45.188.229.33:8000/play/a1kz/index.m3u8
-#EXTINF:-1  group-title="37.115" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.sur.blanco.svg" ,754 - ESPN 5  (Sur) - 37.115
+#EXTINF:-1  group-title="37.115" tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.sur.blanco.svg" ,754 - ESPN 5 ᴴᴰ  (Sur) - 37.115
 http://190.60.37.115:8001/play/a0i2/index.m3u8
 #EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.sur.blanco.svg" ,755 - ESPN 5 ᴴᴰ  (Sur) - F.109.10
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8
-#EXTINF:-1  group-title="Full.141.161" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.sur.blanco.svg" ,756 - ESPN 5  (Sur) - Full.141.161
+#EXTINF:-1  group-title="Full.141.161" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_5.sur.blanco.svg" ,756 - ESPN 5 ᴴᴰ  (Sur) - Full.141.161
 http://45.134.141.161:2200/ARG/ESPN_5_HD/index.m3u8
-#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.brasil.blanco.svg" ,757 - ESPN 6  (Brasil) - SatGo
+#EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.brasil.blanco.svg" ,757 - ESPN 6 ᴴᴰ  (Brasil) - SatGo
 http://streaming.sattvgo.com.br/ESPN6/index.m3u8
 #EXTINF:-1  group-title="SatGo" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.brasil.blanco.svg" ,758-404 - ESPN 6  (Brasil) - SatGo
 http://streaming.sattvgo.com.br/ESPN6_HD/index.m3u8
-#EXTINF:-1  group-title="177.253" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.caribe.blanco.svg" ,759 - ESPN 6  (Caribe) - 177.253
+#EXTINF:-1  group-title="177.253" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.caribe.blanco.svg" ,759 - ESPN 6 ᴴᴰ  (Caribe) - 177.253
 http://181.119.177.253:8000/play/a0cn/index.m3u8
 #EXTINF:-1  group-title="108.65" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,760 - ESPN 6  (Sur) - 108.65
 #EXTVLCOPT:http-user-agent=VLC
 http://209.14.108.65:8000/play/a01i/index.m3u8
-#EXTINF:-1  group-title="14.26" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,761 - ESPN 6  (Sur) - 14.26
+#EXTINF:-1  group-title="14.26" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,761 - ESPN 6 ᴴᴰ  (Sur) - 14.26
 http://181.78.14.26:4000/play/a03y/index.m3u8
-#EXTINF:-1  group-title="195.44" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,762 - ESPN 6  (Sur) - 195.44
+#EXTINF:-1  group-title="195.44" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,762 - ESPN 6 ᴴᴰ  (Sur) - 195.44
 #EXTVLCOPT:http-user-agent=VLC
 http://38.7.195.44:8000/play/a01z
-#EXTINF:-1  group-title="195.44" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,763 - ESPN 6  (Sur) - 195.44
+#EXTINF:-1  group-title="195.44" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,763 - ESPN 6 ᴴᴰ  (Sur) - 195.44
 #EXTVLCOPT:http-user-agent=VLC
 http://38.7.195.44:8000/play/a0ad
-#EXTINF:-1  group-title="229.33" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,764 - ESPN 6  (Sur) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,764 - ESPN 6 ᴴᴰ  (Sur) - 229.33
 http://45.188.229.33:8000/play/a12h/index.m3u8
 #EXTINF:-1  group-title="229.33" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,765 - ESPN 6  (Sur) - 229.33
 http://45.188.229.33:8000/play/a191/index.m3u8
-#EXTINF:-1  group-title="37.115" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,766 - ESPN 6  (Sur) - 37.115
+#EXTINF:-1  group-title="37.115" tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,766 - ESPN 6 ᴴᴰ  (Sur) - 37.115
 http://190.60.37.115:8001/play/a0i0/index.m3u8
-#EXTINF:-1  group-title="Full.141.161" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,767 - ESPN 6  (Sur) - Full.141.161
+#EXTINF:-1  group-title="Full.141.161" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,767 - ESPN 6 ᴴᴰ  (Sur) - Full.141.161
 http://45.134.141.161:2200/ARG/ESPN_6_HD/index.m3u8
-#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,768 - ESPN 6 ᴴᴰ  () - F.109.10
+#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_6.sur.blanco.svg" ,768 - ESPN 6 ᴴᴰ  (Sur) - F.109.10
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
 #EXTINF:-1  group-title="108.65" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,769 - ESPN 7  (Sur) - 108.65
 #EXTVLCOPT:http-user-agent=VLC
 http://209.14.108.65:8000/play/a01h/index.m3u8
-#EXTINF:-1  group-title="14.26" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,770 - ESPN 7  (Sur) - 14.26
+#EXTINF:-1  group-title="14.26" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,770 - ESPN 7 ᴴᴰ  (Sur) - 14.26
 http://181.78.14.26:4000/play/a042/index.m3u8
-#EXTINF:-1  group-title="195.44" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,771 - ESPN 7  (Sur) - 195.44
+#EXTINF:-1  group-title="195.44" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,771 - ESPN 7 ᴴᴰ  (Sur) - 195.44
 #EXTVLCOPT:http-user-agent=VLC
 http://38.7.195.44:8000/play/a014
 #EXTINF:-1  group-title="229.33" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,772 - ESPN 7  (Sur) - 229.33
 http://45.188.229.33:8000/play/a190/index.m3u8
 #EXTINF:-1  group-title="229.33" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,773 - ESPN 7  (Sur) - 229.33
 http://45.188.229.33:8000/play/a1ey/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,774 - ESPN 7  (Sur) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,774 - ESPN 7 ᴴᴰ  (Sur) - 229.33
 http://45.188.229.33:8000/play/a1j0/index.m3u8
-#EXTINF:-1  group-title="37.115" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,775 - ESPN 7  (Sur) - 37.115
+#EXTINF:-1  group-title="37.115" tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,775 - ESPN 7 ᴴᴰ  (Sur) - 37.115
 http://190.60.37.115:8001/play/a0l7/index.m3u8
-#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,776 - ESPN 7 ᴴᴰ  () - F.109.10
+#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_7.sur.blanco.svg" ,776 - ESPN 7 ᴴᴰ  (Sur) - F.109.10
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
-#EXTINF:-1  group-title="227.20" tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.arg.blanco.svg" ,777 - ESPN Premium  - 227.20
+#EXTINF:-1  group-title="227.20" tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.arg.blanco.svg" ,777 - ESPN Premium ᴴᴰ  - 227.20
 http://138.59.227.20:8000/play/a086/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.arg.blanco.svg" ,778 - ESPN Premium  - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.arg.blanco.svg" ,778 - ESPN Premium ᴴᴰ  - 229.33
 http://45.188.229.33:8000/play/a1di/index.m3u8
-#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.arg.blanco.svg" ,779 - ESPN Premium ᴴᴰ  - F.109.10
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
-#EXTINF:-1  group-title="Sensa" tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.arg.blanco.svg" ,780 - ESPN Premium ᴴᴰ  - Sensa
+#EXTINF:-1  group-title="Sensa" tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.arg.blanco.svg" ,779 - ESPN Premium ᴴᴰ  - Sensa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
@@ -2382,7 +2381,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
-#EXTINF:-1  group-title="Sensa" tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.arg.blanco.svg" ,781 - ESPN Premium ᴴᴰ  - Sensa
+#EXTINF:-1  group-title="Sensa" tvg-id="EspnPremium.ar" tvg-name="EspnPremium.ar" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.arg.blanco.svg" ,780 - ESPN Premium ᴴᴰ  - Sensa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
@@ -2390,18 +2389,20 @@ https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd
+#EXTINF:-1  group-title="F.109.10" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.arg.blanco.svg" ,781 - ESPN Premium ᴴᴰ  (Chile) - F.109.10
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
 #EXTINF:-1  group-title="108.65" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.chile.blanco.svg" ,782 - ESPN Premium  (Chile) - 108.65
 http://209.14.108.65:8000/play/a09f/index.m3u8
-#EXTINF:-1  group-title="195.44" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.chile.blanco.svg" ,783 - ESPN Premium  (Chile) - 195.44
+#EXTINF:-1  group-title="195.44" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.chile.blanco.svg" ,783 - ESPN Premium ᴴᴰ  (Chile) - 195.44
 #EXTVLCOPT:http-user-agent=VLC
 http://38.7.195.44:8000/play/a04g
 #EXTINF:-1  group-title="229.33" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.chile.blanco.svg" ,784 - ESPN Premium  (Chile) - 229.33
 http://45.188.229.33:8000/play/a0tv/index.m3u8
-#EXTINF:-1  group-title="229.33" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.chile.blanco.svg" ,785 - ESPN Premium  (Chile) - 229.33
+#EXTINF:-1  group-title="229.33" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.chile.blanco.svg" ,785 - ESPN Premium ᴴᴰ  (Chile) - 229.33
 http://45.188.229.33:8000/play/a13l/index.m3u8
 #EXTINF:-1  group-title="229.33" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.chile.blanco.svg" ,786 - ESPN Premium  (Chile) - 229.33
 http://45.188.229.33:8000/play/a1l4/index.m3u8
-#EXTINF:-1  group-title="37.115" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.chile.blanco.svg" ,787 - ESPN Premium  (Chile) - 37.115
+#EXTINF:-1  group-title="37.115" tvg-id="ESPN Premium HD.cl" tvg-name="ESPN Premium HD.cl" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/ESPN_Premium.chile.blanco.svg" ,787 - ESPN Premium ᴴᴰ  (Chile) - 37.115
 http://190.60.37.115:8001/play/a0ia/index.m3u8
 #EXTINF:-1  group-title="OttEra" tvg-id="" tvg-name="" tvg-logo="https://static.wixstatic.com/media/0d7284_fcb7cccb80b142af82255090976b8ada~mv2.png/v1/fill/w_531,h_206,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/MC_Relax_Main.png" ,788 - ESSENTIAL RELAX 1 ᴴᴰ  - OttEra
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15788
