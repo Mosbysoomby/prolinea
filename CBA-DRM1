@@ -374,8 +374,6 @@ https://g2.mc-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Play
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd
-#EXTINF:-1 tvg-chno="64" group-title="Variedad Argentina" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.metro.blanco.h.250.png"  ,Metro
-http://138.59.227.20:8000/play/a06l/index.m3u8
 #EXTINF:-1 tvg-chno="66" group-title="Variedad Argentina"  tvg-id="NetTV.ar" tvg-name="NetTV.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/4646/4646_t-290x163.png"  ,Net TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://5900.tv/
 #EXTVLCOPT:http-origin=https://5900.tv/
@@ -884,6 +882,8 @@ https://cdn.sensa.com.ar/live/eds/StarChannel/live_dash_cld/StarChannel.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://cdn.sensa.com.ar/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd
+#EXTINF:-1 tvg-chno="217" group-title="Cine y Series" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTAR.png?raw=true"  ,TNT ᴴᴰ
+http://45.188.229.33:8000/play/a1dn/index.m3u8
 #EXTINF:-1 tvg-chno="218" group-title="Cine y Series"  tvg-id="TNTSeries.ar" tvg-name="TNTSeries.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSE.png?raw=true"  ,TNT Series ᴴᴰ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -994,6 +994,8 @@ http://38.7.195.44:8000/play/a0ce
 #KODIPROP:inputstream.adaptive.license_key=391ad12844fdb7c127e2c7ba23582b3b:6c9b3103cd519fcad556e84f918998cd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd
+#EXTINF:-1 tvg-chno="294" group-title="Anime Pack" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png"  ,Locomotion
+http://146.19.49.197:81/live/loco_hi/index.m3u8
 
 
 
