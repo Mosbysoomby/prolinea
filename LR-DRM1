@@ -8,13 +8,18 @@
 
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-argentina.blanco.h.250.png"  ,Cadena 3
 #EXTVLCOPT:http-user-agent=mpv
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO3_SC
-#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-la-plata.blanco.h.250.png"  ,Cadena 3   (Bs. As. - La Plata)
-https://playerservices.streamtheworld.com/api/livestream-redirect/C3LAPLATA.mp3
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-cordoba.blanco.h.250.png"  ,Cadena 3   (Cordoba)
 https://playerservices.streamtheworld.com/api/livestream-redirect/AM700.mp3
+#EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-la-plata.blanco.h.250.png"  ,Cadena 3   (Bs. As. - La Plata)
+https://playerservices.streamtheworld.com/api/livestream-redirect/C3LAPLATA.mp3
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-mendoza.blanco.h.250.png"  ,Cadena 3   (Mendoza)
 https://liveradio.mediainbox.net/c3mendoza.mp3
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="RadioCadena.ar" tvg-name="RadioCadena.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.cadena3-rosario.blanco.h.250.png"  ,Cadena 3   (Santa Fe - Rosario)
@@ -27,41 +32,41 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/cosquinrock.mp
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.102-3-FM.blanco.h.250.png"  ,FM 102.3   (Cordoba)
 https://radios.solumedia.com:6276/stream
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.kuarteto-radio.blanco.h.250.png"  ,Kuarteto.com   (Cordoba)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://sslstream.online/8408/stream
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.la-popu.color.h.png"  ,La Popu - FM 92.3   (Cordoba)
 https://playerservices.streamtheworld.com/api/livestream-redirect/LAPOPU_SC
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.lv2-lvdos.v2.color.c.svg"  ,LV2   (Cordoba)
 #EXTVLCOPT:http-referrer=https://render.edge-apps.net/
 #EXTVLCOPT:http-origin=https://render.edge-apps.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://ice3.edge-apps.net/ros3-lv2/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.mia-fm-104-1.color.c.250.png"  ,Mia - FM 104.1   (Cordoba)
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM1041_56AAC_SC
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.radio-mitre-cordoba.color.h.250.png"  ,Mitre Cordoba - AM 810   (Cordoba)
 https://playerservices.streamtheworld.com/api/livestream-redirect/AM810_56AAC.aac
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.Planeta-Cuarteto.250.png"  ,Planeta Cuarteto   (Cordoba)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://streaming.radiosenlinea.com.ar/8470/stream
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.pobre-johnny-88.9.color.c.250.png"  ,Pobre Jhonny - FM 88.9   (Cordoba)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://stream4.suenas.net/pobrejohnny
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.maxima-fm-98.3.color.c.250.png"  ,Radio Maxima 89.3   (Cordoba)
 https://streaming01.shockmedia.com.ar:10743/;stream.mp3
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://1.bp.blogspot.com/-p2lzij_1IUg/YFsDsQGsscI/AAAAAAAKtU0/kbp2RhQ7iPUqfttni2H3K5j2SvOkm8mCgCLcBGAsYHQ/w1200-h630-p-k-no-nu/logo.png"  ,Radio Sucesos 104.7   (Cordoba)
 #EXTVLCOPT:http-referrer=https://radioarg.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://vofile.ru/Argentina/susenos/icecast.audio
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.radio-suquia.blanco.h.250.png"  ,Radio Suquia 96.5   (Cordoba)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://streaming01.shockmedia.com.ar:10945/;
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.radio-suquia-plus.blanco.h.250.png"  ,Radio Suquia Plus 98.9   (Cordoba)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://streaming01.shockmedia.com.ar/9910/;
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://rockandpopcba.com.ar/wp-content/uploads/2022/04/2022-04-logo-RockPop.png"  ,Rock&Pop 87.9   (Cordoba)
 https://streaming.gostreaming.com.ar:10985/stream
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.580-srt.color.h.500.svg"  ,Universidad 580   (Cordoba)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://radios.solumedia.com:10976/stream
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://www.radionacional.com.ar/reproductor/images/Logo_AM870_b.png"  ,Nacional AM 870   (Bs. As.)
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
@@ -79,7 +84,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIOAA
 https://live-ar1.cdnrad.com/hls/radio-2123/live.m3u8
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="RadioLa100.ar" tvg-name="RadioLa100.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.bsas.la-cien-fm.h.500.svg"  ,La Cien FM 99.9   (Bs. As.)
 #EXTVLCOPT:http-referrer=https://radioarg.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://vofile.ru/Argentina/la-100/icecast.audio
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.radio-la-red.blanco.c.250.png"  ,La Red - AM 910   (Bs. As.)
 https://26653.live.streamtheworld.com/LA_RED_AM910AAC.aac
@@ -87,39 +92,39 @@ https://26653.live.streamtheworld.com/LA_RED_AM910AAC.aac
 https://api-distribucion-ln.lnapps.com.ar/audiofm1049
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://recursosweb.prisaradio.com/fotos/original/010002994540.png"  ,Los 40 Principales   (Bs. As.)
 #EXTVLCOPT:http-referrer=https://radioarg.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://edge03.radiohdvivo.com/los40
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.bsas.radio-mitre.color.h.250.png"  ,Mitre - AM 790   (Bs. As.)
 http://45.188.229.33:8000/play/a1dt/index.m3u8
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://media.radio10.com.ar/adjuntos/220/imagenes/043/550/0043550469.png"  ,Radio 10   (Bs. As.)
 https://radio10.stweb.tv/radio10/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="RadioContinental.ar" tvg-name="RadioContinental.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.radio-continental-am590.gris.v.250.png"  ,Radio Continental AM 590   (Bs. As.)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://frontend.radiohdvivo.com/continental/live
 #EXTINF:-1 tvg-chno="1" group-title="Radios"  radio="true"   tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.rivadavia-am630.blanco.v4.v.svg"  ,Radio Rivadavia 630 AM   (Bs. As.)
 https://27403.live.streamtheworld.com/RIVADAVIAAAC_SC?dist=triton-widget&pname=tdwidgets
 #EXTINF:-1 tvg-chno="2" group-title="Radios Stream"  tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.cba.Planeta-Cuarteto.250.png"  ,Planeta Cuarteto ᴴᴰ  (Cordoba)
 #EXTVLCOPT:http-referrer=https://planetacuarteto.com.ar
 #EXTVLCOPT:http-origin=https://planetacuarteto.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://183.giatvcdn.com/ssh101/ssh101/planetatv26/playlist.m3u8
-#EXTINF:-1 tvg-chno="2" group-title="Radios Stream" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.latina-tv.v2.svg"  ,Latina Tv ᴴᴰ
+#EXTINF:-1 tvg-chno="2" group-title="Radios Stream"  tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.latina-tv.v2.svg"  ,Latina Tv ᴴᴰ
 #EXTVLCOPT:http-referrer=https://www.canal26.com
 #EXTVLCOPT:http-origin=https://www.canal26.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 #EXTINF:-1 tvg-chno="2" group-title="Radios Stream"  tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/vorterix.v.svg"  ,Vorterix ᴴᴰ  (Bs. As.)
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
 #EXTVLCOPT:http-origin=https://vmf.edge-apps.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://g3.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
 #EXTINF:-1 tvg-chno="4" group-title="Eventos" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/DAZN1.blanco.svg"  ,Evemtos | DAZN 1
 http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
-#EXTINF:-1 tvg-chno="4" group-title="Eventos" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/caze-tv.color2.png"  ,Eventos | Cazé TV
+#EXTINF:-1 tvg-chno="4" group-title="Eventos" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/caze-tv.color2.png"  ,Eventos | Cazé TV ᴴᴰ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
 #EXTINF:-1 tvg-chno="4" group-title="Eventos" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/eventos-directv.color.v1.svg"  ,Eventos | DSports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -131,52 +136,46 @@ https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/o
 https://46925e69ccf445e09667cb17c8bb4f2c.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1065/1065_DIRECTV_SPORTS_OCC_2_DASH/manifest.mpd
 #EXTINF:-1 tvg-chno="4" group-title="Eventos" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/eventos-flow.color.v1.svg"  ,Eventos | Flow Sporst ᴴᴰ
 http://45.188.229.33:8000/play/a1dc/index.m3u8
-#EXTINF:-1 tvg-chno="4" group-title="Eventos" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/eventos-paraguay.blanco.svg"  ,Eventos | Py
-http://138.59.227.20:8000/play/a0dx/index.m3u8
-#EXTINF:-1 tvg-chno="4" group-title="Eventos" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/eventos-paraguay.blanco.svg"  ,Eventos | Py Extra
-http://138.59.227.20:8000/play/a0g9/index.m3u8
-#EXTINF:-1 tvg-chno="4" group-title="Eventos" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/eventos-tnt-hbomax.blanco.v1.svg"  ,Eventos | TNT Sports
+#EXTINF:-1 tvg-chno="4" group-title="Eventos" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/eventos-tnt-hbomax.blanco.v1.svg"  ,Eventos | TNT Sports ᴴᴰ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://absucn2yeiuaaaaya6gwkqye6jcza.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd
-#EXTINF:-1 tvg-chno="6" group-title="Nacional"  tvg-id="America.ar" tvg-name="America.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true"  ,America TV ᴴᴰ
+#EXTINF:-1 tvg-chno="6" group-title="Nacional"  tvg-id="America.ar" tvg-name="America.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.America_Television.svg"  ,America TV ᴴᴰ
 https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
 #EXTINF:-1 tvg-chno="7" group-title="Nacional"  tvg-id="TVPublica.ar" tvg-name="TVPublica.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.canal-siete.2026.color.v2.v.svg"  ,Canal 7 ᴴᴰ
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
 #EXTVLCOPT:http-origin=https://vmf.edge-apps.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="9" group-title="Nacional"  tvg-id="ElNueve.ar" tvg-name="ElNueve.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true"  ,El Nueve
+#EXTINF:-1 tvg-chno="9" group-title="Nacional"  tvg-id="ElNueve.ar" tvg-name="ElNueve.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.el_nueve.color.png"  ,El Nueve
 http://45.134.141.161:2200/ARG/C5N/index.m3u8
 #EXTINF:-1 tvg-chno="11" group-title="Nacional"  tvg-id="Telefe.ar" tvg-name="Telefe.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1335/1335_t-290x163.png"  ,Telefe
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 tvg-chno="13" group-title="Nacional"  tvg-id="ElTrece.ar" tvg-name="ElTrece.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.el_trece.color.c.svg"  ,El Trece ᴴᴰ
 #EXTVLCOPT:http-referrer=https://www.eltrecetv.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-chno="20" group-title="Noticias"  tvg-id="A24.ar" tvg-name="A24.ar"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/800/542/0/0/2944696007343.png"  ,A24 ᴴᴰ
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
-#EXTINF:-1 tvg-chno="21" group-title="Noticias"  tvg-id="C5N.ar" tvg-name="C5N.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true"  ,C5N
+#EXTINF:-1 tvg-chno="21" group-title="Noticias"  tvg-id="C5N.ar" tvg-name="C5N.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true"  ,C5N ᴴᴰ
 http://186.4.100.15:8894/output/C5N/playlist.m3u8
 #EXTINF:-1 tvg-chno="22" group-title="Noticias"  tvg-id="Canal26.ar" tvg-name="Canal26.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true"  ,Canal 26 ᴴᴰ
 #EXTVLCOPT:http-referrer=https://www.canal26.com
 #EXTVLCOPT:http-origin=https://www.canal26.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-chno="23" group-title="Noticias"  tvg-id="CronicaTV.ar" tvg-name="CronicaTV.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true"  ,Cronica TV
-http://186.4.100.15:8894/output/CRONICA/playlist.m3u8
 #EXTINF:-1 tvg-chno="24" group-title="Noticias"  tvg-id="LaNacion+.ar" tvg-name="LaNacion+.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3644/3644_t-290x163.png"  ,LN+
 http://138.59.227.20:8000/play/a05y/index.m3u8
-#EXTINF:-1 tvg-chno="25" group-title="Noticias"  tvg-id="TN.ar" tvg-name="TN.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.TN_4K.svg"  ,TN ᴴᴰ
+#EXTINF:-1 tvg-chno="25" group-title="Noticias"  tvg-id="TN.ar" tvg-name="TN.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.TN.svg"  ,TN ᴴᴰ
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 tvg-chno="27" group-title="Noticias"  tvg-id="Canal20.ar" tvg-name="Canal20.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/8196/8196_t-290x163.png"  ,Mas Perfil ᴴᴰ
 #EXTVLCOPT:http-referrer=https://rudo.video/
 #EXTVLCOPT:http-origin=https://rudo.video/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="30" group-title="Noticias"  tvg-id="CanalRural.ar" tvg-name="CanalRural.ar"  tvg-logo="https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/11/11_t-290x163.png"  ,Rural
 http://138.59.227.20:8000/play/a06k/index.m3u8
@@ -184,93 +183,96 @@ http://138.59.227.20:8000/play/a06k/index.m3u8
 https://media.cdnvid.com/public/1tgsjc7hs1kv.m3u8
 #EXTINF:-1 tvg-chno="34" group-title="Noticias Latam"  tvg-id="Azteca13.gt" tvg-name="Azteca13.gt"  tvg-logo="https://github.com/Mosbysoomby/prolinea/blob/main/Logo2026/mex.azteca-noticias.250.png?raw=true"  ,Azteca Noticias ᴴᴰ  (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15412
-#EXTINF:-1 tvg-chno="35" group-title="Noticias Latam"  tvg-id="CnnenEspañol.ar" tvg-name="CnnenEspañol.ar"  tvg-logo="https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/62/62_t-290x163.png"  ,CNN en Español
+#EXTINF:-1 tvg-chno="35" group-title="Noticias Latam"  tvg-id="CnnenEspañol.ar" tvg-name="CnnenEspañol.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/CNN_en_espa.H.blanco.svg"  ,CNN en Español
 http://190.60.37.115:8001/play/a0lo/index.m3u8
 #EXTINF:-1 tvg-chno="38" group-title="Noticias Latam" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/usa.tvl-latam.250.png"  ,TVL ᴴᴰ  (USA)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15088
-#EXTINF:-1 tvg-chno="39" group-title="Noticias Latam" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/col.cablenoticias.color.v2.h.svg"  ,Cable Noticias  (Colombia)
+#EXTINF:-1 tvg-chno="39" group-title="Noticias Latam" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/col.cablenoticias.color.v2.h.svg"  ,Cable Noticias ᴴᴰ  (Colombia)
 https://app-videoplayer-proxy-prod-eu-001.azurewebsites.net/proxy/live/ngrp:cable09061970_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="40" group-title="Noticias Latam"  tvg-id="NTN24NuestraTeleNoticias.ar" tvg-name="NTN24NuestraTeleNoticias.ar"  tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ntn24.png"  ,NTN24  (Colombia)
+#EXTINF:-1 tvg-chno="40" group-title="Noticias Latam"  tvg-id="NTN24NuestraTeleNoticias.ar" tvg-name="NTN24NuestraTeleNoticias.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/col.ntn24.color1.png"  ,NTN24  (Colombia)
 http://190.60.37.115:8001/play/a0n4/index.m3u8
-#EXTINF:-1 tvg-chno="41" group-title="Noticias Latam"  tvg-id="TeleSUR.ar" tvg-name="TeleSUR.ar"  tvg-logo="https://www.ecured.cu/images/thumb/c/c0/Emblema_de_TeleSur.png/500px-Emblema_de_TeleSur.png"  ,teleSUR
+#EXTINF:-1 tvg-chno="41" group-title="Noticias Latam"  tvg-id="TeleSUR.ar" tvg-name="TeleSUR.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/Telesur.color.png"  ,teleSUR
 http://45.188.229.33:8000/play/a1f9/index.m3u8
-#EXTINF:-1 tvg-chno="42" group-title="Noticias Latam"  tvg-id="Canal24horas.ar" tvg-name="Canal24horas.ar"  tvg-logo="https://css.rtve.es/css/rtve.2021/i/rtve-logos/logos_cadenas/tv-24horas.svg"  ,24h ᴴᴰ
+#EXTINF:-1 tvg-chno="42" group-title="Noticias Latam"  tvg-id="Canal24horas.ar" tvg-name="Canal24horas.ar"  tvg-logo="https://css.rtve.es/css/rtve.2021/i/rtve-logos/logos_cadenas/tv-24horas.svg"  ,24h ᴴᴰ  (España)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621
 #EXTINF:-1 tvg-chno="43" group-title="Noticias Latam"  tvg-id="DwEspañol.ar" tvg-name="DwEspañol.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/400/400/O_-a0280xePeyTh4IxQAEQ?tags=CH_LOGO"  ,DW en Español ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-chno="44" group-title="Noticias Latam" tvg-logo="https://i.postimg.cc/4m5NVvh1/FR24-ES.png"  ,France 24 en Español
 http://45.188.229.33:8000/play/a0x8/index.m3u8
 #EXTINF:-1 tvg-chno="45" group-title="Noticias Latam"  tvg-id="RussiaToday.ar" tvg-name="RussiaToday.ar"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/RT_Espa%C3%B1ol_2010.png"  ,RT en Español ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-chno="46" group-title="Noticias Latam" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/euronews.blanco.svg"  ,EuroNews en Español ᴴᴰ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/9.m3u8
 #EXTINF:-1 tvg-chno="50" group-title="Variedad Argentina"  tvg-id="ArgentinisimaSatelital.ar" tvg-name="ArgentinisimaSatelital.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/argentinisimasatelital@2x.png"  ,Argentinisima Satelital
 #EXTVLCOPT:http-referrer=https://www.argentinisimatv.com.ar/
 #EXTVLCOPT:http-origin=https://www.argentinisimatv.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-chno="51" group-title="Variedad Argentina" tvg-logo="https://unity-img.tbxapis.com/v0/images/56a180d8b2803da5ec713b61ada770a6/content/676daa12cdbda9118e7e9e7e/99e1b7d540515cc0f9e498f0cb64df74/img.png"  ,El Folkorico ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://stream.t5satelital.blog/hls/elfolklorico.m3u8
 #EXTINF:-1 tvg-chno="52" group-title="Variedad Argentina"  tvg-id="TierraMiaTV.ar" tvg-name="TierraMiaTV.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/tierramia@2x.png"  ,Tierramia TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://www.canal26.com
 #EXTVLCOPT:http-origin=https://www.canal26.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 #EXTINF:-1 tvg-chno="61" group-title="Variedad Argentina" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.canal_a.color.c.250.png"  ,Canal (á)
 http://138.59.227.20:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-chno="62" group-title="Variedad Argentina"  tvg-id="CanaldelaCiudad.ar" tvg-name="CanaldelaCiudad.ar"  tvg-logo="https://telecentro.com.ar/img/cm/channels/canaldelaciudad@2x.png"  ,Canal de la Ciudad ᴴᴰ
 #EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
 #EXTVLCOPT:http-origin=https://vmf.edge-apps.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://g2.mc-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-chno="63" group-title="Variedad Argentina"  tvg-id="CiudadMagazine.ar" tvg-name="CiudadMagazine.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CIUMA.png?raw=true"  ,Ciudad Magazine
-http://138.59.227.20:8000/play/a06m/index.m3u8
+#EXTINF:-1 tvg-chno="63" group-title="Variedad Argentina"  tvg-id="CiudadMagazine.ar" tvg-name="CiudadMagazine.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CIUMA.png?raw=true"  ,Ciudad Magazine ᴴᴰ  (Web)
+#EXTVLCOPT:http-referrer=https://www.ciudad.com.ar/
+#EXTVLCOPT:http-origin=https://www.ciudad.com.ar/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-chno="64" group-title="Variedad Argentina" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.metro.blanco.h.250.png"  ,Metro
 http://138.59.227.20:8000/play/a06l/index.m3u8
 #EXTINF:-1 tvg-chno="66" group-title="Variedad Argentina"  tvg-id="NetTV.ar" tvg-name="NetTV.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/4646/4646_t-290x163.png"  ,Net TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://5900.tv/
 #EXTVLCOPT:http-origin=https://5900.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="67" group-title="Variedad Argentina"  tvg-id="Telemax.ar" tvg-name="Telemax.ar"  tvg-logo="https://github.com/Mosbysoomby/prolinea/blob/main/grilla-logos-2025/arg.telemax.png?raw=yes"  ,Telemax ᴴᴰ
 #EXTVLCOPT:http-referrer=https://www.canal26.com
 #EXTVLCOPT:http-origin=https://www.canal26.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-chno="68" group-title="Variedad Latam" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3267/3267_t-290x163.png"  ,Canal Claro ᴴᴰ
 http://181.119.177.253:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-chno="69" group-title="Variedad Latam" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2541/2541_t-290x163.png"  ,UCL TV ᴴᴰ
 #EXTVLCOPT:http-referrer=https://www.ucltelevision.com
 #EXTVLCOPT:http-origin=https://www.ucltelevision.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://streamingmcbo.ddns.net:8081/ucltelevision/playlist.m3u8
 #EXTINF:-1 tvg-chno="70" group-title="Variedad Latam" tvg-logo="https://www.unifetv.com/logo.png"  ,Unife Argentina ᴴᴰ
 #EXTVLCOPT:http-referrer=https://constantestimulo.mycloudstream.io/
 #EXTVLCOPT:http-origin=https://constantestimulo.mycloudstream.io/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 #EXTINF:-1 tvg-chno="80" group-title="Inter. Latam" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/arg.el_trece-internacional.color.c.svg"  ,El Trece Int.
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
 #EXTINF:-1 tvg-chno="81" group-title="Inter. Latam"  tvg-id="TelefeInternacional.pe" tvg-name="TelefeInternacional.pe"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Telefe_Internacional_%282018%29.png"  ,Telefe Int.
 http://45.188.229.33:8000/play/a0w9/index.m3u8
-#EXTINF:-1 tvg-chno="85" group-title="Inter. Latam"  tvg-id="Telemundo.ar" tvg-name="Telemundo.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2827/2827_t-290x163.png"  ,Telemundo Int.
-http://190.60.37.115:8001/play/a0lt/index.m3u8
+#EXTINF:-1 tvg-chno="85" group-title="Inter. Latam"  tvg-id="Telemundo.ar" tvg-name="Telemundo.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/2827/2827_t-290x163.png"  ,Telemundo Int. ᴴᴰ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/54.m3u8
 #EXTINF:-1 tvg-chno="86" group-title="Inter. Latam" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Univision-Logo-2013.png"  ,Univision Int. ᴴᴰ
 #EXTVLCOPT:http-user-agent=VLC
 http://209.14.108.65:8000/play/a08z/index.m3u8
 #EXTINF:-1 tvg-chno="89" group-title="Inter. Latam"  tvg-id="Azteca13.gt" tvg-name="Azteca13.gt"  tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png"  ,Azteca Int. ᴴᴰ  (Mexico)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-chno="90" group-title="Inter. Latam"  tvg-id="Antena3.ar" tvg-name="Antena3.ar"  tvg-logo="https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/61/61_t-290x163.png"  ,Antena 3 Int.  (España)
 http://45.188.229.33:8000/play/a0x3/index.m3u8
 #EXTINF:-1 tvg-chno="91" group-title="Inter. Latam"  tvg-id="GaliciaTv.ar" tvg-name="GaliciaTv.ar"  tvg-logo="https://www.movistarplus.es/recorte/m-DP/canal/TVGAL.png"  ,TV Galicia  (America)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-chno="92" group-title="Inter. Latam"  tvg-id="GaliciaTv.ar" tvg-name="GaliciaTv.ar"  tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/TVG2_Logo.svg/330px-TVG2_Logo.svg.png"  ,TV Galicia 2 ᴴᴰ  (España)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://crtvg-tvg2.flumotion.cloud/playlist_dvr.m3u8
 #EXTINF:-1 tvg-chno="93" group-title="Inter. Latam"  tvg-id="TVE.ar" tvg-name="TVE.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVESP.png?raw=true"  ,TVE Int.  (España)
 http://181.119.177.253:8000/play/a04v/index.m3u8
@@ -292,6 +294,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15093
 http://45.188.229.33:8000/play/a1kq/index.m3u8
 #EXTINF:-1 tvg-chno="106" group-title="Kids +00" tvg-logo="https://semillitas.com/wp-content/uploads/2021/06/LogoSemillitas-1536x451.png"  ,Semillitas
 http://181.119.177.253:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-chno="107" group-title="Kids +00"  tvg-id="ZooMoo.ar" tvg-name="ZooMoo.ar"  tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/zoomoo.png"  ,ZooMoo ᴴᴰ
+http://45.130.161.15:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-chno="110" group-title="Kids +05"  tvg-id="Cartoonito.ar" tvg-name="Cartoonito.ar"  tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/174/174_t-290x163.png"  ,Cartoonito
 http://45.188.229.33:8000/play/a1jp/index.m3u8
 #EXTINF:-1 tvg-chno="111" group-title="Kids +05"  tvg-id="NickJr.ar" tvg-name="NickJr.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/5184/5184_t-290x163.png"  ,Nick Jr.
@@ -320,22 +324,17 @@ http://45.134.141.161:2200/ARG/Dreamworks_HD/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11855
 #EXTINF:-1 tvg-chno="136" group-title="Kids +10" tvg-logo="https://img1.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/366x206/tgenespanol-min.jpg"  ,Toon Googles ᴴᴰ
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1746
-
-
-
-
-
 #EXTINF:-1 tvg-chno="150" group-title="HBO"  tvg-id="HBO.ar" tvg-name="HBO.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/HBO_America.blanco.h.svg"  ,HBO ᴴᴰ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8
-#EXTINF:-1 tvg-chno="151" group-title="HBO"  tvg-id="HBO2.ar" tvg-name="HBO2.ar"  tvg-shift="-2" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/HBO2.blanco.h.svg"  ,HBO 2 ᴴᴰ  (Oeste)
-http://181.119.177.253:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-chno="151" group-title="HBO"  tvg-id="HBO2.ar" tvg-name="HBO2.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/HBO2.blanco.h.svg"  ,HBO 2 ᴴᴰ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/30.m3u8
+#EXTINF:-1 tvg-chno="151" group-title="HBO"  tvg-id="HBO2.ar" tvg-name="HBO2.ar"  tvg-shift="-2" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/HBO2.blanco.h.svg"  ,HBO 2 ᴴᴰ  (Oeste)
+http://181.119.177.253:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-chno="152" group-title="HBO" tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/HBO_Family_Latin_America.blanco.v.svg"  ,HBO Family ᴴᴰ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/31.m3u8
 #EXTINF:-1 tvg-chno="153" group-title="HBO"  tvg-id="HBOMundi.ar" tvg-name="HBOMundi.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/HBO_Mundi.blanco.svg"  ,HBO Mundi ᴴᴰ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/33.m3u8
-#EXTINF:-1 tvg-chno="154" group-title="HBO"  tvg-id="HBOPlus.ar" tvg-name="HBOPlus.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/HBO_POP.blanco.svg"  ,HBO Plus ᴴᴰ
+#EXTINF:-1 tvg-chno="154" group-title="HBO"  tvg-id="HBOPlus.ar" tvg-name="HBOPlus.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/HBO_plus.blanco.svg"  ,HBO Plus ᴴᴰ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/36.m3u8
 #EXTINF:-1 tvg-chno="155" group-title="HBO"  tvg-id="HBOPop.ar" tvg-name="HBOPop.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/HBO_POP.blanco.svg"  ,HBO POP ᴴᴰ
 http://190.60.37.115:8001/play/a0ww/index.m3u8
@@ -343,261 +342,238 @@ http://190.60.37.115:8001/play/a0ww/index.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/34.m3u8
 #EXTINF:-1 tvg-chno="157" group-title="HBO"  tvg-id="HBOXtreme.ar" tvg-name="HBOXtreme.ar"  tvg-logo="https://raw.githubusercontent.com/Mosbysoomby/prolinea/refs/heads/main/Logo2026/HBO_XTREME.blanco.svg"  ,HBO Xtreme ᴴᴰ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-chno="210" group-title="Premium CINEMAX"  tvg-id="Cinemax HD.cl" tvg-name="Cinemax HD.cl"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" ,Cinemax
-#EXTVLCOPT:http-user-agent=VLC
-http://209.14.108.65:8000/play/a01z/index.m3u8
-
-#EXTINF:-1 tvg-chno="212" group-title="Premium CINEMAX"  tvg-id="Cinemax HDTV (West).us" tvg-name="Cinemax HDTV (West).us"  tvg-logo="https://www.directv.com/dtvassets/global/channel-icons/c-d/Channel_Icon_Cinemax_West.svg" ,Cinemax (USA) (West)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
-
-#EXTINF:-1 tvg-chno="213" group-title="Premium CINEMAX"  tvg-id="Cinemax Action HDTV (East).us" tvg-name="Cinemax Action HDTV (East).us"  tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cinemax-action._SL500_FMpng_.png" ,Cinemax Action (USA)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd
-
-#EXTINF:-1 tvg-chno="214" group-title="Premium CINEMAX"  tvg-id="Cinemax Classics HDTV (East).us" tvg-name="Cinemax Classics HDTV (East).us"  tvg-logo="https://p-img.movetv.com/1280x720/9bf416be0ae1f3b58feae9881e8a9d26.png" ,Cinemax Classics (USA)
+#EXTINF:-1 tvg-chno="160" group-title="Cinemax"  tvg-id="Cinemax.ar" tvg-name="Cinemax.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true"  ,Cinemax
+http://45.188.229.33:8000/play/a1jh/index.m3u8
+#EXTINF:-1 tvg-chno="163" group-title="Cinemax" tvg-logo="https://p-img.movetv.com/1280x720/9bf416be0ae1f3b58feae9881e8a9d26.png"  ,Cinemax Classics ᴴᴰ  (USA)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
-
-#EXTINF:-1 tvg-chno="215" group-title="Premium CINEMAX"  tvg-id="Cinemax Hits (East).us" tvg-name="Cinemax Hits (East).us"  tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cinemax-hits._SL500_FMpng_.png" ,Cinemax HITS (USA)
+#EXTINF:-1 tvg-chno="164" group-title="Cinemax" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cinemax-hits._SL500_FMpng_.png"  ,Cinemax HITS ᴴᴰ  (USA)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
-
-#EXTINF:-1 tvg-chno="220" group-title="Premium Golden"  tvg-id="Golden.ar" tvg-name="Golden.ar"  tvg-logo="https://i.ibb.co/s1yPj71/worldtv2.png" ,Golden
-http://190.234.82.52:8000/play/a0i4/index.m3u8
-
-#EXTINF:-1 tvg-chno="221" group-title="Premium Golden"  tvg-id="GoldenEdge.ar" tvg-name="GoldenEdge.ar"  tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge.png" ,Golden Edge
-http://190.234.82.52:8000/play/a0lf/index.m3u8
-
-#EXTINF:-1 tvg-chno="222" group-title="Premium Golden"  tvg-id="GoldenEdge.ar" tvg-name="GoldenEdge.ar"  tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge.png" ,Golden Edge ViX
+#EXTINF:-1 tvg-chno="165" group-title="Cinemax" tvg-logo="https://www.directv.com/dtvassets/global/channel-icons/c-d/Channel_Icon_Cinemax_West.svg"  ,Cinemax ᴴᴰ  (USA) (West)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae4cbc34d4b1645f6c7b26410dde7b58:647478cd3bd0dfb3e820249296c23096
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc.mpd
-
-#EXTINF:-1 tvg-chno="223" group-title="Premium Golden" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus.png" ,Golden Plus
+#KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
+#EXTINF:-1 tvg-chno="166" group-title="Cinemax" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cinemax-action._SL500_FMpng_.png"  ,Cinemax Action ᴴᴰ  (USA) (East)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed5849d33e07606d6118d7fb26b90cd0:63670e57e70353ca526fb07a8d7ddb7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o09knwldwh/out/v1/15f9f74c888e4fdd9815ea94635ae4db/cenc.mpd
-
-#EXTINF:-1 tvg-chno="224" group-title="Premium Golden" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png" ,Golden Premiere
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b39fdb1efc89fa2b791bdce8428c3e09:1941081db257b29643c95783d3a2c5cd
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/webclient/
-#EXTVLCOPT:http-origin=https://www.izzigo.tv/webclient/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/1pyrprmguo/out/v1/e63748f718754f6ca76df9ce757b10f5/cenc.mpd
-
-#EXTINF:-1 tvg-chno="225" group-title="Premium Golden" tvg-logo="https://claroperupoc.vtexassets.com/arquivos/golden-premier-2hd-v2.png" ,Golden Premiere 2
-http://38.7.195.44:8000/play/a0di
-
-#EXTINF:-1 tvg-chno="226" group-title="Premium Golden"  tvg-id="Golden.ar" tvg-name="Golden.ar"  tvg-logo="https://i.ibb.co/s1yPj71/worldtv2.png" ,Golden ViX
+#KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd
+#EXTINF:-1 tvg-chno="170" group-title="Ent Pack"  tvg-id="ENT Channel" tvg-name="ENT Channel"  tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png"  ,ent Channel ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="171" group-title="Ent Pack"  tvg-id="ENT Classic" tvg-name="ENT Classic"  tvg-logo="https://www.40mediagroup.com/images/channels/ent-classic.png"  ,ent Classic ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="173" group-title="Ent Pack"  tvg-id="ENT Drama" tvg-name="ENT Drama"  tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png"  ,ent Drama ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="174" group-title="Ent Pack"  tvg-id="ENT Extreme" tvg-name="ENT Extreme"  tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png"  ,ent Extreme ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="175" group-title="Ent Pack"  tvg-id="ENT Family" tvg-name="ENT Family"  tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png"  ,ent Family ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="176" group-title="Ent Pack"  tvg-id="ENT Life" tvg-name="ENT Life"  tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png"  ,ent Life ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="177" group-title="Ent Pack"  tvg-id="ENT Movies" tvg-name="ENT Movies"  tvg-logo="https://www.40mediagroup.com/images/channels/ent-movies.png"  ,ent Movies ᴴᴰ
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="180" group-title="Golden"  tvg-id="Golden.ar" tvg-name="Golden.ar"  tvg-logo="https://i.ibb.co/s1yPj71/worldtv2.png"  ,Golden ᴴᴰ
+#EXTVLCOPT:http-user-agent=VLC
+http://38.7.195.44:8000/play/a0be
+#EXTINF:-1 tvg-chno="181" group-title="Golden"  tvg-id="Golden.ar" tvg-name="Golden.ar"  tvg-logo="https://i.ibb.co/s1yPj71/worldtv2.png"  ,Golden | ViX ᴴᴰ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=38dbcf2d094923f94aca4f913045e993:a475a0bcc6f77b04f07ed1487619d626
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ox4csgyamg/out/v1/95cf9c4df3d542f6812f382a52771327/cenc.mpd
-
-#EXTINF:-1 tvg-chno="230" group-title="Premium Universal+" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6981/6981_t-290x163.png" ,Universal Premiere
+#EXTINF:-1 tvg-chno="182" group-title="Golden"  tvg-id="GoldenEdge.ar" tvg-name="GoldenEdge.ar"  tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge.png"  ,Golden Edge ᴴᴰ
+http://181.78.14.26:4000/play/a0a5/index.m3u8
+#EXTINF:-1 tvg-chno="183" group-title="Golden" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_edge.png"  ,Golden Edge | ViX ᴴᴰ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae4cbc34d4b1645f6c7b26410dde7b58:647478cd3bd0dfb3e820249296c23096
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc.mpd
+#EXTINF:-1 tvg-chno="184" group-title="Golden" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_plus.png"  ,Golden Plus ᴴᴰ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed5849d33e07606d6118d7fb26b90cd0:63670e57e70353ca526fb07a8d7ddb7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o09knwldwh/out/v1/15f9f74c888e4fdd9815ea94635ae4db/cenc.mpd
+#EXTINF:-1 tvg-chno="185" group-title="Golden" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier.png"  ,Golden Premiere ᴴᴰ
+http://38.7.195.44:8000/play/a0dh
+#EXTINF:-1 tvg-chno="186" group-title="Golden" tvg-logo="https://claroperupoc.vtexassets.com/arquivos/golden-premier-2hd-v2.png"  ,Golden Premiere 2 ᴴᴰ
+http://38.7.195.44:8000/play/a0di
+#EXTINF:-1 tvg-chno="190" group-title="Universal+" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6981/6981_t-290x163.png"  ,Universal Premiere ᴴᴰ
 http://38.7.195.44:8000/play/a0du
-
-#EXTINF:-1 tvg-chno="232" group-title="Premium Universal+" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6979/6979_t-290x163.png" ,Universal Cinema
+#EXTINF:-1 tvg-chno="190" group-title="Universal+" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6981/6981_t-290x163.png"  ,Universal Premiere ᴴᴰ  (Oeste)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=ba3f1a0580b46e371a6b02ef2ab2304f&keyid=547c1e15b8e93f1077d34f77a7ab018f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/ciqsqqxp8g/out/v1/e9283351f50849a8ab602a894772649f/cenc.mpd
+#EXTINF:-1 tvg-chno="191" group-title="Universal+" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6979/6979_t-290x163.png"  ,Universal Cinema ᴴᴰ
 http://38.7.195.44:8000/play/a0fg
-
-#EXTINF:-1 tvg-chno="232" group-title="Premium Universal+" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6978/6978_t-290x163.png" ,Universal Comedy
-http://38.7.195.44:8000/play/a0dy
-
-#EXTINF:-1 tvg-chno="233" group-title="Premium Universal+" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6980/6980_t-290x163.png" ,Universal Crime
-http://38.7.195.44:8000/play/a0dx
-
-#EXTINF:-1 tvg-chno="235" group-title="Premium Universal+"  tvg-id="UniversalTV.ar" tvg-name="UniversalTV.ar"  tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/327.png" ,Universal Channel
-#EXTVLCOPT:http-user-agent=VLC
-http://209.14.108.65:8000/play/a03n/index.m3u8
-
-#EXTINF:-1 tvg-chno="240" group-title="Cine y Series"  tvg-id="Amc.ar" tvg-name="Amc.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1250/1250_t-290x163.png" ,AMC
+#EXTINF:-1 tvg-chno="191" group-title="Universal+" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6979/6979_t-290x163.png"  ,Universal Cinema ᴴᴰ  (Oeste)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=0295a763fca3851258af5901907bf0b1&keyid=be1597d0eb3b71cb21b8e8a55230874d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/eishhvjuuz/out/v1/92b27f5cd5244bba8071fcd0d09be067/cenc.mpd
+#EXTINF:-1 tvg-chno="192" group-title="Universal+" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6978/6978_t-290x163.png"  ,Universal Comedy ᴴᴰ
+http://181.119.177.253:8000/play/a0d8/index.m3u8
+#EXTINF:-1 tvg-chno="192" group-title="Universal+" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6978/6978_t-290x163.png"  ,Universal Comedy ᴴᴰ  (Oeste)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=062672eb7346a690feab6c84a8de9dce&keyid=9fd8daa507b4c58f414f1d007cf0eccf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pfpdcsvoyd/out/v1/1bb43614ccd348fd8b9cc4d4fc5be059/cenc.mpd
+#EXTINF:-1 tvg-chno="193" group-title="Universal+" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6980/6980_t-290x163.png"  ,Universal Crime ᴴᴰ  (Oeste)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/63.m3u8
+#EXTINF:-1 tvg-chno="193" group-title="Universal+" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6980/6980_t-290x163.png"  ,Universal Crime ᴴᴰ  (Oeste)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=b1c5b3c9a8ddc4badf5f49f8a989cf77&keyid=cfc6790cbc2bc791b05c4f8f8126f5b5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/xuvkx1kkfl/out/v1/6a977f46a77b4a03a1e55db484c1695a/cenc.mpd
+#EXTINF:-1 tvg-chno="194" group-title="Universal+" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6982/6982_t-290x163.png"  ,Universal Reality ᴴᴰ
+http://181.119.177.253:8000/play/a0d6/index.m3u8
+#EXTINF:-1 tvg-chno="194" group-title="Universal+" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/6982/6982_t-290x163.png"  ,Universal Reality ᴴᴰ  (Oeste)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=081aab1fb4e8da70e21bb906e704e5d6&keyid=6824642c08bd3cdb6c08404a894287f9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/tezhlmgs1w/out/v1/362fef2b778b4531b4e0dd3db6acf805/cenc.mpd
+#EXTINF:-1 tvg-chno="195" group-title="Universal+"  tvg-id="UniversalTV.ar" tvg-name="UniversalTV.ar"  tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/327.png"  ,Universal Channel ᴴᴰ
+http://45.188.229.33:8000/play/a1b8/index.m3u8
+#EXTINF:-1 tvg-chno="200" group-title="Cine y Series"  tvg-id="Amc.ar" tvg-name="Amc.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/1250/1250_t-290x163.png"  ,AMC ᴴᴰ
 #EXTVLCOPT:http-user-agent=VLC
 http://209.14.108.65:8000/play/a08i/index.m3u8
-
-#EXTINF:-1 tvg-chno="241" group-title="Cine y Series"  tvg-id="AmcSeries.ar" tvg-name="AmcSeries.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3390/3390_t-290x163.png" ,AMC Series
-http://190.60.37.115:8001/play/a0nm/index.m3u8
-
-#EXTINF:-1 tvg-chno="242" group-title="Cine y Series"  tvg-id="AXN REGIONAL.cl" tvg-name="AXN REGIONAL.cl"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNAXN.png?raw=true" ,AXN (Oeste)
-http://181.78.14.26:4000/play/a0ak/index.m3u8
-
-#EXTINF:-1 tvg-chno="244" group-title="Cine y Series"  tvg-id="CINECANAL HD.cl" tvg-name="CINECANAL HD.cl"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3445/3445_t-290x163.png" ,Cinecanal (Oeste)
-http://190.234.82.52:8000/play/a0l2/index.m3u8
-
-#EXTINF:-1 tvg-chno="245" group-title="Cine y Series"  tvg-id="DHE.ar" tvg-name="DHE.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true" ,DHE
-#EXTVLCOPT:http-user-agent=VLC
-http://181.78.14.26:4000/play/a03o/index.m3u8
-
-#EXTINF:-1 tvg-chno="246" group-title="Cine y Series"  tvg-id="Eurochannel.ar" tvg-name="Eurochannel.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EUROC.png?raw=true" ,Eurochannel
-http://181.119.177.253:8000/play/a038/index.m3u8
-
-#EXTINF:-1 tvg-chno="247" group-title="Cine y Series"  tvg-id="EuropaEuropa.ar" tvg-name="EuropaEuropa.ar"  tvg-logo="https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png" ,Europa Europa
-http://181.119.177.253:8000/play/a0dj/index.m3u8
-
-#EXTINF:-1 tvg-chno="248" group-title="Cine y Series"  tvg-id="FX.ar" tvg-name="FX.ar"  tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/fx.png" ,FX
-http://190.234.82.52:8000/play/a0lc/index.m3u8
-
-#EXTINF:-1 tvg-chno="249" group-title="Cine y Series"  tvg-id="SonyChannel.ar" tvg-name="SonyChannel.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SONYC.png?raw=true" ,Sony Channel
-http://45.188.229.33:8000/play/a1b2/index.m3u8
-
-#EXTINF:-1 tvg-chno="250" group-title="Cine y Series"  tvg-id="SonyMovies.ar" tvg-name="SonyMovies.ar"  tvg-logo="https://i.ibb.co/HFpZ6CC/sony-movies.png" ,Sony Movies
-http://181.78.14.26:4000/play/a0am/index.m3u8
-
-#EXTINF:-1 tvg-chno="251" group-title="Cine y Series"  tvg-id="SPACE HD.cl" tvg-name="SPACE HD.cl"  tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/SPAC.png" ,Space (Chile)
-http://190.234.82.52:8000/play/a0l8/index.m3u8
-
-#EXTINF:-1 tvg-chno="252" group-title="Cine y Series"  tvg-id="StarChannel.ar" tvg-name="StarChannel.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/STARC.png?raw=true" ,Star Channel
-http://45.188.229.33:8000/play/a1dj/index.m3u8
-
-#EXTINF:-1 tvg-chno="253" group-title="Cine y Series"  tvg-id="StudioUniversal.ar" tvg-name="StudioUniversal.ar"  tvg-logo="https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/77/77_t-290x163.png" ,Studio Universal
-http://190.234.82.52:8000/play/a0ob/index.m3u8
-
-#EXTINF:-1 tvg-chno="254" group-title="Cine y Series" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTAR.png?raw=true" ,TNT (Pacifico)
-http://190.234.82.52:8000/play/a0l1/index.m3u8
-
-#EXTINF:-1 tvg-chno="255" group-title="Cine y Series"  tvg-id="TNTSeries.ar" tvg-name="TNTSeries.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSE.png?raw=true" ,TNT Series
-http://45.188.229.33:8000/play/a1do/index.m3u8
-
-#EXTINF:-1 tvg-chno="256" group-title="Cine y Series"  tvg-id="USA.ar" tvg-name="USA.ar"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/160/160/0/0/81694330078327.png|worldtv2" ,USA
-http://181.78.14.26:4000/play/a03d/index.m3u8
-
-#EXTINF:-1 tvg-chno="257" group-title="Cine y Series"  tvg-id="Warner.ar" tvg-name="Warner.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3787/3787_t-290x163.png" ,Warner TV
-http://190.234.82.52:8000/play/a0l5/index.m3u8
-
-#EXTINF:-1 tvg-chno="258" group-title="Cine y Series"  tvg-id="ComedyCentral.ar" tvg-name="ComedyCentral.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3953/3953_t-290x163.png" ,Comedy Central
+#EXTINF:-1 tvg-chno="201" group-title="Cine y Series"  tvg-id="AmcSeries.ar" tvg-name="AmcSeries.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3390/3390_t-290x163.png"  ,AMC Series ᴴᴰ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/42.m3u8
+#EXTINF:-1 tvg-chno="202" group-title="Cine y Series"  tvg-id="AXN.ar" tvg-name="AXN.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNAXN.png?raw=true"  ,AXN ᴴᴰ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
+#EXTINF:-1 tvg-chno="203" group-title="Cine y Series"  tvg-id="CineAr.ar" tvg-name="CineAr.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/INCAA.png?raw=true"  ,Cine.AR
+http://138.59.227.20:8000/play/a069/index.m3u8
+#EXTINF:-1 tvg-chno="204" group-title="Cine y Series"  tvg-id="Cinecanal.ar" tvg-name="Cinecanal.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3445/3445_t-290x163.png"  ,Cinecanal ᴴᴰ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
+#EXTINF:-1 tvg-chno="205" group-title="Cine y Series"  tvg-id="ComedyCentral.ar" tvg-name="ComedyCentral.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3953/3953_t-290x163.png"  ,Comedy Central ᴴᴰ
 http://190.60.37.115:8001/play/a0tp/index.m3u8
-
-#EXTINF:-1 tvg-chno="259" group-title="Cine y Series"  tvg-id="FilmAndArts.ar" tvg-name="FilmAndArts.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3391/3391_t-290x163.png" ,Film & Arts
+#EXTINF:-1 tvg-chno="206" group-title="Cine y Series"  tvg-id="DHE.ar" tvg-name="DHE.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true"  ,DHE ᴴᴰ
 #EXTVLCOPT:http-user-agent=VLC
-http://38.7.195.44:8000/play/a083
-
-#EXTINF:-1 tvg-chno="260" group-title="Cine y Series"  tvg-id="Atreseries.ar" tvg-name="Atreseries.ar"  tvg-logo="https://cdn.bo.flow.com.ar/images/content/420/420/Udqzh8pyX4ZJUmmeNZ4voQ?tags=CH_LOGO" ,A3Series Int.
+http://209.14.108.65:8000/play/a08n/index.m3u8
+#EXTINF:-1 tvg-chno="207" group-title="Cine y Series"  tvg-id="Eurochannel.ar" tvg-name="Eurochannel.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EUROC.png?raw=true"  ,Eurochannel
+http://181.119.177.253:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-chno="208" group-title="Cine y Series"  tvg-id="EuropaEuropa.ar" tvg-name="EuropaEuropa.ar"  tvg-logo="https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png"  ,Europa Europa ᴴᴰ
+http://181.119.177.253:8000/play/a0dj/index.m3u8
+#EXTINF:-1 tvg-chno="209" group-title="Cine y Series"  tvg-id="FilmAndArts.ar" tvg-name="FilmAndArts.ar"  tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/3391/3391_t-290x163.png"  ,Film & Arts ᴴᴰ
+http://209.14.108.65:8000/play/a08g/index.m3u8
+#EXTINF:-1 tvg-chno="210" group-title="Cine y Series"  tvg-id="FX.ar" tvg-name="FX.ar"  tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/argentina/fx.png"  ,FX ᴴᴰ
+http://190.60.37.115:8001/play/a0lf/index.m3u8
+#EXTINF:-1 tvg-chno="211" group-title="Cine y Series"  tvg-id="SonyChannel.ar" tvg-name="SonyChannel.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SONYC.png?raw=true"  ,Sony Channel ᴴᴰ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/49.m3u8
+#EXTINF:-1 tvg-chno="212" group-title="Cine y Series" tvg-logo="https://i.ibb.co/6J4YdHPJ/Sony-Cine-2021-Logo.webp"  ,Sony Cine ᴴᴰ  (USA)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-chno="213" group-title="Cine y Series"  tvg-id="SonyMovies.ar" tvg-name="SonyMovies.ar"  tvg-logo="https://i.ibb.co/HFpZ6CC/sony-movies.png"  ,Sony Movies ᴴᴰ
+http://181.78.14.26:4000/play/a0am/index.m3u8
+#EXTINF:-1 tvg-chno="214" group-title="Cine y Series"  tvg-id="Space.ar" tvg-name="Space.ar"  tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/SPAC.png"  ,Space ᴴᴰ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/50.m3u8
+#EXTINF:-1 tvg-chno="215" group-title="Cine y Series"  tvg-id="StarChannel.ar" tvg-name="StarChannel.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/STARC.png?raw=true"  ,Star Channel ᴴᴰ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
+#EXTINF:-1 tvg-chno="216" group-title="Cine y Series"  tvg-id="StudioUniversal.ar" tvg-name="StudioUniversal.ar"  tvg-logo="https://clarovideocdn9.clarovideo.net/EPG/REPORTTV/LOGOS/77/77_t-290x163.png"  ,Studio Universal ᴴᴰ
+http://190.60.37.115:8001/play/a0j2/index.m3u8
+#EXTINF:-1 tvg-chno="219" group-title="Cine y Series"  tvg-id="USA.ar" tvg-name="USA.ar"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/488/CH_LOGO/160/160/0/0/81694330078327.png|worldtv2"  ,USA ᴴᴰ
+http://181.78.14.26:4000/play/a09p/index.m3u8
+#EXTINF:-1 tvg-chno="231" group-title="Cine y Series" tvg-logo="https://tiburoniptv-sv3.pages.dev/logos/latam/cinefamiliar.png"  ,Cine Familiar ᴴᴰ
 #EXTVLCOPT:http-user-agent=VLC
-http://38.7.195.44:8000/play/a0bb
-
-#EXTINF:-1 tvg-chno="262" group-title="Cine y Series" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/03.Logo-Cine-Hispano-Alpha-AOriginal-2048x1152.png" ,Cine Hispano
+http://181.78.14.26:4000/play/a03l/index.m3u8
+#EXTINF:-1 tvg-chno="232" group-title="Cine y Series" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/03.Logo-Cine-Hispano-Alpha-AOriginal-2048x1152.png"  ,Cine Hispano ᴴᴰ
 #EXTVLCOPT:http-user-agent=VLC
 http://181.78.14.26:4000/play/a04j/index.m3u8
-
-#EXTINF:-1 tvg-chno="263" group-title="Cine y Series" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/01.Logo-Cine-Premium-Alpha-Aoriginal-2048x1152.png" ,Cine Premium
+#EXTINF:-1 tvg-chno="233" group-title="Cine y Series"  tvg-id="CineLatino.ar" tvg-name="CineLatino.ar"  tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinelatino-mediano.png"  ,Cine Latino
+http://181.119.177.253:8000/play/a04r/index.m3u8
+#EXTINF:-1 tvg-chno="234" group-title="Cine y Series" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/01.Logo-Cine-Premium-Alpha-Aoriginal-2048x1152.png"  ,Cine Premium ᴴᴰ
 #EXTVLCOPT:http-user-agent=VLC
 http://209.14.108.65:8000/play/a08u/index.m3u8
-
-#EXTINF:-1 tvg-chno="264" group-title="Cine y Series" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/9249/9249_t-290x163.png" ,Claro Cinema
+#EXTINF:-1 tvg-chno="235" group-title="Cine y Series" tvg-logo="https://clarovideocdn3.clarovideo.net/EPG/REPORTTV/LOGOS/9249/9249_t-290x163.png"  ,Claro Cinema
 http://45.188.229.33:8000/play/a0wb/index.m3u8
-
-#EXTINF:-1 tvg-chno="265" group-title="Cine y Series" tvg-logo="https://cloverchannel.com/wp-content/uploads/2024/11/Clover_7.png.webp" ,Clover Channel
+#EXTINF:-1 tvg-chno="236" group-title="Cine y Series" tvg-logo="https://cloverchannel.com/wp-content/uploads/2024/11/Clover_7.png.webp"  ,Clover Channel
 http://45.188.229.33:8000/play/a1ka/index.m3u8
-
-#EXTINF:-1 tvg-chno="266" group-title="Cine y Series"  tvg-id="CineLatino.ar" tvg-name="CineLatino.ar"  tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/cinelatino-mediano.png" ,Cine Latino
-http://181.119.177.253:8000/play/a04r/index.m3u8
-
-#EXTINF:-1 tvg-chno="267" group-title="Cine y Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mc.png" ,Multicinema
-http://38.7.195.44:8000/play/a0e5
-
-#EXTINF:-1 tvg-chno="268" group-title="Cine y Series" ,Multipremier
+#EXTINF:-1 tvg-chno="238" group-title="Cine y Series" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/mc.png"  ,Multicinema
+http://181.119.177.253:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-chno="239" group-title="Cine y Series" ,Multipremier
 http://181.119.177.253:8000/play/a04q/index.m3u8
-
-#EXTINF:-1 tvg-chno="269" group-title="Cine y Series" tvg-logo="https://static.wixstatic.com/media/c5adb2_f7c6968b6d95404ca783ea44c7b30439~mv2.png/v1/fill/w_266,h_189,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image-empty-state.png" ,MX Drama
+#EXTINF:-1 tvg-chno="240" group-title="Cine y Series" tvg-logo="https://static.wixstatic.com/media/c5adb2_f7c6968b6d95404ca783ea44c7b30439~mv2.png/v1/fill/w_266,h_189,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image-empty-state.png"  ,MX Drama ᴴᴰ
 #EXTVLCOPT:http-user-agent=VLC
 http://38.7.195.44:8000/play/a0c0
-
-#EXTINF:-1 tvg-chno="270" group-title="Cine y Series" tvg-logo="https://static.wixstatic.com/media/c5adb2_2ece8c7444e645078f23972a4e84e2b6~mv2.png/v1/fill/w_266,h_189,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png" ,MX Prime
+#EXTINF:-1 tvg-chno="241" group-title="Cine y Series" tvg-logo="https://static.wixstatic.com/media/c5adb2_2ece8c7444e645078f23972a4e84e2b6~mv2.png/v1/fill/w_266,h_189,al_c,lg_1,q_85,enc_avif,quality_auto/Image-empty-state.png"  ,MX Prime ᴴᴰ
 http://38.7.195.44:8000/play/a0c6
-
-#EXTINF:-1 tvg-chno="280" group-title="Cine Retro"  tvg-id="Volver.ar" tvg-name="Volver.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" ,Volver
+#EXTINF:-1 tvg-chno="270" group-title="Cine Retro"  tvg-id="Volver.ar" tvg-name="Volver.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true"  ,Volver
 http://138.59.227.20:8000/play/a066/index.m3u8
-
-#EXTINF:-1 tvg-chno="281" group-title="Cine Retro"  tvg-id="DePelicula.ar" tvg-name="DePelicula.ar"  tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2024/12/logo-d-pelicula.png" ,De Película
-#EXTVLCOPT:http-user-agent=VLC
-http://181.78.14.26:4000/play/a07b/index.m3u8
-
-#EXTINF:-1 tvg-chno="283" group-title="Cine Retro"  tvg-id="TCM.ar" tvg-name="TCM.ar"  tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/328/328_t-290x163.png" ,TCM
+#EXTINF:-1 tvg-chno="271" group-title="Cine Retro"  tvg-id="DePelicula.ar" tvg-name="DePelicula.ar"  tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2024/12/logo-d-pelicula.png"  ,De Película ᴴᴰ
+http://181.78.14.26:4000/play/a0a6/index.m3u8
+#EXTINF:-1 tvg-chno="273" group-title="Cine Retro"  tvg-id="TCM.ar" tvg-name="TCM.ar"  tvg-logo="https://clarovideocdn1.clarovideo.net/EPG/REPORTTV/LOGOS/328/328_t-290x163.png"  ,TCM ᴴᴰ
 http://181.78.14.26:4000/play/a04d/index.m3u8
-
-#EXTINF:-1 tvg-chno="284" group-title="Cine Retro" tvg-logo="https://neotch.com/wp-content/uploads/2019/11/WESTERN-COLOR-720x700.png" ,Classic Western
-#EXTVLCOPT:http-user-agent=VLC
-http://38.7.195.44:8000/play/a0bt
-
-#EXTINF:-1 tvg-chno="287" group-title="Cine Retro" tvg-logo="https://github.com/Mosbysoomby/prolinea/blob/main/Logo2026/B%26N.png?raw=true" ,B&N
+#EXTINF:-1 tvg-chno="274" group-title="Cine Retro" tvg-logo="https://github.com/Mosbysoomby/prolinea/blob/main/Logo2026/B%26N.png?raw=true"  ,Blanco y Negro ᴴᴰ
 http://38.7.195.44:8000/play/a0c7
-
-#EXTINF:-1 tvg-chno="288" group-title="Cine Retro" tvg-logo="https://www.tvretropalmares.com/imagenes/Logo.png" ,Tv Retro Palmares
-https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8
-
-#EXTINF:-1 tvg-chno="290" group-title="Anime Pack"  tvg-id="AdultSwim.ar" tvg-name="AdultSwim.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" ,Adult Swim
-http://190.60.37.115:8001/play/a0lw/index.m3u8
-
-#EXTINF:-1 tvg-chno="291" group-title="Anime Pack" tvg-logo="https://www.mic.pe/Animash.png" ,Animash
+#EXTINF:-1 tvg-chno="275" group-title="Cine Retro" tvg-logo="https://neotch.com/wp-content/uploads/2019/11/WESTERN-COLOR-720x700.png"  ,Classic Western ᴴᴰ
+#EXTVLCOPT:http-user-agent=VLC
+http://38.7.195.44:8000/play/a0bu
+#EXTINF:-1 tvg-chno="290" group-title="Anime Pack"  tvg-id="AdultSwim.ar" tvg-name="AdultSwim.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true"  ,Adult Swim ᴴᴰ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/8.m3u8
+#EXTINF:-1 tvg-chno="291" group-title="Anime Pack" tvg-logo="https://www.mic.pe/Animash.png"  ,Animash ᴴᴰ
 http://38.7.195.44:8000/play/a0ce
-
-#EXTINF:-1 tvg-chno="292" group-title="Anime Pack" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" ,Locomotion
-http://146.19.49.197:81/live/loco_hi/index.m3u8
-
-#EXTINF:-1 tvg-chno="293" group-title="Anime Pack"  tvg-id="BITIME.mx" tvg-name="BITIME.mx"  tvg-logo="https://images.ctfassets.net/lx4ov5kud2ld/73e9v3uTqBtDkOjwf3lXA3/beb2986a588cffaa6aaece6911cef625/bitme.svg" ,Bitme
+#EXTINF:-1 tvg-chno="292" group-title="Anime Pack"  tvg-id="BITIME.mx" tvg-name="BITIME.mx"  tvg-logo="https://images.ctfassets.net/lx4ov5kud2ld/73e9v3uTqBtDkOjwf3lXA3/beb2986a588cffaa6aaece6911cef625/bitme.svg"  ,Bitme ᴴᴰ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=391ad12844fdb7c127e2c7ba23582b3b:6c9b3103cd519fcad556e84f918998cd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/145.0.0.0 Safari/537.36
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd
 
-#EXTINF:-1 tvg-chno="294" group-title="Anime Pack" tvg-logo="https://static.wikia.nocookie.net/tvficticia/images/2/2d/Laika_TV_(2026).png/revision/latest?cb=20260106194907&path-prefix=es" ,Laika Channel
-https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-chno="300" group-title="Life"  tvg-id="AandE.ar" tvg-name="AandE.ar"  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AETV.png?raw=true" ,A&E
 #EXTVLCOPT:http-user-agent=VLC
